@@ -1,0 +1,2063 @@
+symbol,name,Exchange,Sector
+AAPL,Apple Inc.,NasdaqGS,Technology
+MSFT,Microsoft Corporation,NasdaqGS,Technology
+GOOG,Alphabet Inc.,NasdaqGS,Communication Services
+GOOGL,Alphabet Inc.,NasdaqGS,Communication Services
+AMZN,"Amazon.com, Inc.",NasdaqGS,Consumer Cyclical
+NVDA,NVIDIA Corporation,NasdaqGS,Technology
+TSLA,"Tesla, Inc.",NasdaqGS,Consumer Cyclical
+META,"Meta Platforms, Inc.",NasdaqGS,Communication Services
+ASML,ASML Holding N.V.,NasdaqGS,Technology
+AVGO,Broadcom Inc.,NasdaqGS,Technology
+PEP,"PepsiCo, Inc.",NasdaqGS,Consumer Defensive
+AZN,AstraZeneca PLC,NasdaqGS,Healthcare
+COST,Costco Wholesale Corporation,NasdaqGS,Consumer Defensive
+CSCO,"Cisco Systems, Inc.",NasdaqGS,Technology
+TMUS,"T-Mobile US, Inc.",NasdaqGS,Communication Services
+CMCSA,Comcast Corporation,NasdaqGS,Communication Services
+ADBE,Adobe Inc.,NasdaqGS,Technology
+TXN,Texas Instruments Incorporated,NasdaqGS,Technology
+NFLX,"Netflix, Inc.",NasdaqGS,Communication Services
+AMGN,Amgen Inc.,NasdaqGS,Healthcare
+QCOM,QUALCOMM Incorporated,NasdaqGS,Technology
+HON,Honeywell International Inc.,NasdaqGS,Industrials
+SNY,Sanofi,NasdaqGS,Healthcare
+INTC,Intel Corporation,NasdaqGS,Technology
+SBUX,Starbucks Corporation,NasdaqGS,Consumer Cyclical
+PDD,Pinduoduo Inc.,NasdaqGS,Consumer Cyclical
+AMD,"Advanced Micro Devices, Inc.",NasdaqGS,Technology
+INTU,Intuit Inc.,NasdaqGS,Technology
+JD,"JD.com, Inc.",NasdaqGS,Consumer Cyclical
+GILD,"Gilead Sciences, Inc.",NasdaqGS,Healthcare
+ADP,"Automatic Data Processing, Inc.",NasdaqGS,Industrials
+AMAT,"Applied Materials, Inc.",NasdaqGS,Technology
+BKNG,Booking Holdings Inc.,NasdaqGS,Consumer Cyclical
+ISRG,"Intuitive Surgical, Inc.",NasdaqGS,Healthcare
+PYPL,"PayPal Holdings, Inc.",NasdaqGS,Financial Services
+MDLZ,"Mondelez International, Inc.",NasdaqGS,Consumer Defensive
+ADI,"Analog Devices, Inc.",NasdaqGS,Technology
+VRTX,Vertex Pharmaceuticals Incorporated,NasdaqGS,Healthcare
+REGN,"Regeneron Pharmaceuticals, Inc.",NasdaqGS,Healthcare
+MRNA,"Moderna, Inc.",NasdaqGS,Healthcare
+CSX,CSX Corporation,NasdaqGS,Industrials
+EQIX,"Equinix, Inc.",NasdaqGS,Real Estate
+FISV,"Fiserv, Inc.",NasdaqGS,Technology
+LRCX,Lam Research Corporation,NasdaqGS,Technology
+ABNB,"Airbnb, Inc.",NasdaqGS,Consumer Cyclical
+MU,"Micron Technology, Inc.",NasdaqGS,Technology
+CME,CME Group Inc.,NasdaqGS,Financial Services
+CHTR,"Charter Communications, Inc.",NasdaqGS,Communication Services
+KLAC,KLA Corporation,NasdaqGS,Technology
+NTES,"NetEase, Inc.",NasdaqGS,Communication Services
+ATVI,"Activision Blizzard, Inc.",NasdaqGS,Communication Services
+MELI,"MercadoLibre, Inc.",NasdaqGS,Consumer Cyclical
+MAR,"Marriott International, Inc.",NasdaqGS,Consumer Cyclical
+MNST,Monster Beverage Corporation,NasdaqGS,Consumer Defensive
+SNPS,"Synopsys, Inc.",NasdaqGS,Technology
+ORLY,"O'Reilly Automotive, Inc.",NasdaqGS,Consumer Cyclical
+KDP,Keurig Dr Pepper Inc.,NasdaqGS,Consumer Defensive
+CDNS,"Cadence Design Systems, Inc.",NasdaqGS,Technology
+KHC,The Kraft Heinz Company,NasdaqGS,Consumer Defensive
+AEP,"American Electric Power Company, Inc.",NasdaqGS,Utilities
+BIDU,"Baidu, Inc.",NasdaqGS,Communication Services
+WDAY,"Workday, Inc.",NasdaqGS,Technology
+ADSK,"Autodesk, Inc.",NasdaqGS,Technology
+CTAS,Cintas Corporation,NasdaqGS,Industrials
+PANW,"Palo Alto Networks, Inc.",NasdaqGS,Technology
+NXPI,NXP Semiconductors N.V.,NasdaqGS,Technology
+PAYX,"Paychex, Inc.",NasdaqGS,Industrials
+EXC,Exelon Corporation,NasdaqGS,Utilities
+DXCM,"DexCom, Inc.",NasdaqGS,Healthcare
+BIIB,Biogen Inc.,NasdaqGS,Healthcare
+IDXX,"IDEXX Laboratories, Inc.",NasdaqGS,Healthcare
+MCHP,Microchip Technology Incorporated,NasdaqGS,Technology
+TEAM,Atlassian Corporation,NasdaqGS,Technology
+LULU,Lululemon Athletica Inc.,NasdaqGS,Consumer Cyclical
+ROST,"Ross Stores, Inc.",NasdaqGS,Consumer Cyclical
+FTNT,"Fortinet, Inc.",NasdaqGS,Technology
+XEL,Xcel Energy Inc.,NasdaqGS,Utilities
+ODFL,"Old Dominion Freight Line, Inc.",NasdaqGS,Industrials
+EA,Electronic Arts Inc.,NasdaqGS,Communication Services
+BNTX,BioNTech SE,NasdaqGS,Healthcare
+PCAR,PACCAR Inc,NasdaqGS,Industrials
+MRVL,"Marvell Technology, Inc.",NasdaqGS,Technology
+IBKR,"Interactive Brokers Group, Inc.",NasdaqGS,Financial Services
+DLTR,"Dollar Tree, Inc.",NasdaqGS,Consumer Defensive
+CTSH,Cognizant Technology Solutions Corporation,NasdaqGS,Technology
+ILMN,"Illumina, Inc.",NasdaqGS,Healthcare
+SBAC,SBA Communications Corporation,NasdaqGS,Real Estate
+CSGP,"CoStar Group, Inc.",NasdaqGS,Real Estate
+WBD,"Warner Bros. Discovery, Inc.",NasdaqGS,Communication Services
+BKR,Baker Hughes Company,NasdaqGS,Energy
+VOD,Vodafone Group Public Limited Company,NasdaqGS,Communication Services
+WBA,"Walgreens Boots Alliance, Inc.",NasdaqGS,Healthcare
+GFS,GLOBALFOUNDRIES Inc.,NasdaqGS,Technology
+NDAQ,"Nasdaq, Inc.",NasdaqGS,Financial Services
+CPRT,"Copart, Inc.",NasdaqGS,Consumer Cyclical
+ON,ON Semiconductor Corporation,NasdaqGS,Technology
+VRSK,"Verisk Analytics, Inc.",NasdaqGS,Industrials
+ALNY,"Alnylam Pharmaceuticals, Inc.",NasdaqGS,Healthcare
+FAST,Fastenal Company,NasdaqGS,Industrials
+BGNE,"BeiGene, Ltd.",NasdaqGS,Healthcare
+MBLY,Mobileye Global Inc.,NasdaqGS,Consumer Cyclical
+WTW,Willis Towers Watson Public Limited Company,NasdaqGS,Financial Services
+CEG,Constellation Energy Corporation,NasdaqGS,Utilities
+CDW,CDW Corporation,NasdaqGS,Technology
+FANG,"Diamondback Energy, Inc.",NasdaqGS,Energy
+GMAB,Genmab A/S,NasdaqGS,Healthcare
+TROW,"T. Rowe Price Group, Inc.",NasdaqGS,Financial Services
+CCEP,Coca-Cola Europacific Partners PLC,NasdaqGS,Consumer Defensive
+HZNP,Horizon Therapeutics Public Limited Company,NasdaqGS,Healthcare
+EBAY,eBay Inc.,NasdaqGS,Consumer Cyclical
+ULTA,"Ulta Beauty, Inc.",NasdaqGS,Consumer Cyclical
+TCOM,Trip.com Group Limited,NasdaqGS,Consumer Cyclical
+SGEN,Seagen Inc.,NasdaqGS,Healthcare
+CRWD,"CrowdStrike Holdings, Inc.",NasdaqGS,Technology
+FITB,Fifth Third Bancorp,NasdaqGS,Financial Services
+TSCO,Tractor Supply Company,NasdaqGS,Consumer Cyclical
+ACGL,Arch Capital Group Ltd.,NasdaqGS,Financial Services
+VRSN,"VeriSign, Inc.",NasdaqGS,Technology
+SIRI,Sirius XM Holdings Inc.,NasdaqGS,Communication Services
+DDOG,"Datadog, Inc.",NasdaqGS,Technology
+ANSS,"ANSYS, Inc.",NasdaqGS,Technology
+ARGX,argenx SE,NasdaqGS,Healthcare
+LI,Li Auto Inc.,NasdaqGS,Consumer Cyclical
+PFG,"Principal Financial Group, Inc.",NasdaqGS,Financial Services
+RYAAY,Ryanair Holdings plc,NasdaqGS,Industrials
+BMRN,BioMarin Pharmaceutical Inc.,NasdaqGS,Healthcare
+PODD,Insulet Corporation,NasdaqGS,Healthcare
+HBAN,Huntington Bancshares Incorporated,NasdaqGS,Financial Services
+ZM,"Zoom Video Communications, Inc.",NasdaqGS,Technology
+JBHT,"J.B. Hunt Transport Services, Inc.",NasdaqGS,Industrials
+HOLX,"Hologic, Inc.",NasdaqGS,Healthcare
+ERIC,Telefonaktiebolaget LM Ericsson (publ),NasdaqGS,Technology
+NTRS,Northern Trust Corporation,NasdaqGS,Financial Services
+ALGN,"Align Technology, Inc.",NasdaqGS,Healthcare
+STLD,"Steel Dynamics, Inc.",NasdaqGS,Basic Materials
+ICLR,ICON Public Limited Company,NasdaqGS,Healthcare
+BZ,Kanzhun Limited,NasdaqGS,Industrials
+MPWR,"Monolithic Power Systems, Inc.",NasdaqGS,Technology
+INCY,Incyte Corporation,NasdaqGS,Healthcare
+WMG,Warner Music Group Corp.,NasdaqGS,Communication Services
+FSLR,"First Solar, Inc.",NasdaqGS,Technology
+TTWO,"Take-Two Interactive Software, Inc.",NasdaqGS,Communication Services
+LPLA,LPL Financial Holdings Inc.,NasdaqGS,Financial Services
+IEP,Icahn Enterprises L.P.,NasdaqGS,Industrials
+FITBI,Fifth Third Bancorp,NasdaqGS,Financial Services
+EXPE,"Expedia Group, Inc.",NasdaqGS,Consumer Cyclical
+SIVB,SVB Financial Group,NasdaqGS,Financial Services
+EXPD,"Expeditors International of Washington, Inc.",NasdaqGS,Industrials
+RPRX,Royalty Pharma plc,NasdaqGS,Healthcare
+ZS,"Zscaler, Inc.",NasdaqGS,Technology
+FOX,Fox Corporation,NasdaqGS,Communication Services
+TW,Tradeweb Markets Inc.,NasdaqGS,Financial Services
+FOXA,Fox Corporation,NasdaqGS,Communication Services
+ETSY,"Etsy, Inc.",NasdaqGS,Consumer Cyclical
+CHKP,Check Point Software Technologies Ltd.,NasdaqGS,Technology
+SWKS,"Skyworks Solutions, Inc.",NasdaqGS,Technology
+SEDG,"SolarEdge Technologies, Inc.",NasdaqGS,Technology
+FWONA,Formula One Group,NasdaqGS,Communication Services
+FWONK,Formula One Group,NasdaqGS,Communication Services
+UAL,"United Airlines Holdings, Inc.",NasdaqGS,Industrials
+CINF,Cincinnati Financial Corporation,NasdaqGS,Financial Services
+HTHT,H World Group Limited,NasdaqGS,Consumer Cyclical
+PTC,PTC Inc.,NasdaqGS,Technology
+ZBRA,Zebra Technologies Corporation,NasdaqGS,Technology
+TER,"Teradyne, Inc.",NasdaqGS,Technology
+LKQ,LKQ Corporation,NasdaqGS,Consumer Cyclical
+SPLK,Splunk Inc.,NasdaqGS,Technology
+APA,APA Corporation,NasdaqGS,Energy
+COIN,"Coinbase Global, Inc.",NasdaqGS,Technology
+RIVN,"Rivian Automotive, Inc.",NasdaqGS,Consumer Cyclical
+LCID,"Lucid Group, Inc.",NasdaqGS,Consumer Cyclical
+SSNC,"SS&C Technologies Holdings, Inc.",NasdaqGS,Technology
+GRAB,Grab Holdings Limited,NasdaqGS,Technology
+NTAP,"NetApp, Inc.",NasdaqGS,Technology
+MTCH,"Match Group, Inc.",NasdaqGS,Communication Services
+VTRS,Viatris Inc.,NasdaqGS,Healthcare
+AKAM,"Akamai Technologies, Inc.",NasdaqGS,Technology
+POOL,Pool Corporation,NasdaqGS,Industrials
+TRMB,Trimble Inc.,NasdaqGS,Technology
+EVRG,"Evergy, Inc.",NasdaqGS,Utilities
+LNT,Alliant Energy Corporation,NasdaqGS,Utilities
+ACGLO,Arch Capital Group Ltd.,NasdaqGS,Financial Services
+LBRDK,Liberty Broadband Corporation,NasdaqGS,Communication Services
+LBRDA,Liberty Broadband Corporation,NasdaqGS,Communication Services
+GLPI,"Gaming and Leisure Properties, Inc.",NasdaqGS,Real Estate
+NICE,NICE Ltd.,NasdaqGS,Technology
+NDSN,Nordson Corporation,NasdaqGS,Industrials
+PARAA,Paramount Global,NasdaqGS,Communication Services
+PARA,Paramount Global,NasdaqGS,Communication Services
+AXON,"Axon Enterprise, Inc.",NasdaqGS,Industrials
+LSXMK,The Liberty SiriusXM Group,NasdaqGS,Communication Services
+LSXMA,The Liberty SiriusXM Group,NasdaqGS,Communication Services
+JKHY,"Jack Henry & Associates, Inc.",NasdaqGS,Technology
+TECH,Bio-Techne Corporation,NasdaqGS,Healthcare
+HST,"Host Hotels & Resorts, Inc.",NasdaqGS,Real Estate
+ERIE,Erie Indemnity Company,NasdaqGS,Financial Services
+LSXMB,The Liberty SiriusXM Group,NasdaqGS,Communication Services
+AZPN,"Aspen Technology, Inc.",NasdaqGS,Technology
+MKTX,MarketAxess Holdings Inc.,NasdaqGS,Financial Services
+BPYPP,Brookfield Property Partners L.P.,NasdaqGS,Real Estate
+CG,The Carlyle Group Inc.,NasdaqGS,Financial Services
+STX,Seagate Technology Holdings plc,NasdaqGS,Technology
+WDC,Western Digital Corporation,NasdaqGS,Technology
+CHK,Chesapeake Energy Corporation,NasdaqGS,Energy
+UTHR,United Therapeutics Corporation,NasdaqGS,Healthcare
+ENTG,"Entegris, Inc.",NasdaqGS,Technology
+FCNCA,"First Citizens BancShares, Inc.",NasdaqGS,Financial Services
+SRPT,"Sarepta Therapeutics, Inc.",NasdaqGS,Healthcare
+ZI,ZoomInfo Technologies Inc.,NasdaqGS,Technology
+DOCU,"DocuSign, Inc.",NasdaqGS,Technology
+WYNN,"Wynn Resorts, Limited",NasdaqGS,Consumer Cyclical
+PCTY,Paylocity Holding Corporation,NasdaqGS,Technology
+NWS,News Corporation,NasdaqGS,Communication Services
+NWSA,News Corporation,NasdaqGS,Communication Services
+REG,Regency Centers Corporation,NasdaqGS,Real Estate
+BSY,"Bentley Systems, Incorporated",NasdaqGS,Technology
+CHRW,"C.H. Robinson Worldwide, Inc.",NasdaqGS,Industrials
+OKTA,"Okta, Inc.",NasdaqGS,Technology
+FLEX,Flex Ltd.,NasdaqGS,Technology
+HSIC,"Henry Schein, Inc.",NasdaqGS,Healthcare
+DOX,Amdocs Limited,NasdaqGS,Technology
+NBIX,"Neurocrine Biosciences, Inc.",NasdaqGS,Healthcare
+AAL,American Airlines Group Inc.,NasdaqGS,Industrials
+FIVE,"Five Below, Inc.",NasdaqGS,Consumer Cyclical
+BRKR,Bruker Corporation,NasdaqGS,Healthcare
+QRVO,"Qorvo, Inc.",NasdaqGS,Technology
+RGEN,Repligen Corporation,NasdaqGS,Healthcare
+MORN,"Morningstar, Inc.",NasdaqGS,Financial Services
+CZR,"Caesars Entertainment, Inc.",NasdaqGS,Consumer Cyclical
+Z,"Zillow Group, Inc.",NasdaqGS,Communication Services
+LAMR,Lamar Advertising Company,NasdaqGS,Real Estate
+ZG,"Zillow Group, Inc.",NasdaqGS,Communication Services
+LBTYK,Liberty Global plc,NasdaqGS,Communication Services
+LBTYA,Liberty Global plc,NasdaqGS,Communication Services
+TPG,TPG Inc.,NasdaqGS,Financial Services
+LSCC,Lattice Semiconductor Corporation,NasdaqGS,Technology
+JAZZ,Jazz Pharmaceuticals plc,NasdaqGS,Healthcare
+LBTYB,Liberty Global plc,NasdaqGS,Communication Services
+BILI,Bilibili Inc.,NasdaqGS,Communication Services
+EWBC,"East West Bancorp, Inc.",NasdaqGS,Financial Services
+XP,XP Inc.,NasdaqGS,Financial Services
+NVCR,NovoCure Limited,NasdaqGS,Healthcare
+CHDN,Churchill Downs Incorporated,NasdaqGS,Consumer Cyclical
+LEGN,Legend Biotech Corporation,NasdaqGS,Healthcare
+LECO,"Lincoln Electric Holdings, Inc.",NasdaqGS,Industrials
+LOGI,Logitech International S.A.,NasdaqGS,Technology
+OTEX,Open Text Corporation,NasdaqGS,Technology
+CGNX,Cognex Corporation,NasdaqGS,Technology
+MASI,Masimo Corporation,NasdaqGS,Healthcare
+HAS,"Hasbro, Inc.",NasdaqGS,Consumer Cyclical
+FFIV,"F5, Inc.",NasdaqGS,Technology
+AGNCN,AGNC Investment Corp.,NasdaqGS,Real Estate
+PAA,"Plains All American Pipeline, L.P.",NasdaqGS,Energy
+CASY,"Casey's General Stores, Inc.",NasdaqGS,Consumer Cyclical
+SEIC,SEI Investments Company,NasdaqGS,Financial Services
+RGLD,"Royal Gold, Inc.",NasdaqGS,Basic Materials
+DBX,"Dropbox, Inc.",NasdaqGS,Technology
+CBSH,"Commerce Bancshares, Inc.",NasdaqGS,Financial Services
+TTEK,"Tetra Tech, Inc.",NasdaqGS,Industrials
+SBNY,Signature Bank,NasdaqGS,Financial Services
+CAR,"Avis Budget Group, Inc.",NasdaqGS,Industrials
+HOOD,"Robinhood Markets, Inc.",NasdaqGS,Technology
+XRAY,DENTSPLY SIRONA Inc.,NasdaqGS,Healthcare
+MIDD,The Middleby Corporation,NasdaqGS,Industrials
+GRFS,"Grifols, S.A.",NasdaqGS,Healthcare
+ZION,"Zions Bancorporation, National Association",NasdaqGS,Financial Services
+ACHC,"Acadia Healthcare Company, Inc.",NasdaqGS,Healthcare
+AGNCM,AGNC Investment Corp.,NasdaqGS,Real Estate
+ESLT,Elbit Systems Ltd.,NasdaqGS,Industrials
+MANH,"Manhattan Associates, Inc.",NasdaqGS,Technology
+CROX,"Crocs, Inc.",NasdaqGS,Consumer Cyclical
+IRDM,Iridium Communications Inc.,NasdaqGS,Communication Services
+NFE,New Fortress Energy Inc.,NasdaqGS,Utilities
+DISH,DISH Network Corporation,NasdaqGS,Communication Services
+CNXC,Concentrix Corporation,NasdaqGS,Technology
+ROKU,"Roku, Inc.",NasdaqGS,Communication Services
+MEDP,"Medpace Holdings, Inc.",NasdaqGS,Healthcare
+AMKR,"Amkor Technology, Inc.",NasdaqGS,Technology
+NATI,National Instruments Corporation,NasdaqGS,Technology
+FYBR,"Frontier Communications Parent, Inc.",NasdaqGS,Communication Services
+MAT,"Mattel, Inc.",NasdaqGS,Consumer Cyclical
+ASND,Ascendis Pharma A/S,NasdaqGS,Healthcare
+NXST,"Nexstar Media Group, Inc.",NasdaqGS,Communication Services
+HALO,"Halozyme Therapeutics, Inc.",NasdaqGS,Healthcare
+GTLB,GitLab Inc.,NasdaqGS,Technology
+YNDX,Yandex N.V.,NasdaqGS,Communication Services
+GNTX,Gentex Corporation,NasdaqGS,Consumer Cyclical
+XM,Qualtrics International Inc.,NasdaqGS,Technology
+MKSI,"MKS Instruments, Inc.",NasdaqGS,Technology
+TXRH,"Texas Roadhouse, Inc.",NasdaqGS,Consumer Cyclical
+AGNC,AGNC Investment Corp.,NasdaqGS,Real Estate
+SAIA,"Saia, Inc.",NasdaqGS,Industrials
+BOKF,BOK Financial Corporation,NasdaqGS,Financial Services
+SWAV,"ShockWave Medical, Inc.",NasdaqGS,Healthcare
+WWD,"Woodward, Inc.",NasdaqGS,Industrials
+CHX,ChampionX Corporation,NasdaqGS,Energy
+DOOO,BRP Inc.,NasdaqGS,Consumer Cyclical
+PDCE,"PDC Energy, Inc.",NasdaqGS,Energy
+DKNG,DraftKings Inc.,NasdaqGS,Consumer Cyclical
+NWL,Newell Brands Inc.,NasdaqGS,Consumer Defensive
+ALGM,"Allegro MicroSystems, Inc.",NasdaqGS,Technology
+NTNX,"Nutanix, Inc.",NasdaqGS,Technology
+JSM,Navient Corporation SR NT 6% 121543,NasdaqGS,
+PPC,Pilgrim's Pride Corporation,NasdaqGS,Consumer Defensive
+CFLT,"Confluent, Inc.",NasdaqGS,Technology
+REYN,Reynolds Consumer Products Inc.,NasdaqGS,Consumer Cyclical
+OLED,Universal Display Corporation,NasdaqGS,Technology
+FSV,FirstService Corporation,NasdaqGS,Real Estate
+LSTR,"Landstar System, Inc.",NasdaqGS,Industrials
+COUP,Coupa Software Incorporated,NasdaqGS,Technology
+LFUS,"Littelfuse, Inc.",NasdaqGS,Technology
+DSGX,The Descartes Systems Group Inc.,NasdaqGS,Technology
+CHRD,Chord Energy Corporation,NasdaqGS,Energy
+LNW,"Light & Wonder, Inc.",NasdaqGS,Consumer Cyclical
+MLCO,Melco Resorts & Entertainment Limited,NasdaqGS,Consumer Cyclical
+SSB,SouthState Corporation,NasdaqGS,Financial Services
+QDEL,QuidelOrtho Corporation,NasdaqGS,Healthcare
+IONS,"Ionis Pharmaceuticals, Inc.",NasdaqGS,Healthcare
+APLS,"Apellis Pharmaceuticals, Inc.",NasdaqGS,Healthcare
+HTZ,"Hertz Global Holdings, Inc.",NasdaqGS,Industrials
+VLY,Valley National Bancorp,NasdaqGS,Financial Services
+EXLS,"ExlService Holdings, Inc.",NasdaqGS,Technology
+LYFT,"Lyft, Inc.",NasdaqGS,Technology
+PNFP,"Pinnacle Financial Partners, Inc.",NasdaqGS,Financial Services
+KNBE,"KnowBe4, Inc.",NasdaqGS,Technology
+RUN,Sunrun Inc.,NasdaqGS,Technology
+COLM,Columbia Sportswear Company,NasdaqGS,Consumer Cyclical
+MDGL,"Madrigal Pharmaceuticals, Inc.",NasdaqGS,Healthcare
+NOVT,Novanta Inc.,NasdaqGS,Technology
+SIGI,"Selective Insurance Group, Inc.",NasdaqGS,Financial Services
+TXG,"10x Genomics, Inc.",NasdaqGS,Healthcare
+RCM,R1 RCM Inc.,NasdaqGS,Healthcare
+EEFT,"Euronet Worldwide, Inc.",NasdaqGS,Technology
+EXEL,"Exelixis, Inc.",NasdaqGS,Healthcare
+IQ,"iQIYI, Inc.",NasdaqGS,Communication Services
+CCCS,CCC Intelligent Solutions Holdings Inc.,NasdaqGS,Technology
+CYBR,CyberArk Software Ltd.,NasdaqGS,Technology
+RXDX,"Prometheus Biosciences, Inc.",NasdaqGS,Healthcare
+HCP,"HashiCorp, Inc.",NasdaqGS,Technology
+UFPI,"UFP Industries, Inc.",NasdaqGS,Basic Materials
+VNOM,Viper Energy Partners LP,NasdaqGS,Energy
+UBSI,"United Bankshares, Inc.",NasdaqGS,Financial Services
+LANC,Lancaster Colony Corporation,NasdaqGS,Consumer Defensive
+WTFC,Wintrust Financial Corporation,NasdaqGS,Financial Services
+ONB,Old National Bancorp,NasdaqGS,Financial Services
+CACC,Credit Acceptance Corporation,NasdaqGS,Financial Services
+IPGP,IPG Photonics Corporation,NasdaqGS,Technology
+WB,Weibo Corporation,NasdaqGS,Communication Services
+ENSG,"The Ensign Group, Inc.",NasdaqGS,Healthcare
+EXPO,"Exponent, Inc.",NasdaqGS,Industrials
+MNDY,monday.com Ltd.,NasdaqGS,Technology
+LHCG,"LHC Group, Inc.",NasdaqGS,Healthcare
+PENN,"PENN Entertainment, Inc.",NasdaqGS,Consumer Cyclical
+OPCH,"Option Care Health, Inc.",NasdaqGS,Healthcare
+OZK,Bank OZK,NasdaqGS,Financial Services
+WIX,Wix.com Ltd.,NasdaqGS,Technology
+BPOP,"Popular, Inc.",NasdaqGS,Financial Services
+SLAB,Silicon Laboratories Inc.,NasdaqGS,Technology
+FFIN,"First Financial Bankshares, Inc.",NasdaqGS,Financial Services
+SPSC,"SPS Commerce, Inc.",NasdaqGS,Technology
+IAC,IAC Inc.,NasdaqGS,Communication Services
+DLO,DLocal Limited,NasdaqGS,Technology
+SRCL,"Stericycle, Inc.",NasdaqGS,Industrials
+HQY,"HealthEquity, Inc.",NasdaqGS,Healthcare
+POWI,"Power Integrations, Inc.",NasdaqGS,Technology
+WEN,The Wendy's Company,NasdaqGS,Consumer Cyclical
+SHC,Sotera Health Company,NasdaqGS,Healthcare
+CRUS,"Cirrus Logic, Inc.",NasdaqGS,Technology
+TSEM,Tower Semiconductor Ltd.,NasdaqGS,Technology
+IART,Integra LifeSciences Holdings Corporation,NasdaqGS,Healthcare
+NVEI,Nuvei Corporation,NasdaqGS,Technology
+SYNA,Synaptics Incorporated,NasdaqGS,Technology
+DRVN,Driven Brands Holdings Inc.,NasdaqGS,Consumer Cyclical
+TENB,"Tenable Holdings, Inc.",NasdaqGS,Technology
+ALKS,Alkermes plc,NasdaqGS,Healthcare
+ITCI,"Intra-Cellular Therapies, Inc.",NasdaqGS,Healthcare
+SOFI,"SoFi Technologies, Inc.",NasdaqGS,Financial Services
+COKE,"Coca-Cola Consolidated, Inc.",NasdaqGS,Consumer Defensive
+RMBS,Rambus Inc.,NasdaqGS,Technology
+ICUI,"ICU Medical, Inc.",NasdaqGS,Healthcare
+NTRA,"Natera, Inc.",NasdaqGS,Healthcare
+BMBL,Bumble Inc.,NasdaqGS,Technology
+MTSI,"MACOM Technology Solutions Holdings, Inc.",NasdaqGS,Technology
+FOXF,Fox Factory Holding Corp.,NasdaqGS,Consumer Cyclical
+CIGI,Colliers International Group Inc.,NasdaqGS,Real Estate
+FRSH,Freshworks Inc.,NasdaqGS,Technology
+PECO,"Phillips Edison & Company, Inc.",NasdaqGS,Real Estate
+ESGR,Enstar Group Limited,NasdaqGS,Financial Services
+NEOG,Neogen Corporation,NasdaqGS,Healthcare
+WING,Wingstop Inc.,NasdaqGS,Consumer Cyclical
+ASO,"Academy Sports and Outdoors, Inc.",NasdaqGS,Consumer Cyclical
+TFSL,TFS Financial Corporation,NasdaqGS,Financial Services
+ALTR,Altair Engineering Inc.,NasdaqGS,Technology
+PYCR,"Paycor HCM, Inc.",NasdaqGS,Technology
+AFRM,"Affirm Holdings, Inc.",NasdaqGS,Technology
+SLM,SLM Corporation,NasdaqGS,Financial Services
+QLYS,"Qualys, Inc.",NasdaqGS,Technology
+HWC,Hancock Whitney Corporation,NasdaqGS,Financial Services
+VC,Visteon Corporation,NasdaqGS,Consumer Cyclical
+FCFS,"FirstCash Holdings, Inc",NasdaqGS,Financial Services
+BHFAP,"Brighthouse Financial, Inc.",NasdaqGS,Financial Services
+BL,"BlackLine, Inc.",NasdaqGS,Technology
+UMBF,UMB Financial Corporation,NasdaqGS,Financial Services
+CWST,"Casella Waste Systems, Inc.",NasdaqGS,Industrials
+APP,AppLovin Corporation,NasdaqGS,Technology
+SGRY,"Surgery Partners, Inc.",NasdaqGS,Healthcare
+BCPC,Balchem Corporation,NasdaqGS,Basic Materials
+AVT,"Avnet, Inc.",NasdaqGS,Technology
+ZD,"Ziff Davis, Inc.",NasdaqGS,Communication Services
+PAAS,Pan American Silver Corp.,NasdaqGS,Basic Materials
+PINC,"Premier, Inc.",NasdaqGS,Healthcare
+LITE,Lumentum Holdings Inc.,NasdaqGS,Technology
+FIZZ,National Beverage Corp.,NasdaqGS,Consumer Defensive
+MMSI,"Merit Medical Systems, Inc.",NasdaqGS,Healthcare
+SLMBP,SLM Corporation,NasdaqGS,Financial Services
+ACT,"Enact Holdings, Inc.",NasdaqGS,Financial Services
+AIMC,Altra Industrial Motion Corp.,NasdaqGS,Industrials
+HLNE,Hamilton Lane Incorporated,NasdaqGS,Financial Services
+FIBK,"First Interstate BancSystem, Inc.",NasdaqGS,Financial Services
+WFRD,Weatherford International plc,NasdaqGS,Energy
+CYTK,"Cytokinetics, Incorporated",NasdaqGS,Healthcare
+DNLI,Denali Therapeutics Inc.,NasdaqGS,Healthcare
+FELE,"Franklin Electric Co., Inc.",NasdaqGS,Industrials
+DIOD,Diodes Incorporated,NasdaqGS,Technology
+OLPX,"Olaplex Holdings, Inc.",NasdaqGS,Consumer Cyclical
+FLNC,"Fluence Energy, Inc.",NasdaqGS,Utilities
+GLBE,Global-e Online Ltd.,NasdaqGS,Consumer Cyclical
+AAON,"AAON, Inc.",NasdaqGS,Industrials
+AZTA,"Azenta, Inc.",NasdaqGS,Healthcare
+ARWR,"Arrowhead Pharmaceuticals, Inc.",NasdaqGS,Healthcare
+NSIT,"Insight Enterprises, Inc.",NasdaqGS,Technology
+SMCI,"Super Micro Computer, Inc.",NasdaqGS,Technology
+PTON,"Peloton Interactive, Inc.",NasdaqGS,Consumer Cyclical
+ABCM,Abcam plc,NasdaqGS,Healthcare
+PCH,PotlatchDeltic Corporation,NasdaqGS,Real Estate
+PLTK,Playtika Holding Corp.,NasdaqGS,Communication Services
+VIR,"Vir Biotechnology, Inc.",NasdaqGS,Healthcare
+UCBI,"United Community Banks, Inc.",NasdaqGS,Financial Services
+BHF,"Brighthouse Financial, Inc.",NasdaqGS,Financial Services
+WTFCM,Wintrust Financial Corporation,NasdaqGS,Financial Services
+UMPQ,Umpqua Holdings Corporation,NasdaqGS,Financial Services
+SYNH,"Syneos Health, Inc.",NasdaqGS,Healthcare
+DADA,Dada Nexus Limited,NasdaqGS,Consumer Cyclical
+IPAR,"Inter Parfums, Inc.",NasdaqGS,Consumer Defensive
+MRVI,"Maravai LifeSciences Holdings, Inc.",NasdaqGS,Healthcare
+QFIN,"360 DigiTech, Inc.",NasdaqGS,Financial Services
+PCVX,"Vaxcyte, Inc.",NasdaqGS,Healthcare
+OMAB,"Grupo Aeroportuario del Centro Norte, S.A.B. de C.V.",NasdaqGS,Industrials
+SSRM,SSR Mining Inc.,NasdaqGS,Basic Materials
+MQ,"Marqeta, Inc.",NasdaqGS,Technology
+INDB,Independent Bank Corp.,NasdaqGS,Financial Services
+EVO,Evotec SE,NasdaqGS,Healthcare
+BECN,"Beacon Roofing Supply, Inc.",NasdaqGS,Industrials
+LOPE,"Grand Canyon Education, Inc.",NasdaqGS,Consumer Defensive
+PTCT,"PTC Therapeutics, Inc.",NasdaqGS,Healthcare
+SANM,Sanmina Corporation,NasdaqGS,Technology
+PTEN,"Patterson-UTI Energy, Inc.",NasdaqGS,Energy
+CVBF,CVB Financial Corp.,NasdaqGS,Financial Services
+TWKS,"Thoughtworks Holding, Inc.",NasdaqGS,Technology
+AEIS,"Advanced Energy Industries, Inc.",NasdaqGS,Industrials
+DUOL,"Duolingo, Inc.",NasdaqGS,Technology
+VIRT,"Virtu Financial, Inc.",NasdaqGS,Financial Services
+VLYPO,Valley National Bancorp,NasdaqGS,Financial Services
+ACLS,"Axcelis Technologies, Inc.",NasdaqGS,Technology
+NARI,"Inari Medical, Inc.",NasdaqGS,Healthcare
+ONEM,"1Life Healthcare, Inc.",NasdaqGS,Healthcare
+ABCB,Ameris Bancorp,NasdaqGS,Financial Services
+AMBA,"Ambarella, Inc.",NasdaqGS,Technology
+ESGRO,Enstar Group Limited,NasdaqGS,Financial Services
+NWE,NorthWestern Corporation,NasdaqGS,Utilities
+PI,"Impinj, Inc.",NasdaqGS,Technology
+FHB,"First Hawaiian, Inc.",NasdaqGS,Financial Services
+SFM,"Sprouts Farmers Market, Inc.",NasdaqGS,Consumer Defensive
+STGW,Stagwell Inc.,NasdaqGS,Communication Services
+ACIW,"ACI Worldwide, Inc.",NasdaqGS,Technology
+ESGRP,Enstar Group Limited,NasdaqGS,Financial Services
+CCOI,"Cogent Communications Holdings, Inc.",NasdaqGS,Communication Services
+GH,"Guardant Health, Inc.",NasdaqGS,Healthcare
+MMYT,MakeMyTrip Limited,NasdaqGS,Consumer Cyclical
+GT,The Goodyear Tire & Rubber Company,NasdaqGS,Consumer Cyclical
+BLKB,"Blackbaud, Inc.",NasdaqGS,Technology
+MEOH,Methanex Corporation,NasdaqGS,Basic Materials
+TRIP,"Tripadvisor, Inc.",NasdaqGS,Consumer Cyclical
+TCBI,"Texas Capital Bancshares, Inc.",NasdaqGS,Financial Services
+SRAD,Sportradar Group AG,NasdaqGS,Technology
+CATY,Cathay General Bancorp,NasdaqGS,Financial Services
+PAGP,"Plains GP Holdings, L.P.",NasdaqGS,Energy
+VLYPP,Valley National Bancorp,NasdaqGS,Financial Services
+BEAM,Beam Therapeutics Inc.,NasdaqGS,Healthcare
+ACAD,ACADIA Pharmaceuticals Inc.,NasdaqGS,Healthcare
+PEGA,Pegasystems Inc.,NasdaqGS,Technology
+AY,Atlantica Sustainable Infrastructure plc,NasdaqGS,Utilities
+EBC,"Eastern Bankshares, Inc.",NasdaqGS,Financial Services
+PLXS,Plexus Corp.,NasdaqGS,Technology
+GLPG,Galapagos NV,NasdaqGS,Healthcare
+AMED,"Amedisys, Inc.",NasdaqGS,Healthcare
+PGNY,"Progyny, Inc.",NasdaqGS,Healthcare
+AXNX,"Axonics, Inc.",NasdaqGS,Healthcare
+STNE,StoneCo Ltd.,NasdaqGS,Technology
+SBRA,"Sabra Health Care REIT, Inc.",NasdaqGS,Real Estate
+LIVN,LivaNova PLC,NasdaqGS,Healthcare
+EYE,"National Vision Holdings, Inc.",NasdaqGS,Consumer Cyclical
+HCM,HUTCHMED (China) Limited,NasdaqGS,Healthcare
+NCNO,"nCino, Inc.",NasdaqGS,Technology
+BRZE,"Braze, Inc.",NasdaqGS,Technology
+IRTC,"iRhythm Technologies, Inc.",NasdaqGS,Healthcare
+CD,Chindata Group Holdings Limited,NasdaqGS,Technology
+PSEC,Prospect Capital Corporation,NasdaqGS,Financial Services
+RARE,Ultragenyx Pharmaceutical Inc.,NasdaqGS,Healthcare
+WSFS,WSFS Financial Corporation,NasdaqGS,Financial Services
+CERT,"Certara, Inc.",NasdaqGS,Healthcare
+ABCL,AbCellera Biologics Inc.,NasdaqGS,Healthcare
+PACW,PacWest Bancorp,NasdaqGS,Financial Services
+MXL,"MaxLinear, Inc.",NasdaqGS,Technology
+SFNC,Simmons First National Corporation,NasdaqGS,Financial Services
+PPBI,"Pacific Premier Bancorp, Inc.",NasdaqGS,Financial Services
+AAWW,"Atlas Air Worldwide Holdings, Inc.",NasdaqGS,Industrials
+WOOF,"Petco Health and Wellness Company, Inc.",NasdaqGS,Consumer Cyclical
+FOCS,Focus Financial Partners Inc.,NasdaqGS,Financial Services
+VICR,Vicor Corporation,NasdaqGS,Technology
+FLYW,Flywire Corporation,NasdaqGS,Technology
+PRVA,"Privia Health Group, Inc.",NasdaqGS,Healthcare
+RUSHB,"Rush Enterprises, Inc.",NasdaqGS,Consumer Cyclical
+STEP,StepStone Group Inc.,NasdaqGS,Financial Services
+WERN,"Werner Enterprises, Inc.",NasdaqGS,Industrials
+INMD,InMode Ltd.,NasdaqGS,Healthcare
+SPWR,SunPower Corporation,NasdaqGS,Technology
+CRVL,CorVel Corporation,NasdaqGS,Financial Services
+PZZA,"Papa John's International, Inc.",NasdaqGS,Consumer Cyclical
+VRNS,"Varonis Systems, Inc.",NasdaqGS,Technology
+KLIC,"Kulicke and Soffa Industries, Inc.",NasdaqGS,Technology
+INSM,Insmed Incorporated,NasdaqGS,Healthcare
+GO,Grocery Outlet Holding Corp.,NasdaqGS,Consumer Defensive
+IMCR,Immunocore Holdings plc,NasdaqGS,Healthcare
+PRTA,Prothena Corporation plc,NasdaqGS,Healthcare
+DORM,"Dorman Products, Inc.",NasdaqGS,Consumer Cyclical
+MRCY,"Mercury Systems, Inc.",NasdaqGS,Industrials
+PDCO,"Patterson Companies, Inc.",NasdaqGS,Healthcare
+RUSHA,"Rush Enterprises, Inc.",NasdaqGS,Consumer Cyclical
+BPMC,Blueprint Medicines Corporation,NasdaqGS,Healthcare
+JBLU,JetBlue Airways Corporation,NasdaqGS,Industrials
+JJSF,J&J Snack Foods Corp.,NasdaqGS,Consumer Defensive
+MSTR,MicroStrategy Incorporated,NasdaqGS,Technology
+HUBG,"Hub Group, Inc.",NasdaqGS,Industrials
+IOSP,Innospec Inc.,NasdaqGS,Basic Materials
+WIRE,Encore Wire Corporation,NasdaqGS,Industrials
+IBOC,International Bancshares Corporation,NasdaqGS,Financial Services
+BANF,BancFirst Corporation,NasdaqGS,Financial Services
+ISEE,"IVERIC bio, Inc.",NasdaqGS,Healthcare
+VSAT,"Viasat, Inc.",NasdaqGS,Technology
+CSIQ,Canadian Solar Inc.,NasdaqGS,Technology
+FWRD,Forward Air Corporation,NasdaqGS,Industrials
+ARLP,"Alliance Resource Partners, L.P.",NasdaqGS,Energy
+CALM,"Cal-Maine Foods, Inc.",NasdaqGS,Consumer Defensive
+YY,JOYY Inc.,NasdaqGS,Communication Services
+NVMI,Nova Ltd.,NasdaqGS,Technology
+ULCC,"Frontier Group Holdings, Inc.",NasdaqGS,Industrials
+XRX,Xerox Holdings Corporation,NasdaqGS,Technology
+MRTX,"Mirati Therapeutics, Inc.",NasdaqGS,Healthcare
+FULT,Fulton Financial Corporation,NasdaqGS,Financial Services
+SHOO,"Steven Madden, Ltd.",NasdaqGS,Consumer Cyclical
+PRFT,"Perficient, Inc.",NasdaqGS,Technology
+CVLT,"Commvault Systems, Inc.",NasdaqGS,Technology
+OTTR,Otter Tail Corporation,NasdaqGS,Utilities
+RRR,"Red Rock Resorts, Inc.",NasdaqGS,Consumer Cyclical
+ITRI,"Itron, Inc.",NasdaqGS,Technology
+HELE,Helen of Troy Limited,NasdaqGS,Consumer Defensive
+LESL,"Leslie's, Inc.",NasdaqGS,Consumer Cyclical
+MGEE,"MGE Energy, Inc.",NasdaqGS,Utilities
+PACB,"Pacific Biosciences of California, Inc.",NasdaqGS,Healthcare
+ALRM,"Alarm.com Holdings, Inc.",NasdaqGS,Technology
+DCT,"Duck Creek Technologies, Inc.",NasdaqGS,Technology
+GLNG,Golar LNG Limited,NasdaqGS,Energy
+IBTX,"Independent Bank Group, Inc.",NasdaqGS,Financial Services
+OMCL,"Omnicell, Inc.",NasdaqGS,Healthcare
+LGIH,"LGI Homes, Inc.",NasdaqGS,Consumer Cyclical
+VIAV,Viavi Solutions Inc.,NasdaqGS,Technology
+TIGO,Millicom International Cellular S.A.,NasdaqGS,Communication Services
+URBN,"Urban Outfitters, Inc.",NasdaqGS,Consumer Cyclical
+EXTR,"Extreme Networks, Inc.",NasdaqGS,Technology
+RVMD,"Revolution Medicines, Inc.",NasdaqGS,Healthcare
+AMLX,"Amylyx Pharmaceuticals, Inc.",NasdaqGS,Healthcare
+CBRL,"Cracker Barrel Old Country Store, Inc.",NasdaqGS,Consumer Cyclical
+VRNT,Verint Systems Inc.,NasdaqGS,Technology
+OZON,Ozon Holdings PLC,NasdaqGS,Consumer Cyclical
+THRM,Gentherm Incorporated,NasdaqGS,Consumer Cyclical
+WDFC,WD-40 Company,NasdaqGS,Basic Materials
+CLBK,"Columbia Financial, Inc.",NasdaqGS,Financial Services
+FRME,First Merchants Corporation,NasdaqGS,Financial Services
+NAVI,Navient Corporation,NasdaqGS,Financial Services
+MGRC,McGrath RentCorp,NasdaqGS,Industrials
+JAMF,Jamf Holding Corp.,NasdaqGS,Technology
+RNW,ReNew Energy Global Plc,NasdaqGS,Utilities
+TTEC,"TTEC Holdings, Inc.",NasdaqGS,Technology
+FROG,JFrog Ltd.,NasdaqGS,Technology
+NUVA,"NuVasive, Inc.",NasdaqGS,Healthcare
+SABR,Sabre Corporation,NasdaqGS,Consumer Cyclical
+ALHC,"Alignment Healthcare, Inc.",NasdaqGS,Healthcare
+SONO,"Sonos, Inc.",NasdaqGS,Technology
+GBDC,"Golub Capital BDC, Inc.",NasdaqGS,Financial Services
+ODP,The ODP Corporation,NasdaqGS,Consumer Cyclical
+TRMD,TORM plc,NasdaqGS,Energy
+SBLK,Star Bulk Carriers Corp.,NasdaqGS,Industrials
+CVCO,"Cavco Industries, Inc.",NasdaqGS,Consumer Cyclical
+IMVT,"Immunovant, Inc.",NasdaqGS,Healthcare
+TOWN,TowneBank,NasdaqGS,Financial Services
+NTCT,"NetScout Systems, Inc.",NasdaqGS,Technology
+MGPI,"MGP Ingredients, Inc.",NasdaqGS,Consumer Defensive
+AKRO,"Akero Therapeutics, Inc.",NasdaqGS,Healthcare
+COLB,"Columbia Banking System, Inc.",NasdaqGS,Financial Services
+PAX,Patria Investments Limited,NasdaqGS,Financial Services
+FFBC,First Financial Bancorp.,NasdaqGS,Financial Services
+PRGS,Progress Software Corporation,NasdaqGS,Technology
+LAZR,"Luminar Technologies, Inc.",NasdaqGS,Consumer Cyclical
+WAFD,"Washington Federal, Inc.",NasdaqGS,Financial Services
+BANR,Banner Corporation,NasdaqGS,Financial Services
+CRDO,Credo Technology Group Holding Ltd,NasdaqGS,Technology
+FTAI,FTAI Aviation Ltd.,NasdaqGS,Industrials
+SIMO,Silicon Motion Technology Corporation,NasdaqGS,Technology
+STRA,"Strategic Education, Inc.",NasdaqGS,Consumer Defensive
+PSMT,"PriceSmart, Inc.",NasdaqGS,Consumer Defensive
+WSBC,"WesBanco, Inc.",NasdaqGS,Financial Services
+CENT,Central Garden & Pet Company,NasdaqGS,Consumer Defensive
+AVDX,"AvidXchange Holdings, Inc.",NasdaqGS,Technology
+CENTA,Central Garden & Pet Company,NasdaqGS,Consumer Defensive
+GDRX,"GoodRx Holdings, Inc.",NasdaqGS,Healthcare
+BLMN,"Bloomin' Brands, Inc.",NasdaqGS,Consumer Cyclical
+AVAV,"AeroVironment, Inc.",NasdaqGS,Industrials
+RELY,"Remitly Global, Inc.",NasdaqGS,Technology
+SMTC,Semtech Corporation,NasdaqGS,Technology
+CRCT,"Cricut, Inc.",NasdaqGS,Technology
+SILK,"Silk Road Medical, Inc",NasdaqGS,Healthcare
+MOMO,Hello Group Inc.,NasdaqGS,Communication Services
+PLAY,"Dave & Buster's Entertainment, Inc.",NasdaqGS,Communication Services
+FTDR,"Frontdoor, Inc.",NasdaqGS,Consumer Cyclical
+ATSG,"Air Transport Services Group, Inc.",NasdaqGS,Industrials
+TRMK,Trustmark Corporation,NasdaqGS,Financial Services
+MDRX,Veradigm Inc.,NasdaqGS,Healthcare
+VCTR,"Victory Capital Holdings, Inc.",NasdaqGS,Financial Services
+RNST,Renasant Corporation,NasdaqGS,Financial Services
+NMRK,"Newmark Group, Inc.",NasdaqGS,Real Estate
+CAKE,The Cheesecake Factory Incorporated,NasdaqGS,Consumer Cyclical
+BRK-A,Berkshire Hathaway Inc.,NYSE,Financial Services
+BRK-B,Berkshire Hathaway Inc.,NYSE,Financial Services
+V,Visa Inc.,NYSE,Financial Services
+TSM,Taiwan Semiconductor Manufacturing Company Limited,NYSE,Technology
+XOM,Exxon Mobil Corporation,NYSE,Energy
+UNH,UnitedHealth Group Incorporated,NYSE,Healthcare
+JPM,JPMorgan Chase & Co.,NYSE,Financial Services
+JNJ,Johnson & Johnson,NYSE,Healthcare
+WMT,Walmart Inc.,NYSE,Consumer Defensive
+MA,Mastercard Incorporated,NYSE,Financial Services
+CVX,Chevron Corporation,NYSE,Energy
+PG,The Procter & Gamble Company,NYSE,Consumer Defensive
+BAC,Bank of America Corporation,NYSE,Financial Services
+JPM-PC,JPMorgan Chase & Co.,NYSE,Financial Services
+JPM-PD,JPMorgan Chase & Co.,NYSE,Financial Services
+LLY,Eli Lilly and Company,NYSE,Healthcare
+HD,"The Home Depot, Inc.",NYSE,Consumer Cyclical
+NVO,Novo Nordisk A/S,NYSE,Healthcare
+BABA,Alibaba Group Holding Limited,NYSE,Consumer Cyclical
+BAC-PK,Bank of America Corporation,NYSE,Financial Services
+BAC-PL,Bank of America Corporation,NYSE,Financial Services
+BML-PL,Bank of America Corporation,NYSE,Financial Services
+BML-PH,Bank of America Corporation,NYSE,Financial Services
+BML-PG,Bank of America Corporation,NYSE,Financial Services
+MRK,"Merck & Co., Inc.",NYSE,Healthcare
+BAC-PE,Bank of America Corporation,NYSE,Financial Services
+ABBV,AbbVie Inc.,NYSE,Healthcare
+KO,The Coca-Cola Company,NYSE,Consumer Defensive
+BML-PJ,Bank of America Corporation,NYSE,Financial Services
+PFE,Pfizer Inc.,NYSE,Healthcare
+BHP,BHP Group Limited,NYSE,Basic Materials
+BAC-PB,Bank of America Corporation,NYSE,Financial Services
+ORCL,Oracle Corporation,NYSE,Technology
+TMO,Thermo Fisher Scientific Inc.,NYSE,Healthcare
+SHEL,Shell plc,NYSE,Energy
+TM,Toyota Motor Corporation,NYSE,Consumer Cyclical
+DHR,Danaher Corporation,NYSE,Healthcare
+NVS,Novartis AG,NYSE,Healthcare
+WFC-PY,Wells Fargo & Company,NYSE,Financial Services
+MCD,McDonald's Corporation,NYSE,Consumer Cyclical
+ABT,Abbott Laboratories,NYSE,Healthcare
+NKE,"NIKE, Inc.",NYSE,Consumer Cyclical
+WFC-PL,Wells Fargo & Company,NYSE,Financial Services
+WFC-PQ,Wells Fargo & Company,NYSE,Financial Services
+WFC-PR,Wells Fargo & Company,NYSE,Financial Services
+DIS,The Walt Disney Company,NYSE,Communication Services
+ACN,Accenture plc,NYSE,Technology
+MS,Morgan Stanley,NYSE,Financial Services
+WFC,Wells Fargo & Company,NYSE,Financial Services
+VZ,Verizon Communications Inc.,NYSE,Communication Services
+C-PJ,Citigroup Inc.,NYSE,Financial Services
+NEE,"NextEra Energy, Inc.",NYSE,Utilities
+LIN,Linde plc,NYSE,Basic Materials
+TTE,TotalEnergies SE,NYSE,Energy
+PM,Philip Morris International Inc.,NYSE,Consumer Defensive
+BMY,Bristol-Myers Squibb Company,NYSE,Healthcare
+UPS,"United Parcel Service, Inc.",NYSE,Industrials
+COP,ConocoPhillips,NYSE,Energy
+CRM,"Salesforce, Inc.",NYSE,Technology
+FMX,"Fomento Económico Mexicano, S.A.B. de C.V.",NYSE,Consumer Defensive
+HSBC,HSBC Holdings plc,NYSE,Financial Services
+SCHW,The Charles Schwab Corporation,NYSE,Financial Services
+RY,Royal Bank of Canada,NYSE,Financial Services
+SAP,SAP SE,NYSE,Technology
+RTX,Raytheon Technologies Corporation,NYSE,Industrials
+T,AT&T Inc.,NYSE,Communication Services
+HDB,HDFC Bank Limited,NYSE,Financial Services
+UL,Unilever PLC,NYSE,Consumer Defensive
+CAT,Caterpillar Inc.,NYSE,Industrials
+GS,"The Goldman Sachs Group, Inc.",NYSE,Financial Services
+C,Citigroup Inc.,NYSE,Financial Services
+UNP,Union Pacific Corporation,NYSE,Industrials
+RIO,Rio Tinto Group,NYSE,Basic Materials
+IBM,International Business Machines Corporation,NYSE,Technology
+WFC-PC,Wells Fargo & Company,NYSE,Financial Services
+LOW,"Lowe's Companies, Inc.",NYSE,Consumer Cyclical
+TD,The Toronto-Dominion Bank,NYSE,Financial Services
+BA,The Boeing Company,NYSE,Industrials
+BUD,Anheuser-Busch InBev SA/NV,NYSE,Consumer Defensive
+DE,Deere & Company,NYSE,Industrials
+SPGI,S&P Global Inc.,NYSE,Financial Services
+LMT,Lockheed Martin Corporation,NYSE,Industrials
+ELV,Elevance Health Inc.,NYSE,Healthcare
+CVS,CVS Health Corporation,NYSE,Healthcare
+PLD,"Prologis, Inc.",NYSE,Real Estate
+AXP,American Express Company,NYSE,Financial Services
+BLK,"BlackRock, Inc.",NYSE,Financial Services
+SONY,Sony Group Corporation,NYSE,Technology
+BP,BP p.l.c.,NYSE,Energy
+MDT,Medtronic plc,NYSE,Healthcare
+DEO,Diageo plc,NYSE,Consumer Defensive
+AMT,American Tower Corporation,NYSE,Real Estate
+BX,Blackstone Inc.,NYSE,Financial Services
+RY-PT,Royal Bank of Canada,NYSE,Financial Services
+EQNR,Equinor ASA,NYSE,Energy
+SYK,Stryker Corporation,NYSE,Healthcare
+EL,The Estée Lauder Companies Inc.,NYSE,Consumer Defensive
+CI,Cigna Corporation,NYSE,Healthcare
+MUFG,"Mitsubishi UFJ Financial Group, Inc.",NYSE,Financial Services
+TJX,"The TJX Companies, Inc.",NYSE,Consumer Cyclical
+CB,Chubb Limited,NYSE,Financial Services
+NOW,"ServiceNow, Inc.",NYSE,Technology
+BTI,British American Tobacco p.l.c.,NYSE,Consumer Defensive
+GS-PK,"The Goldman Sachs Group, Inc.",NYSE,Financial Services
+GS-PJ,"The Goldman Sachs Group, Inc.",NYSE,Financial Services
+MMC,"Marsh & McLennan Companies, Inc.",NYSE,Financial Services
+VALE,Vale S.A.,NYSE,Basic Materials
+GE,General Electric Company,NYSE,Industrials
+ENB,Enbridge Inc.,NYSE,Energy
+MS-PK,Morgan Stanley,NYSE,Financial Services
+CNI,Canadian National Railway Company,NYSE,Industrials
+USB-PH,U.S. Bancorp,NYSE,Financial Services
+CTA-PB,E. I. du Pont de Nemours and Company,NYSE,Basic Materials
+MS-PI,Morgan Stanley,NYSE,Financial Services
+SLB,Schlumberger Limited,NYSE,Energy
+MO,"Altria Group, Inc.",NYSE,Consumer Defensive
+MS-PF,Morgan Stanley,NYSE,Financial Services
+MS-PE,Morgan Stanley,NYSE,Financial Services
+INFY,Infosys Limited,NYSE,Technology
+DUK,Duke Energy Corporation,NYSE,Utilities
+EOG,"EOG Resources, Inc.",NYSE,Energy
+USB-PP,U.S. Bancorp,NYSE,Financial Services
+ZTS,Zoetis Inc.,NYSE,Healthcare
+NEE-PR,"NextEra Energy, Inc.",NYSE,Utilities
+IBN,ICICI Bank Limited,NYSE,Financial Services
+PBR,Petróleo Brasileiro S.A. - Petrobras,NYSE,Energy
+TGT,Target Corporation,NYSE,Consumer Defensive
+PGR,The Progressive Corporation,NYSE,Financial Services
+UBS,UBS Group AG,NYSE,Financial Services
+GS-PA,"The Goldman Sachs Group, Inc.",NYSE,Financial Services
+HCA,"HCA Healthcare, Inc.",NYSE,Healthcare
+CP,Canadian Pacific Railway Limited,NYSE,Industrials
+SO,The Southern Company,NYSE,Utilities
+GSK,GSK plc,NYSE,Healthcare
+BDX,"Becton, Dickinson and Company",NYSE,Healthcare
+MS-PA,Morgan Stanley,NYSE,Financial Services
+USB,U.S. Bancorp,NYSE,Financial Services
+GS-PD,"The Goldman Sachs Group, Inc.",NYSE,Financial Services
+PBR-A,Petróleo Brasileiro S.A. - Petrobras,NYSE,Energy
+ITW,Illinois Tool Works Inc.,NYSE,Industrials
+NOC,Northrop Grumman Corporation,NYSE,Industrials
+APD,"Air Products and Chemicals, Inc.",NYSE,Basic Materials
+AON,Aon plc,NYSE,Financial Services
+AMOV,"América Móvil, S.A.B. de C.V.",NYSE,Communication Services
+CNQ,Canadian Natural Resources Limited,NYSE,Energy
+MMM,3M Company,NYSE,Industrials
+AMX,"América Móvil, S.A.B. de C.V.",NYSE,Communication Services
+BSX,Boston Scientific Corporation,NYSE,Healthcare
+FCX,Freeport-McMoRan Inc.,NYSE,Basic Materials
+CCI,Crown Castle Inc.,NYSE,Real Estate
+GD,General Dynamics Corporation,NYSE,Industrials
+BNS,The Bank of Nova Scotia,NYSE,Financial Services
+TFC,Truist Financial Corporation,NYSE,Financial Services
+SHW,The Sherwin-Williams Company,NYSE,Basic Materials
+BMO,Bank of Montreal,NYSE,Financial Services
+ABB,ABB Ltd,NYSE,Industrials
+DUK-PA,Duke Energy Corporation,NYSE,Utilities
+CL,Colgate-Palmolive Company,NYSE,Consumer Defensive
+HUM,Humana Inc.,NYSE,Healthcare
+PNC,"The PNC Financial Services Group, Inc.",NYSE,Financial Services
+WM,"Waste Management, Inc.",NYSE,Industrials
+ETN,Eaton Corporation plc,NYSE,Industrials
+OXY,Occidental Petroleum Corporation,NYSE,Energy
+ICE,"Intercontinental Exchange, Inc.",NYSE,Financial Services
+UBER,"Uber Technologies, Inc.",NYSE,Technology
+KKR,KKR & Co. Inc.,NYSE,Financial Services
+MPC,Marathon Petroleum Corporation,NYSE,Energy
+NSC,Norfolk Southern Corporation,NYSE,Industrials
+MCO,Moody's Corporation,NYSE,Financial Services
+CTA-PA,E. I. du Pont de Nemours and Company,NYSE,Basic Materials
+SMFG,"Sumitomo Mitsui Financial Group, Inc.",NYSE,Financial Services
+SCCO,Southern Copper Corporation,NYSE,Basic Materials
+PXD,Pioneer Natural Resources Company,NYSE,Energy
+TRI,Thomson Reuters Corporation,NYSE,Industrials
+SAN,"Banco Santander, S.A.",NYSE,Financial Services
+RELX,RELX PLC,NYSE,Communication Services
+EPD,Enterprise Products Partners L.P.,NYSE,Energy
+MET,"MetLife, Inc.",NYSE,Financial Services
+VLO,Valero Energy Corporation,NYSE,Energy
+MCK,McKesson Corporation,NYSE,Healthcare
+E,Eni S.p.A.,NYSE,Energy
+VMW,"VMware, Inc.",NYSE,Technology
+D,"Dominion Energy, Inc.",NYSE,Utilities
+SPG-PJ,"Simon Property Group, Inc.",NYSE,Real Estate
+DG,Dollar General Corporation,NYSE,Consumer Defensive
+SHOP,Shopify Inc.,NYSE,Technology
+PSA,Public Storage,NYSE,Real Estate
+EMR,Emerson Electric Co.,NYSE,Industrials
+SCHW-PD,The Charles Schwab Corporation,NYSE,Financial Services
+TAK,Takeda Pharmaceutical Company Limited,NYSE,Healthcare
+BAM,Brookfield Asset Management Ltd.,NYSE,Financial Services
+PSX,Phillips 66,NYSE,Energy
+GM,General Motors Company,NYSE,Consumer Cyclical
+F,Ford Motor Company,NYSE,Consumer Cyclical
+SRE,Sempra,NYSE,Utilities
+WDS,Woodside Energy Group Ltd,NYSE,Energy
+EW,Edwards Lifesciences Corporation,NYSE,Healthcare
+STLA,Stellantis N.V.,NYSE,Consumer Cyclical
+ING,ING Groep N.V.,NYSE,Financial Services
+ITUB,Itaú Unibanco Holding S.A.,NYSE,Financial Services
+HES,Hess Corporation,NYSE,Energy
+NGG,National Grid plc,NYSE,Utilities
+FDX,FedEx Corporation,NYSE,Industrials
+ROP,"Roper Technologies, Inc.",NYSE,Industrials
+SNOW,Snowflake Inc.,NYSE,Technology
+ADM,Archer-Daniels-Midland Company,NYSE,Consumer Defensive
+APH,Amphenol Corporation,NYSE,Technology
+AIG,"American International Group, Inc.",NYSE,Financial Services
+SPG,"Simon Property Group, Inc.",NYSE,Real Estate
+A,"Agilent Technologies, Inc.",NYSE,Healthcare
+GIS,"General Mills, Inc.",NYSE,Consumer Defensive
+KMB,Kimberly-Clark Corporation,NYSE,Consumer Defensive
+SQ,"Block, Inc.",NYSE,Technology
+JCI,Johnson Controls International plc,NYSE,Industrials
+PUK,Prudential plc,NYSE,Financial Services
+SU,Suncor Energy Inc.,NYSE,Energy
+RACE,Ferrari N.V.,NYSE,Consumer Cyclical
+AIG-PA,"American International Group, Inc.",NYSE,Financial Services
+CTVA,"Corteva, Inc.",NYSE,Basic Materials
+MET-PE,"MetLife, Inc.",NYSE,Financial Services
+AFL,Aflac Incorporated,NYSE,Financial Services
+HSY,The Hershey Company,NYSE,Consumer Defensive
+LYG,Lloyds Banking Group plc,NYSE,Financial Services
+MET-PA,"MetLife, Inc.",NYSE,Financial Services
+FIS,"Fidelity National Information Services, Inc.",NYSE,Technology
+O,Realty Income Corporation,NYSE,Real Estate
+AZO,"AutoZone, Inc.",NYSE,Consumer Cyclical
+ECL,Ecolab Inc.,NYSE,Basic Materials
+TRV,"The Travelers Companies, Inc.",NYSE,Financial Services
+TRP,TC Energy Corporation,NYSE,Energy
+CNC,Centene Corporation,NYSE,Healthcare
+CMG,"Chipotle Mexican Grill, Inc.",NYSE,Consumer Cyclical
+MSI,"Motorola Solutions, Inc.",NYSE,Technology
+BCE,BCE Inc.,NYSE,Communication Services
+NEM,Newmont Corporation,NYSE,Basic Materials
+DVN,Devon Energy Corporation,NYSE,Energy
+KMI,"Kinder Morgan, Inc.",NYSE,Energy
+BSBR,Banco Santander (Brasil) S.A.,NYSE,Financial Services
+LVS,Las Vegas Sands Corp.,NYSE,Consumer Cyclical
+BBVA,"Banco Bilbao Vizcaya Argentaria, S.A.",NYSE,Financial Services
+ABEV,Ambev S.A.,NYSE,Consumer Defensive
+IQV,IQVIA Holdings Inc.,NYSE,Healthcare
+NTR,Nutrien Ltd.,NYSE,Basic Materials
+MSCI,MSCI Inc.,NYSE,Financial Services
+AJG,Arthur J. Gallagher & Co.,NYSE,Financial Services
+PSA-PH,Public Storage,NYSE,Real Estate
+STZ,"Constellation Brands, Inc.",NYSE,Consumer Defensive
+HMC,"Honda Motor Co., Ltd.",NYSE,Consumer Cyclical
+DOW,Dow Inc.,NYSE,Basic Materials
+APO,"Apollo Global Management, Inc.",NYSE,Financial Services
+BK,The Bank of New York Mellon Corporation,NYSE,Financial Services
+MFG,"Mizuho Financial Group, Inc.",NYSE,Financial Services
+COF,Capital One Financial Corporation,NYSE,Financial Services
+STM,STMicroelectronics N.V.,NYSE,Technology
+SYY,Sysco Corporation,NYSE,Consumer Defensive
+ET,Energy Transfer LP,NYSE,Energy
+NUE,Nucor Corporation,NYSE,Basic Materials
+PH,Parker-Hannifin Corporation,NYSE,Industrials
+TT,Trane Technologies plc,NYSE,Industrials
+RSG,"Republic Services, Inc.",NYSE,Industrials
+TEL,TE Connectivity Ltd.,NYSE,Technology
+WMB,"The Williams Companies, Inc.",NYSE,Energy
+HLT,Hilton Worldwide Holdings Inc.,NYSE,Consumer Cyclical
+HLN,Haleon plc,NYSE,Healthcare
+SE,Sea Limited,NYSE,Consumer Cyclical
+HAL,Halliburton Company,NYSE,Energy
+ALC,Alcon Inc.,NYSE,Healthcare
+PSA-PK,Public Storage,NYSE,Real Estate
+DD,"DuPont de Nemours, Inc.",NYSE,Basic Materials
+LHX,"L3Harris Technologies, Inc.",NYSE,Industrials
+TDG,TransDigm Group Incorporated,NYSE,Industrials
+CVE,Cenovus Energy Inc.,NYSE,Energy
+PRU,"Prudential Financial, Inc.",NYSE,Financial Services
+NWG,NatWest Group plc,NYSE,Financial Services
+MFC,Manulife Financial Corporation,NYSE,Financial Services
+YUM,"Yum! Brands, Inc.",NYSE,Consumer Cyclical
+BCS,Barclays PLC,NYSE,Financial Services
+CARR,Carrier Global Corporation,NYSE,Industrials
+AMP,"Ameriprise Financial, Inc.",NYSE,Financial Services
+ANET,"Arista Networks, Inc.",NYSE,Technology
+ALL-PH,The Allstate Corporation,NYSE,Financial Services
+MTD,Mettler-Toledo International Inc.,NYSE,Healthcare
+VICI,VICI Properties Inc.,NYSE,Real Estate
+MPLX,MPLX LP,NYSE,Energy
+WELL,Welltower Inc.,NYSE,Real Estate
+RMD,ResMed Inc.,NYSE,Healthcare
+CRH,CRH plc,NYSE,Basic Materials
+OTIS,Otis Worldwide Corporation,NYSE,Industrials
+GOLD,Barrick Gold Corporation,NYSE,Basic Materials
+ALL,The Allstate Corporation,NYSE,Financial Services
+ED,"Consolidated Edison, Inc.",NYSE,Utilities
+PCG,PG&E Corporation,NYSE,Utilities
+CMI,Cummins Inc.,NYSE,Industrials
+WCN,"Waste Connections, Inc.",NYSE,Industrials
+ABC,AmerisourceBergen Corporation,NYSE,Healthcare
+AME,"AMETEK, Inc.",NYSE,Industrials
+DHI,"D.R. Horton, Inc.",NYSE,Consumer Cyclical
+ALL-PB,The Allstate Corporation,NYSE,
+KEYS,"Keysight Technologies, Inc.",NYSE,Technology
+KR,The Kroger Co.,NYSE,Consumer Defensive
+BF-A,Brown-Forman Corporation,NYSE,Consumer Defensive
+ALL-PG,The Allstate Corporation,NYSE,Financial Services
+BF-B,Brown-Forman Corporation,NYSE,Consumer Defensive
+DLR,"Digital Realty Trust, Inc.",NYSE,Real Estate
+OKE,"ONEOK, Inc.",NYSE,Energy
+ROK,"Rockwell Automation, Inc.",NYSE,Industrials
+STT,State Street Corporation,NYSE,Financial Services
+PPG,"PPG Industries, Inc.",NYSE,Basic Materials
+TU,TELUS Corporation,NYSE,Communication Services
+GLW,Corning Incorporated,NYSE,Technology
+GPN,Global Payments Inc.,NYSE,Industrials
+PEG,Public Service Enterprise Group Incorporated,NYSE,Utilities
+BBD,Banco Bradesco S.A.,NYSE,Financial Services
+LYB,LyondellBasell Industries N.V.,NYSE,Basic Materials
+QSR,Restaurant Brands International Inc.,NYSE,Consumer Cyclical
+BBDO,Banco Bradesco S.A.,NYSE,Financial Services
+CHT,"Chunghwa Telecom Co., Ltd.",NYSE,Communication Services
+CPNG,"Coupang, Inc.",NYSE,Consumer Cyclical
+WEC,"WEC Energy Group, Inc.",NYSE,Utilities
+ALB,Albemarle Corporation,NYSE,Basic Materials
+DELL,Dell Technologies Inc.,NYSE,Technology
+SLF,Sun Life Financial Inc.,NYSE,Financial Services
+IFF,International Flavors & Fragrances Inc.,NYSE,Basic Materials
+FERG,Ferguson plc,NYSE,Industrials
+DFS,Discover Financial Services,NYSE,Financial Services
+GWW,"W.W. Grainger, Inc.",NYSE,Industrials
+APTV,Aptiv PLC,NYSE,Consumer Cyclical
+FNV,Franco-Nevada Corporation,NYSE,Basic Materials
+ORAN,Orange S.A.,NYSE,Communication Services
+ES,Eversource Energy,NYSE,Utilities
+LEN-B,Lennar Corporation,NYSE,Consumer Cyclical
+AWK,"American Water Works Company, Inc.",NYSE,Utilities
+LEN,Lennar Corporation,NYSE,Consumer Cyclical
+HPQ,HP Inc.,NYSE,Technology
+WIT,Wipro Limited,NYSE,Technology
+EFX,Equifax Inc.,NYSE,Industrials
+DB,Deutsche Bank Aktiengesellschaft,NYSE,Financial Services
+CBRE,"CBRE Group, Inc.",NYSE,Real Estate
+URI,"United Rentals, Inc.",NYSE,Industrials
+IT,"Gartner, Inc.",NYSE,Technology
+NOK,Nokia Oyj,NYSE,Technology
+ZBH,"Zimmer Biomet Holdings, Inc.",NYSE,Healthcare
+MTB,M&T Bank Corporation,NYSE,Financial Services
+MT,ArcelorMittal S.A.,NYSE,Basic Materials
+TLK,Perusahaan Perseroan (Persero) PT Telekomunikasi Indonesia Tbk,NYSE,Communication Services
+ARE,"Alexandria Real Estate Equities, Inc.",NYSE,Real Estate
+DLR-PK,"Digital Realty Trust, Inc.",NYSE,Real Estate
+AEM,Agnico Eagle Mines Limited,NYSE,Basic Materials
+EIX,Edison International,NYSE,Utilities
+VEEV,Veeva Systems Inc.,NYSE,Healthcare
+DAL,"Delta Air Lines, Inc.",NYSE,Industrials
+FRC,First Republic Bank,NYSE,Financial Services
+EC,Ecopetrol S.A.,NYSE,Energy
+YUMC,"Yum China Holdings, Inc.",NYSE,Consumer Cyclical
+DLR-PJ,"Digital Realty Trust, Inc.",NYSE,Real Estate
+RJF,"Raymond James Financial, Inc.",NYSE,Financial Services
+SQM,Sociedad Química y Minera de Chile S.A.,NYSE,Basic Materials
+RCI,Rogers Communications Inc.,NYSE,Communication Services
+BEKE,KE Holdings Inc.,NYSE,Real Estate
+HRL,Hormel Foods Corporation,NYSE,Consumer Defensive
+FE,FirstEnergy Corp.,NYSE,Utilities
+EQR,Equity Residential,NYSE,Real Estate
+HIG,"The Hartford Financial Services Group, Inc.",NYSE,Financial Services
+AVB,"AvalonBay Communities, Inc.",NYSE,Real Estate
+VMC,Vulcan Materials Company,NYSE,Basic Materials
+WY,Weyerhaeuser Company,NYSE,Real Estate
+ARES,Ares Management Corporation,NYSE,Financial Services
+FTV,Fortive Corporation,NYSE,Technology
+TSN,"Tyson Foods, Inc.",NYSE,Consumer Defensive
+ZTO,ZTO Express (Cayman) Inc.,NYSE,Industrials
+K,Kellogg Company,NYSE,Consumer Defensive
+CNHI,CNH Industrial N.V.,NYSE,Industrials
+GPC,Genuine Parts Company,NYSE,Consumer Cyclical
+CAJ,Canon Inc.,NYSE,Technology
+ETR,Entergy Corporation,NYSE,Utilities
+LH,Laboratory Corporation of America Holdings,NYSE,Healthcare
+TEF,"Telefónica, S.A.",NYSE,Communication Services
+DASH,"DoorDash, Inc.",NYSE,Communication Services
+IR,Ingersoll Rand Inc.,NYSE,Industrials
+AEE,Ameren Corporation,NYSE,Utilities
+BAX,Baxter International Inc.,NYSE,Healthcare
+DTE,DTE Energy Company,NYSE,Utilities
+LUV,Southwest Airlines Co.,NYSE,Industrials
+TS,Tenaris S.A.,NYSE,Energy
+UDR,"UDR, Inc.",NYSE,Real Estate
+PPL,PPL Corporation,NYSE,Utilities
+MLM,"Martin Marietta Materials, Inc.",NYSE,Basic Materials
+TECK,Teck Resources Limited,NYSE,Basic Materials
+MKC-V,"McCormick & Company, Incorporated",NYSE,Consumer Defensive
+RBLX,Roblox Corporation,NYSE,Communication Services
+EXR,Extra Space Storage Inc.,NYSE,Real Estate
+RF,Regions Financial Corporation,NYSE,Financial Services
+PWR,"Quanta Services, Inc.",NYSE,Industrials
+MKC,"McCormick & Company, Incorporated",NYSE,Consumer Defensive
+GIB,CGI Inc.,NYSE,Technology
+STE,STERIS plc,NYSE,Healthcare
+HPE,Hewlett Packard Enterprise Company,NYSE,Technology
+WPM,Wheaton Precious Metals Corp.,NYSE,Basic Materials
+CFG,"Citizens Financial Group, Inc.",NYSE,Financial Services
+CHD,"Church & Dwight Co., Inc.",NYSE,Consumer Defensive
+IX,ORIX Corporation,NYSE,Financial Services
+CTRA,Coterra Energy Inc.,NYSE,Energy
+WAT,Waters Corporation,NYSE,Healthcare
+FTS,Fortis Inc.,NYSE,Utilities
+PBA,Pembina Pipeline Corporation,NYSE,Energy
+CAH,"Cardinal Health, Inc.",NYSE,Healthcare
+XYL,Xylem Inc.,NYSE,Industrials
+EPAM,"EPAM Systems, Inc.",NYSE,Technology
+VTR,"Ventas, Inc.",NYSE,Real Estate
+HEI-A,HEICO Corporation,NYSE,Industrials
+ELP,Companhia Paranaense de Energia - COPEL,NYSE,Utilities
+STT-PG,State Street Corporation,NYSE,Financial Services
+UMC,United Microelectronics Corporation,NYSE,Technology
+HEI,HEICO Corporation,NYSE,Industrials
+DOV,Dover Corporation,NYSE,Industrials
+CM,Canadian Imperial Bank of Commerce,NYSE,Financial Services
+INVH,Invitation Homes Inc.,NYSE,Real Estate
+HIG-PG,"The Hartford Financial Services Group, Inc.",NYSE,Financial Services
+EBR-B,Centrais Elétricas Brasileiras S.A. - Eletrobrás,NYSE,Utilities
+WST,"West Pharmaceutical Services, Inc.",NYSE,Healthcare
+STT-PD,State Street Corporation,NYSE,Financial Services
+PKX,POSCO Holdings Inc.,NYSE,Basic Materials
+TTM,Tata Motors Limited,NYSE,Consumer Cyclical
+CNP,"CenterPoint Energy, Inc.",NYSE,Utilities
+TDY,Teledyne Technologies Incorporated,NYSE,Technology
+SPOT,Spotify Technology S.A.,NYSE,Communication Services
+PAYC,"Paycom Software, Inc.",NYSE,Technology
+SUI,"Sun Communities, Inc.",NYSE,Real Estate
+NIO,NIO Inc.,NYSE,Consumer Cyclical
+MKL,Markel Corporation,NYSE,Financial Services
+GRMN,Garmin Ltd.,NYSE,Technology
+WRB,W. R. Berkley Corporation,NYSE,Financial Services
+WAB,Westinghouse Air Brake Technologies Corporation,NYSE,Industrials
+ZNH,China Southern Airlines Company Limited,NYSE,Industrials
+BEP,Brookfield Renewable Partners L.P.,NYSE,Utilities
+MAA,"Mid-America Apartment Communities, Inc.",NYSE,Real Estate
+EBR,Centrais Elétricas Brasileiras S.A. - Eletrobrás,NYSE,Utilities
+KEY-PK,KeyCorp,NYSE,Financial Services
+BBY,"Best Buy Co., Inc.",NYSE,Consumer Cyclical
+BALL,Ball Corporation,NYSE,Consumer Cyclical
+MGA,Magna International Inc.,NYSE,Consumer Cyclical
+CAG,"Conagra Brands, Inc.",NYSE,Consumer Defensive
+PINS,"Pinterest, Inc.",NYSE,Communication Services
+KB,KB Financial Group Inc.,NYSE,Financial Services
+CMS,CMS Energy Corporation,NYSE,Utilities
+SHG,"Shinhan Financial Group Co., Ltd.",NYSE,Financial Services
+AES,The AES Corporation,NYSE,Utilities
+DRI,"Darden Restaurants, Inc.",NYSE,Consumer Cyclical
+NU,Nu Holdings Ltd.,NYSE,Financial Services
+ROL,"Rollins, Inc.",NYSE,Consumer Cyclical
+NMK-PC,Niagara Mohawk Power Corporation PFD 3.90%,NYSE,Utilities
+AMCR,Amcor plc,NYSE,Consumer Cyclical
+MRO,Marathon Oil Corporation,NYSE,Energy
+CLX,The Clorox Company,NYSE,Consumer Defensive
+RKT,"Rocket Companies, Inc.",NYSE,Financial Services
+CHWY,"Chewy, Inc.",NYSE,Consumer Cyclical
+BRO,"Brown & Brown, Inc.",NYSE,Financial Services
+WPC,W. P. Carey Inc.,NYSE,Real Estate
+IEX,IDEX Corporation,NYSE,Industrials
+UI,Ubiquiti Inc.,NYSE,Technology
+PKI,"PerkinElmer, Inc.",NYSE,Healthcare
+OWL,Blue Owl Capital Inc.,NYSE,Financial Services
+MOH,"Molina Healthcare, Inc.",NYSE,Healthcare
+LYV,"Live Nation Entertainment, Inc.",NYSE,Communication Services
+BR,"Broadridge Financial Solutions, Inc.",NYSE,Technology
+TRGP,Targa Resources Corp.,NYSE,Energy
+OMC,Omnicom Group Inc.,NYSE,Communication Services
+CF,"CF Industries Holdings, Inc.",NYSE,Basic Materials
+COO,"The Cooper Companies, Inc.",NYSE,Healthcare
+DGX,Quest Diagnostics Incorporated,NYSE,Healthcare
+AGR,"Avangrid, Inc.",NYSE,Utilities
+MOS,The Mosaic Company,NYSE,Basic Materials
+CEA,China Eastern Airlines Corporation Limited,NYSE,Industrials
+KEY,KeyCorp,NYSE,Financial Services
+FICO,Fair Isaac Corporation,NYSE,Technology
+FDS,FactSet Research Systems Inc.,NYSE,Financial Services
+BIP,Brookfield Infrastructure Partners L.P.,NYSE,Utilities
+FMC,FMC Corporation,NYSE,Basic Materials
+TPL,Texas Pacific Land Corporation,NYSE,Energy
+SNAP,Snap Inc.,NYSE,Communication Services
+RCL,Royal Caribbean Cruises Ltd.,NYSE,Consumer Cyclical
+NVR,"NVR, Inc.",NYSE,Consumer Cyclical
+HUBS,"HubSpot, Inc.",NYSE,Technology
+HWM,Howmet Aerospace Inc.,NYSE,Industrials
+SYF,Synchrony Financial,NYSE,Financial Services
+ATO,Atmos Energy Corporation,NYSE,Utilities
+SJM,The J. M. Smucker Company,NYSE,Consumer Defensive
+KEY-PJ,KeyCorp,NYSE,Financial Services
+RTO,Rentokil Initial plc,NYSE,Industrials
+CPB,Campbell Soup Company,NYSE,Consumer Defensive
+ASX,"ASE Technology Holding Co., Ltd.",NYSE,Technology
+AVTR,"Avantor, Inc.",NYSE,Basic Materials
+AER,AerCap Holdings N.V.,NYSE,Industrials
+AVY,Avery Dennison Corporation,NYSE,Industrials
+FRC-PI,First Republic Bank,NYSE,Financial Services
+KOF,"Coca-Cola FEMSA, S.A.B. de C.V.",NYSE,Consumer Defensive
+J,Jacobs Solutions Inc.,NYSE,Industrials
+KEY-PI,KeyCorp,NYSE,Financial Services
+CFG-PD,"Citizens Financial Group, Inc.",NYSE,Financial Services
+IRM,Iron Mountain Incorporated,NYSE,Real Estate
+BEN,"Franklin Resources, Inc.",NYSE,Financial Services
+MGM,MGM Resorts International,NYSE,Consumer Cyclical
+NET,"Cloudflare, Inc.",NYSE,Technology
+PHG,Koninklijke Philips N.V.,NYSE,Healthcare
+FLT,"FLEETCOR Technologies, Inc.",NYSE,Technology
+PLTR,Palantir Technologies Inc.,NYSE,Technology
+BG,Bunge Limited,NYSE,Consumer Defensive
+WLK,Westlake Corporation,NYSE,Basic Materials
+ESS,"Essex Property Trust, Inc.",NYSE,Real Estate
+RF-PC,Regions Financial Corporation,NYSE,Financial Services
+BURL,"Burlington Stores, Inc.",NYSE,Consumer Cyclical
+PEAK,"Healthpeak Properties, Inc.",NYSE,Real Estate
+SJR,Shaw Communications Inc.,NYSE,Communication Services
+TME,Tencent Music Entertainment Group,NYSE,Communication Services
+FRC-PH,First Republic Bank,NYSE,Financial Services
+TXT,Textron Inc.,NYSE,Industrials
+IPG,"The Interpublic Group of Companies, Inc.",NYSE,Communication Services
+L,Loews Corporation,NYSE,Financial Services
+LW,"Lamb Weston Holdings, Inc.",NYSE,Consumer Defensive
+CS,Credit Suisse Group AG,NYSE,Financial Services
+CCL,Carnival Corporation & plc,NYSE,Consumer Cyclical
+RF-PB,Regions Financial Corporation,NYSE,Financial Services
+BIO,"Bio-Rad Laboratories, Inc.",NYSE,Healthcare
+CRBG,"Corebridge Financial, Inc.",NYSE,Financial Services
+IP,International Paper Company,NYSE,Consumer Cyclical
+ELS,"Equity LifeStyle Properties, Inc.",NYSE,Real Estate
+ALLY,Ally Financial Inc.,NYSE,Financial Services
+KIM,Kimco Realty Corporation,NYSE,Real Estate
+RE,"Everest Re Group, Ltd.",NYSE,Financial Services
+FHN,First Horizon Corporation,NYSE,Financial Services
+CE,Celanese Corporation,NYSE,Basic Materials
+TYL,"Tyler Technologies, Inc.",NYSE,Technology
+AMH,American Homes 4 Rent,NYSE,Real Estate
+LDOS,"Leidos Holdings, Inc.",NYSE,Technology
+TRU,TransUnion,NYSE,Industrials
+NLY-PG,"Annaly Capital Management, Inc.",NYSE,Real Estate
+UHAL,U-Haul Holding Company,NYSE,Industrials
+NLY-PF,"Annaly Capital Management, Inc.",NYSE,Real Estate
+SWK,"Stanley Black & Decker, Inc.",NYSE,Industrials
+SNA,Snap-on Incorporated,NYSE,Industrials
+RS,Reliance Steel & Aluminum Co.,NYSE,Basic Materials
+CUK,Carnival Corporation & plc,NYSE,Consumer Cyclical
+U,Unity Software Inc.,NYSE,Technology
+VIV,Telefônica Brasil S.A.,NYSE,Communication Services
+IHG,InterContinental Hotels Group PLC,NYSE,Consumer Cyclical
+GDDY,GoDaddy Inc.,NYSE,Technology
+EQT,EQT Corporation,NYSE,Energy
+OVV,Ovintiv Inc.,NYSE,Energy
+SNN,Smith & Nephew plc,NYSE,Healthcare
+BAH,Booz Allen Hamilton Holding Corporation,NYSE,Industrials
+CRL,"Charles River Laboratories International, Inc.",NYSE,Healthcare
+DPZ,"Domino's Pizza, Inc.",NYSE,Consumer Cyclical
+PKG,Packaging Corporation of America,NYSE,Consumer Cyclical
+CPT,Camden Property Trust,NYSE,Real Estate
+WTRG,"Essential Utilities, Inc.",NYSE,Utilities
+CSL,Carlisle Companies Incorporated,NYSE,Industrials
+WPP,WPP plc,NYSE,Communication Services
+HUBB,Hubbell Incorporated,NYSE,Industrials
+ACM,AECOM,NYSE,Industrials
+NMR,"Nomura Holdings, Inc.",NYSE,Financial Services
+MAA-PI,"Mid-America Apartment Communities, Inc.",NYSE,Real Estate
+SUZ,Suzano S.A.,NYSE,Basic Materials
+ARMK,Aramark,NYSE,Industrials
+H,Hyatt Hotels Corporation,NYSE,Consumer Cyclical
+AFG,"American Financial Group, Inc.",NYSE,Financial Services
+TEVA,Teva Pharmaceutical Industries Limited,NYSE,Healthcare
+PHM,"PulteGroup, Inc.",NYSE,Consumer Cyclical
+QGEN,Qiagen N.V.,NYSE,Healthcare
+FNF,"Fidelity National Financial, Inc.",NYSE,Financial Services
+DINO,HF Sinclair Corporation,NYSE,Energy
+GL,Globe Life Inc.,NYSE,Financial Services
+REXR,"Rexford Industrial Realty, Inc.",NYSE,Real Estate
+VFC,V.F. Corporation,NYSE,Consumer Cyclical
+TTC,The Toro Company,NYSE,Industrials
+CCJ,Cameco Corporation,NYSE,Energy
+CNA,CNA Financial Corporation,NYSE,Financial Services
+MAS,Masco Corporation,NYSE,Industrials
+GGG,Graco Inc.,NYSE,Industrials
+SSL,Sasol Limited,NYSE,Basic Materials
+ACI,"Albertsons Companies, Inc.",NYSE,Consumer Defensive
+RPM,RPM International Inc.,NYSE,Basic Materials
+EQH,"Equitable Holdings, Inc.",NYSE,Financial Services
+BXP,"Boston Properties, Inc.",NYSE,Real Estate
+BAP,Credicorp Ltd.,NYSE,Financial Services
+GFI,Gold Fields Limited,NYSE,Basic Materials
+DECK,Deckers Outdoor Corporation,NYSE,Consumer Cyclical
+TFX,Teleflex Incorporated,NYSE,Healthcare
+NI,NiSource Inc.,NYSE,Utilities
+BILL,"Bill.com Holdings, Inc.",NYSE,Technology
+GGB,Gerdau S.A.,NYSE,Basic Materials
+AEG,Aegon N.V.,NYSE,Financial Services
+RYAN,"Ryan Specialty Holdings, Inc.",NYSE,Financial Services
+TAP,Molson Coors Beverage Company,NYSE,Consumer Defensive
+MMP,"Magellan Midstream Partners, L.P.",NYSE,Energy
+TOST,"Toast, Inc.",NYSE,Technology
+CLF,Cleveland-Cliffs Inc.,NYSE,Basic Materials
+SCI,Service Corporation International,NYSE,Consumer Cyclical
+FMS,Fresenius Medical Care AG & Co. KGaA,NYSE,Healthcare
+EMN,Eastman Chemical Company,NYSE,Basic Materials
+KEP,Korea Electric Power Corporation,NYSE,Utilities
+WES,"Western Midstream Partners, LP",NYSE,Energy
+GFL,GFL Environmental Inc.,NYSE,Industrials
+CDAY,Ceridian HCM Holding Inc.,NYSE,Technology
+UHS,"Universal Health Services, Inc.",NYSE,Healthcare
+DT,"Dynatrace, Inc.",NYSE,Technology
+NLY,"Annaly Capital Management, Inc.",NYSE,Real Estate
+JBL,Jabil Inc.,NYSE,Technology
+WSO-B,"Watsco, Inc.",NYSE,Industrials
+ICL,ICL Group Ltd,NYSE,Basic Materials
+TPR,"Tapestry, Inc.",NYSE,Consumer Cyclical
+DAR,Darling Ingredients Inc.,NYSE,Consumer Defensive
+CCK,"Crown Holdings, Inc.",NYSE,Consumer Cyclical
+WSO,"Watsco, Inc.",NYSE,Industrials
+YMM,Full Truck Alliance Co. Ltd.,NYSE,Technology
+BLDR,"Builders FirstSource, Inc.",NYSE,Industrials
+KMX,"CarMax, Inc.",NYSE,Consumer Cyclical
+TAP-A,Molson Coors Beverage Company,NYSE,Consumer Defensive
+BCH,Banco de Chile,NYSE,Financial Services
+BWA,BorgWarner Inc.,NYSE,Consumer Cyclical
+NI-PB,NiSource Inc.,NYSE,Utilities
+SNX,TD SYNNEX Corporation,NYSE,Technology
+BBWI,"Bath & Body Works, Inc.",NYSE,Consumer Cyclical
+DKS,"DICK'S Sporting Goods, Inc.",NYSE,Consumer Cyclical
+AGCO,AGCO Corporation,NYSE,Industrials
+JNPR,"Juniper Networks, Inc.",NYSE,Technology
+MTN,"Vail Resorts, Inc.",NYSE,Consumer Cyclical
+AN,"AutoNation, Inc.",NYSE,Consumer Cyclical
+TWLO,Twilio Inc.,NYSE,Communication Services
+VNO-PL,Vornado Realty Trust,NYSE,Real Estate
+WOLF,"Wolfspeed, Inc.",NYSE,Technology
+VNO-PM,Vornado Realty Trust,NYSE,Real Estate
+ALLE,Allegion plc,NYSE,Industrials
+CUBE,CubeSmart,NYSE,Real Estate
+RGA,"Reinsurance Group of America, Incorporated",NYSE,Financial Services
+AU,AngloGold Ashanti Limited,NYSE,Basic Materials
+BKI,"Black Knight, Inc.",NYSE,Technology
+WRK,WestRock Company,NYSE,Consumer Cyclical
+PEN,"Penumbra, Inc.",NYSE,Healthcare
+TFII,TFI International Inc.,NYSE,Industrials
+GS-PC,"The Goldman Sachs Group, Inc. PFD 1/1000 C",NYSE,Financial Services
+VIPS,Vipshop Holdings Limited,NYSE,Consumer Cyclical
+PFGC,Performance Food Group Company,NYSE,Consumer Defensive
+JHX,James Hardie Industries plc,NYSE,Basic Materials
+FRT-PC,Federal Realty Investment Trust,NYSE,Real Estate
+BJ,"BJ's Wholesale Club Holdings, Inc.",NYSE,Consumer Defensive
+PAC,"Grupo Aeroportuario del Pacífico, S.A.B. de C.V.",NYSE,Industrials
+STOR,STORE Capital Corporation,NYSE,Real Estate
+NOV,NOV Inc.,NYSE,Energy
+KNX,Knight-Swift Transportation Holdings Inc.,NYSE,Industrials
+CMA,Comerica Incorporated,NYSE,Financial Services
+AOS,A. O. Smith Corporation,NYSE,Industrials
+AA,Alcoa Corporation,NYSE,Basic Materials
+RDY,Dr. Reddy's Laboratories Limited,NYSE,Healthcare
+RRX,Regal Rexnord Corporation,NYSE,Industrials
+CTLT,"Catalent, Inc.",NYSE,Healthcare
+FND,"Floor & Decor Holdings, Inc.",NYSE,Consumer Cyclical
+AR,Antero Resources Corporation,NYSE,Energy
+FRT,Federal Realty Investment Trust,NYSE,Real Estate
+DCP,"DCP Midstream, LP",NYSE,Energy
+G,Genpact Limited,NYSE,Technology
+LSI,"Life Storage, Inc.",NYSE,Real Estate
+AAP,"Advance Auto Parts, Inc.",NYSE,Consumer Cyclical
+HII,"Huntington Ingalls Industries, Inc.",NYSE,Industrials
+VST,Vistra Corp.,NYSE,Utilities
+IVZ,Invesco Ltd.,NYSE,Financial Services
+JEF,Jefferies Financial Group Inc.,NYSE,Financial Services
+CFR,"Cullen/Frost Bankers, Inc.",NYSE,Financial Services
+ASR,"Grupo Aeroportuario del Sureste, S. A. B. de C. V.",NYSE,Industrials
+PNW,Pinnacle West Capital Corporation,NYSE,Utilities
+BSMX,"Banco Santander México, S.A., Institución de Banca Múltiple, Grupo Financiero Santander México",NYSE,Financial Services
+LII,Lennox International Inc.,NYSE,Industrials
+RHI,Robert Half International Inc.,NYSE,Industrials
+AMH-PH,American Homes 4 Rent,NYSE,Real Estate
+SKM,"SK Telecom Co.,Ltd",NYSE,Communication Services
+SBSW,Sibanye Stillwater Limited,NYSE,Basic Materials
+NNN,"National Retail Properties, Inc.",NYSE,Real Estate
+SGFY,"Signify Health, Inc.",NYSE,Healthcare
+AGL,"agilon health, inc.",NYSE,Healthcare
+PAG,"Penske Automotive Group, Inc.",NYSE,Consumer Cyclical
+JLL,Jones Lang LaSalle Incorporated,NYSE,Real Estate
+RNR,RenaissanceRe Holdings Ltd.,NYSE,Financial Services
+YPF,YPF Sociedad Anónima,NYSE,Energy
+OC,Owens Corning,NYSE,Industrials
+UGI,UGI Corporation,NYSE,Utilities
+COLD,"Americold Realty Trust, Inc.",NYSE,Real Estate
+USFD,US Foods Holding Corp.,NYSE,Consumer Defensive
+WSM,"Williams-Sonoma, Inc.",NYSE,Consumer Cyclical
+XPEV,XPeng Inc.,NYSE,Consumer Cyclical
+WHR,Whirlpool Corporation,NYSE,Consumer Cyclical
+MPW,"Medical Properties Trust, Inc.",NYSE,Real Estate
+PSO,Pearson plc,NYSE,Communication Services
+CPRI,Capri Holdings Limited,NYSE,Consumer Cyclical
+WBS,Webster Financial Corporation,NYSE,Financial Services
+COTY,Coty Inc.,NYSE,Consumer Defensive
+PNR,Pentair plc,NYSE,Industrials
+LEA,Lear Corporation,NYSE,Consumer Cyclical
+HR,Healthcare Realty Trust Incorporated,NYSE,Real Estate
+ADT,ADT Inc.,NYSE,Industrials
+UNM,Unum Group,NYSE,Financial Services
+AMH-PG,American Homes 4 Rent,NYSE,Real Estate
+RL,Ralph Lauren Corporation,NYSE,Consumer Cyclical
+OGN,Organon & Co.,NYSE,Healthcare
+PSTG,"Pure Storage, Inc.",NYSE,Technology
+PATH,UiPath Inc.,NYSE,Technology
+SEE,Sealed Air Corporation,NYSE,Consumer Cyclical
+OLN,Olin Corporation,NYSE,Basic Materials
+WEX,WEX Inc.,NYSE,Technology
+OGE,OGE Energy Corp.,NYSE,Utilities
+ATH-PA,Athene Holding Ltd.,NYSE,Financial Services
+WF,Woori Financial Group Inc.,NYSE,Financial Services
+VOYA-PB,"Voya Financial, Inc.",NYSE,Financial Services
+KT,KT Corporation,NYSE,Communication Services
+KIM-PM,Kimco Realty Corporation,NYSE,Real Estate
+BSAC,Banco Santander-Chile,NYSE,Financial Services
+EDU,New Oriental Education & Technology Group Inc.,NYSE,Consumer Defensive
+MTZ,"MasTec, Inc.",NYSE,Industrials
+DLB,"Dolby Laboratories, Inc.",NYSE,Industrials
+CIEN,Ciena Corporation,NYSE,Technology
+HESM,Hess Midstream LP,NYSE,Energy
+RNR-PF,RenaissanceRe Holdings Ltd.,NYSE,Financial Services
+CX,"CEMEX, S.A.B. de C.V.",NYSE,Basic Materials
+NRG,"NRG Energy, Inc.",NYSE,Utilities
+KIM-PL,Kimco Realty Corporation,NYSE,Real Estate
+CHE,Chemed Corporation,NYSE,Healthcare
+TX,Ternium S.A.,NYSE,Basic Materials
+ATR,"AptarGroup, Inc.",NYSE,Healthcare
+GMED,"Globus Medical, Inc.",NYSE,Healthcare
+WMS,"Advanced Drainage Systems, Inc.",NYSE,Industrials
+PCOR,"Procore Technologies, Inc.",NYSE,Technology
+CLVT,Clarivate Plc,NYSE,Technology
+INSP,"Inspire Medical Systems, Inc.",NYSE,Healthcare
+CMS-PB,Consumers Energy Company,NYSE,Utilities
+MTDR,Matador Resources Company,NYSE,Energy
+ORI,Old Republic International Corporation,NYSE,Financial Services
+MHK,"Mohawk Industries, Inc.",NYSE,Consumer Cyclical
+DCI,"Donaldson Company, Inc.",NYSE,Industrials
+DVA,DaVita Inc.,NYSE,Healthcare
+BERY,"Berry Global Group, Inc.",NYSE,Consumer Cyclical
+SKX,"Skechers U.S.A., Inc.",NYSE,Consumer Cyclical
+CIB,Bancolombia S.A.,NYSE,Financial Services
+WAL,Western Alliance Bancorporation,NYSE,Financial Services
+EGP,"EastGroup Properties, Inc.",NYSE,Real Estate
+ITT,ITT Inc.,NYSE,Industrials
+ALV,"Autoliv, Inc.",NYSE,Consumer Cyclical
+PLNT,"Planet Fitness, Inc.",NYSE,Consumer Cyclical
+ARW,"Arrow Electronics, Inc.",NYSE,Technology
+OSH,"Oak Street Health, Inc.",NYSE,Healthcare
+SBS,Companhia de Saneamento Básico do Estado de São Paulo - SABESP,NYSE,Utilities
+FR,"First Industrial Realty Trust, Inc.",NYSE,Real Estate
+CIG-C,Companhia Energética de Minas Gerais,NYSE,Utilities
+VMI,"Valmont Industries, Inc.",NYSE,Industrials
+GPK,Graphic Packaging Holding Company,NYSE,Consumer Cyclical
+EME,"EMCOR Group, Inc.",NYSE,Industrials
+WCC,"WESCO International, Inc.",NYSE,Industrials
+RH,RH,NYSE,Consumer Cyclical
+GNRC,Generac Holdings Inc.,NYSE,Industrials
+ST,Sensata Technologies Holding plc,NYSE,Technology
+GLOB,Globant S.A.,NYSE,Technology
+AIZ,"Assurant, Inc.",NYSE,Financial Services
+OHI,"Omega Healthcare Investors, Inc.",NYSE,Real Estate
+RBC,RBC Bearings Incorporated,NYSE,Industrials
+BRX,Brixmor Property Group Inc.,NYSE,Real Estate
+CAE,CAE Inc.,NYSE,Industrials
+CLH,"Clean Harbors, Inc.",NYSE,Industrials
+KBR,"KBR, Inc.",NYSE,Industrials
+PB,"Prosperity Bancshares, Inc.",NYSE,Financial Services
+CACI,CACI International Inc,NYSE,Technology
+INGR,Ingredion Incorporated,NYSE,Consumer Defensive
+ONON,On Holding AG,NYSE,Consumer Cyclical
+UWMC,UWM Holdings Corporation,NYSE,Financial Services
+RBA,Ritchie Bros. Auctioneers Incorporated,NYSE,Industrials
+HLI,"Houlihan Lokey, Inc.",NYSE,Financial Services
+WH,"Wyndham Hotels & Resorts, Inc.",NYSE,Consumer Cyclical
+X,United States Steel Corporation,NYSE,Basic Materials
+ADC,Agree Realty Corporation,NYSE,Real Estate
+CHH,"Choice Hotels International, Inc.",NYSE,Consumer Cyclical
+VOYA,"Voya Financial, Inc.",NYSE,Financial Services
+WWE,"World Wrestling Entertainment, Inc.",NYSE,Communication Services
+NYCB,"New York Community Bancorp, Inc.",NYSE,Financial Services
+CWEN-A,"Clearway Energy, Inc.",NYSE,Utilities
+LAD,"Lithia Motors, Inc.",NYSE,Consumer Cyclical
+CWEN,"Clearway Energy, Inc.",NYSE,Utilities
+SF,Stifel Financial Corp.,NYSE,Financial Services
+TPX,"Tempur Sealy International, Inc.",NYSE,Consumer Cyclical
+MUR,Murphy Oil Corporation,NYSE,Energy
+DXC,DXC Technology Company,NYSE,Technology
+STWD,"Starwood Property Trust, Inc.",NYSE,Real Estate
+NCLH,Norwegian Cruise Line Holdings Ltd.,NYSE,Consumer Cyclical
+IOT,Samsara Inc.,NYSE,Technology
+NVT,nVent Electric plc,NYSE,Industrials
+MGY,Magnolia Oil & Gas Corporation,NYSE,Energy
+LEVI,Levi Strauss & Co.,NYSE,Consumer Cyclical
+NEP,"NextEra Energy Partners, LP",NYSE,Utilities
+RRC,Range Resources Corporation,NYSE,Energy
+SLG-PI,SL Green Realty Corp.,NYSE,Real Estate
+SWN,Southwestern Energy Company,NYSE,Energy
+OFC,Corporate Office Properties Trust,NYSE,Real Estate
+ALK,"Alaska Air Group, Inc.",NYSE,Industrials
+GXO,"GXO Logistics, Inc.",NYSE,Industrials
+STAG,"STAG Industrial, Inc.",NYSE,Real Estate
+WFG,West Fraser Timber Co. Ltd.,NYSE,Basic Materials
+HOG,"Harley-Davidson, Inc.",NYSE,Consumer Cyclical
+DCP-PC,"DCP Midstream, LP",NYSE,Energy
+DDS,"Dillard's, Inc.",NYSE,Consumer Cyclical
+FAF,First American Financial Corporation,NYSE,Financial Services
+BYD,Boyd Gaming Corporation,NYSE,Consumer Cyclical
+EHC,Encompass Health Corporation,NYSE,Healthcare
+ELAN,Elanco Animal Health Incorporated,NYSE,Healthcare
+AMG,"Affiliated Managers Group, Inc.",NYSE,Financial Services
+DOCS,"Doximity, Inc.",NYSE,Healthcare
+OAK-PB,"Oaktree Capital Group, LLC",NYSE,Financial Services
+TOL,"Toll Brothers, Inc.",NYSE,Consumer Cyclical
+OSK,Oshkosh Corporation,NYSE,Industrials
+M,"Macy's, Inc.",NYSE,Consumer Cyclical
+EDR,"Endeavor Group Holdings, Inc.",NYSE,Communication Services
+ENLC,"EnLink Midstream, LLC",NYSE,Energy
+SITE,"SiteOne Landscape Supply, Inc.",NYSE,Industrials
+LU,Lufax Holding Ltd,NYSE,Financial Services
+MDU,"MDU Resources Group, Inc.",NYSE,Industrials
+CMC,Commercial Metals Company,NYSE,Basic Materials
+KNSL,"Kinsale Capital Group, Inc.",NYSE,Financial Services
+VVV,Valvoline Inc.,NYSE,Energy
+CW,Curtiss-Wright Corporation,NYSE,Industrials
+DNB,"Dun & Bradstreet Holdings, Inc.",NYSE,Financial Services
+CR,"Crane Holdings, Co.",NYSE,Industrials
+CSAN,Cosan S.A.,NYSE,Energy
+KGC,Kinross Gold Corporation,NYSE,Basic Materials
+HUN,Huntsman Corporation,NYSE,Basic Materials
+AXTA,Axalta Coating Systems Ltd.,NYSE,Basic Materials
+RLI,RLI Corp.,NYSE,Financial Services
+PII,Polaris Inc.,NYSE,Consumer Cyclical
+NVST,Envista Holdings Corporation,NYSE,Healthcare
+BLCO,Bausch + Lomb Corporation,NYSE,Healthcare
+BLD,TopBuild Corp.,NYSE,Industrials
+TIXT,TELUS International (Cda) Inc.,NYSE,Technology
+GME,GameStop Corp.,NYSE,Consumer Cyclical
+ASH,Ashland Inc.,NYSE,Basic Materials
+VAC,Marriott Vacations Worldwide Corporation,NYSE,Consumer Cyclical
+PHYS,Sprott Physical Gold Trust,NYSE,Financial Services
+PBF,PBF Energy Inc.,NYSE,Energy
+AUY,Yamana Gold Inc.,NYSE,Basic Materials
+PR,Permian Resources Corporation,NYSE,Energy
+PHI,PLDT Inc.,NYSE,Communication Services
+HRB,"H&R Block, Inc.",NYSE,Consumer Cyclical
+FTI,TechnipFMC plc,NYSE,Energy
+SON,Sonoco Products Company,NYSE,Consumer Cyclical
+GBTG,"Global Business Travel Group, Inc.",NYSE,Technology
+SRC,"Spirit Realty Capital, Inc.",NYSE,Real Estate
+MUSA,Murphy USA Inc.,NYSE,Consumer Cyclical
+GWRE,"Guidewire Software, Inc.",NYSE,Technology
+SNV,Synovus Financial Corp.,NYSE,Financial Services
+BROS,Dutch Bros Inc.,NYSE,Consumer Cyclical
+STN,Stantec Inc.,NYSE,Industrials
+CIG,Companhia Energética de Minas Gerais,NYSE,Utilities
+BC,Brunswick Corporation,NYSE,Consumer Cyclical
+FLO,"Flowers Foods, Inc.",NYSE,Consumer Defensive
+AYI,"Acuity Brands, Inc.",NYSE,Industrials
+SLGN,Silgan Holdings Inc.,NYSE,Consumer Cyclical
+PRI,"Primerica, Inc.",NYSE,Financial Services
+SMAR,Smartsheet Inc.,NYSE,Technology
+HGTY,"Hagerty, Inc.",NYSE,Financial Services
+VAL,Valaris Limited,NYSE,Energy
+TKR,The Timken Company,NYSE,Industrials
+THC,Tenet Healthcare Corporation,NYSE,Healthcare
+CWAN,"Clearwater Analytics Holdings, Inc.",NYSE,Technology
+TREX,"Trex Company, Inc.",NYSE,Industrials
+GIL,Gildan Activewear Inc.,NYSE,Consumer Cyclical
+NYT,The New York Times Company,NYSE,Communication Services
+SAIC,Science Applications International Corporation,NYSE,Technology
+FCN,"FTI Consulting, Inc.",NYSE,Industrials
+WU,The Western Union Company,NYSE,Financial Services
+PVH,PVH Corp.,NYSE,Consumer Cyclical
+VRT,Vertiv Holdings Co,NYSE,Industrials
+TIMB,TIM S.A.,NYSE,Communication Services
+CIVI,"Civitas Resources, Inc.",NYSE,Energy
+IAA,"IAA, Inc.",NYSE,Industrials
+NE,Noble Corporation Plc,NYSE,Energy
+AIRC,Apartment Income REIT Corp.,NYSE,Real Estate
+FSK,FS KKR Capital Corp.,NYSE,Financial Services
+NSA,National Storage Affiliates Trust,NYSE,Real Estate
+GTLS,"Chart Industries, Inc.",NYSE,Industrials
+LUMN,"Lumen Technologies, Inc.",NYSE,Communication Services
+NFG,National Fuel Gas Company,NYSE,Energy
+GAB-PG,The Gabelli Equity Trust Inc. PFD-G,NYSE,Financial Services
+LNC,Lincoln National Corporation,NYSE,Financial Services
+AM,Antero Midstream Corporation,NYSE,Energy
+MP,MP Materials Corp.,NYSE,Basic Materials
+ASAI,Sendas Distribuidora S.A.,NYSE,Consumer Defensive
+POST,"Post Holdings, Inc.",NYSE,Consumer Defensive
+UNVR,Univar Solutions Inc.,NYSE,Basic Materials
+BEPC,Brookfield Renewable Corporation,NYSE,Utilities
+HGV,Hilton Grand Vacations Inc.,NYSE,Consumer Cyclical
+ESTC,Elastic N.V.,NYSE,Technology
+IDA,"IDACORP, Inc.",NYSE,Utilities
+FOUR,"Shift4 Payments, Inc.",NYSE,Technology
+RYN,Rayonier Inc.,NYSE,Real Estate
+STVN,Stevanato Group S.p.A.,NYSE,Healthcare
+MSA,MSA Safety Incorporated,NYSE,Industrials
+GBCI,"Glacier Bancorp, Inc.",NYSE,Financial Services
+DTM,"DT Midstream, Inc.",NYSE,Energy
+EXP,Eagle Materials Inc.,NYSE,Basic Materials
+BWXT,"BWX Technologies, Inc.",NYSE,Industrials
+CNM,"Core & Main, Inc.",NYSE,Industrials
+FLR,Fluor Corporation,NYSE,Industrials
+WTS,"Watts Water Technologies, Inc.",NYSE,Industrials
+APE,"AMC Entertainment Holdings, Inc.",NYSE,Communication Services
+CC,The Chemours Company,NYSE,Basic Materials
+ORCC,Owl Rock Capital Corporation,NYSE,Financial Services
+TAL,TAL Education Group,NYSE,Consumer Defensive
+ALIT,"Alight, Inc.",NYSE,Technology
+SNV-PD,Synovus Financial Corp.,NYSE,Financial Services
+HXL,Hexcel Corporation,NYSE,Industrials
+W,Wayfair Inc.,NYSE,Consumer Cyclical
+AQUA,Evoqua Water Technologies Corp.,NYSE,Industrials
+ORA,"Ormat Technologies, Inc.",NYSE,Utilities
+HP,"Helmerich & Payne, Inc.",NYSE,Energy
+UAA,"Under Armour, Inc.",NYSE,Consumer Cyclical
+IGT,International Game Technology PLC,NYSE,Consumer Cyclical
+BIPC,Brookfield Infrastructure Corporation,NYSE,Utilities
+UA,"Under Armour, Inc.",NYSE,Consumer Cyclical
+OMF,"OneMain Holdings, Inc.",NYSE,Financial Services
+DAVA,Endava plc,NYSE,Technology
+PRGO,Perrigo Company plc,NYSE,Healthcare
+FN,Fabrinet,NYSE,Technology
+AQN,Algonquin Power & Utilities Corp.,NYSE,Utilities
+AL,Air Lease Corporation,NYSE,Industrials
+GOL,Gol Linhas Aéreas Inteligentes S.A.,NYSE,Industrials
+EVR,Evercore Inc.,NYSE,Financial Services
+SID,Companhia Siderúrgica Nacional,NYSE,Basic Materials
+AXS,AXIS Capital Holdings Limited,NYSE,Financial Services
+GPS,"The Gap, Inc.",NYSE,Consumer Cyclical
+INFA,Informatica Inc.,NYSE,Technology
+RHP,"Ryman Hospitality Properties, Inc.",NYSE,Real Estate
+TRNO,Terreno Realty Corporation,NYSE,Real Estate
+PWSC,"PowerSchool Holdings, Inc.",NYSE,Technology
+ESI,Element Solutions Inc,NYSE,Basic Materials
+NJR,New Jersey Resources Corporation,NYSE,Utilities
+MNSO,MINISO Group Holding Limited,NYSE,Consumer Cyclical
+ATKR,Atkore Inc.,NYSE,Industrials
+AIT,"Applied Industrial Technologies, Inc.",NYSE,Industrials
+ATHM,Autohome Inc.,NYSE,Communication Services
+THO,"THOR Industries, Inc.",NYSE,Consumer Cyclical
+BE,Bloom Energy Corporation,NYSE,Industrials
+POR,Portland General Electric Company,NYSE,Utilities
+R,"Ryder System, Inc.",NYSE,Industrials
+TKC,Turkcell Iletisim Hizmetleri A.S.,NYSE,Communication Services
+FNB,F.N.B. Corporation,NYSE,Financial Services
+APG,APi Group Corporation,NYSE,Industrials
+PBI-PB,Pitney Bowes Inc. NT 43,NYSE,
+BKH,Black Hills Corporation,NYSE,Utilities
+TNET,"TriNet Group, Inc.",NYSE,Industrials
+WK,Workiva Inc.,NYSE,Technology
+THG,"The Hanover Insurance Group, Inc.",NYSE,Financial Services
+KRC,Kilroy Realty Corporation,NYSE,Real Estate
+VNO,Vornado Realty Trust,NYSE,Real Estate
+PDI,PIMCO Dynamic Income Fund,NYSE,Financial Services
+HOMB,"Home Bancshares, Inc. (Conway, AR)",NYSE,Financial Services
+KRG,Kite Realty Group Trust,NYSE,Real Estate
+CADE,Cadence Bank,NYSE,Financial Services
+ATI,ATI Inc.,NYSE,Industrials
+CABO,"Cable One, Inc.",NYSE,Communication Services
+AJRD,"Aerojet Rocketdyne Holdings, Inc.",NYSE,Industrials
+HAE,Haemonetics Corporation,NYSE,Healthcare
+LEG,"Leggett & Platt, Incorporated",NYSE,Consumer Cyclical
+LPX,Louisiana-Pacific Corporation,NYSE,Industrials
+HE,"Hawaiian Electric Industries, Inc.",NYSE,Utilities
+MAN,ManpowerGroup Inc.,NYSE,Industrials
+SNDR,"Schneider National, Inc.",NYSE,Industrials
+TGNA,TEGNA Inc.,NYSE,Communication Services
+DEN,Denbury Inc.,NYSE,Energy
+EPR-PG,EPR Properties,NYSE,Real Estate
+SWX,"Southwest Gas Holdings, Inc.",NYSE,Utilities
+BOX,"Box, Inc.",NYSE,Technology
+MSM,"MSC Industrial Direct Co., Inc.",NYSE,Industrials
+MSGS,Madison Square Garden Sports Corp.,NYSE,Communication Services
+BFAM,Bright Horizons Family Solutions Inc.,NYSE,Consumer Cyclical
+ESNT,Essent Group Ltd.,NYSE,Financial Services
+SJI,"South Jersey Industries, Inc.",NYSE,Utilities
+AGI,Alamos Gold Inc.,NYSE,Basic Materials
+MMS,"Maximus, Inc.",NYSE,Industrials
+AXS-PE,AXIS Capital Holdings Limited,NYSE,Financial Services
+ASGN,ASGN Incorporated,NYSE,Technology
+SAM,"The Boston Beer Company, Inc.",NYSE,Consumer Defensive
+LTHM,Livent Corporation,NYSE,Basic Materials
+FLS,Flowserve Corporation,NYSE,Industrials
+XPO,"XPO, Inc.",NYSE,Industrials
+PSN,Parsons Corporation,NYSE,Technology
+STR,Sitio Royalties Corp.,NYSE,Energy
+RIG,Transocean Ltd.,NYSE,Energy
+NSP,"Insperity, Inc.",NYSE,Industrials
+JHG,Janus Henderson Group plc,NYSE,Financial Services
+YOU,"Clear Secure, Inc.",NYSE,Technology
+AMN,"AMN Healthcare Services, Inc.",NYSE,Healthcare
+RITM,Rithm Capital Corp.,NYSE,Real Estate
+ATCO,Atlas Corp.,NYSE,Financial Services
+MODG,Topgolf Callaway Brands Corp.,NYSE,Consumer Cyclical
+PNM,"PNM Resources, Inc.",NYSE,Utilities
+TDOC,"Teladoc Health, Inc.",NYSE,Healthcare
+SSD,"Simpson Manufacturing Co., Inc.",NYSE,Basic Materials
+RLX,RLX Technology Inc.,NYSE,Consumer Defensive
+NYCB-PA,"New York Community Bancorp, Inc.",NYSE,Financial Services
+ABG,"Asbury Automotive Group, Inc.",NYSE,Consumer Cyclical
+HRI,Herc Holdings Inc.,NYSE,Industrials
+FIX,"Comfort Systems USA, Inc.",NYSE,Industrials
+AL-PA,Air Lease Corporation,NYSE,Industrials
+OGS,"ONE Gas, Inc.",NYSE,Utilities
+SR-PA,Spire Inc.,NYSE,Utilities
+TRTN,Triton International Limited,NYSE,Industrials
+IRT,"Independence Realty Trust, Inc.",NYSE,Real Estate
+REXR-PB,"Rexford Industrial Realty, Inc.",NYSE,Real Estate
+DNP,DNP Select Income Fund Inc.,NYSE,Financial Services
+SM,SM Energy Company,NYSE,Energy
+MTG,MGIC Investment Corporation,NYSE,Financial Services
+CBT,Cabot Corporation,NYSE,Basic Materials
+S,"SentinelOne, Inc.",NYSE,Technology
+CPG,Crescent Point Energy Corp.,NYSE,Energy
+BTU,Peabody Energy Corporation,NYSE,Energy
+HHC,The Howard Hughes Corporation,NYSE,Real Estate
+BXMT,"Blackstone Mortgage Trust, Inc.",NYSE,Real Estate
+ADNT,Adient plc,NYSE,Consumer Cyclical
+ERF,Enerplus Corporation,NYSE,Energy
+WNS,WNS (Holdings) Limited,NYSE,Technology
+NEWR,"New Relic, Inc.",NYSE,Technology
+AEL,American Equity Investment Life Holding Company,NYSE,Financial Services
+CUZ,Cousins Properties Incorporated,NYSE,Real Estate
+SFBS,"ServisFirst Bancshares, Inc.",NYSE,Financial Services
+LPL,"LG Display Co., Ltd.",NYSE,Technology
+DV,"DoubleVerify Holdings, Inc.",NYSE,Technology
+APLE,"Apple Hospitality REIT, Inc.",NYSE,Real Estate
+ALSN,"Allison Transmission Holdings, Inc.",NYSE,Consumer Cyclical
+MAXR,Maxar Technologies Inc.,NYSE,Technology
+SUN,Sunoco LP,NYSE,Energy
+KEX,Kirby Corporation,NYSE,Industrials
+WTM,"White Mountains Insurance Group, Ltd.",NYSE,Financial Services
+GRP-UN,Granite Real Estate Investment Trust,NYSE,Real Estate
+MANU,Manchester United plc,NYSE,Communication Services
+GATX,GATX Corporation,NYSE,Industrials
+SF-PB,Stifel Financial Corp.,NYSE,Financial Services
+HL,Hecla Mining Company,NYSE,Basic Materials
+CHPT,"ChargePoint Holdings, Inc.",NYSE,Consumer Cyclical
+PSLV,Sprott Physical Silver Trust,NYSE,Financial Services
+WBS-PF,Webster Financial Corporation,NYSE,Financial Services
+SEAS,"SeaWorld Entertainment, Inc.",NYSE,Consumer Cyclical
+EQC-PD,Equity Commonwealth,NYSE,Real Estate
+ONTO,Onto Innovation Inc.,NYSE,Technology
+AB,AllianceBernstein Holding L.P.,NYSE,Financial Services
+CALX,"Calix, Inc.",NYSE,Technology
+SUM,"Summit Materials, Inc.",NYSE,Basic Materials
+BXSL,Blackstone Secured Lending Fund,NYSE,Financial Services
+YETI,"YETI Holdings, Inc.",NYSE,Consumer Cyclical
+ZWS,Zurn Elkay Water Solutions Corporation,NYSE,Industrials
+FUL,H.B. Fuller Company,NYSE,Basic Materials
+SRC-PA,"Spirit Realty Capital, Inc.",NYSE,Real Estate
+INST,"Instructure Holdings, Inc.",NYSE,Technology
+SR,Spire Inc.,NYSE,Utilities
+ENV,"Envestnet, Inc.",NYSE,Technology
+ALE,"ALLETE, Inc.",NYSE,Utilities
+MTH,Meritage Homes Corporation,NYSE,Consumer Cyclical
+DOC,Physicians Realty Trust,NYSE,Real Estate
+AGO,Assured Guaranty Ltd.,NYSE,Financial Services
+AYX,"Alteryx, Inc.",NYSE,Technology
+TWO-PC,Two Harbors Investment Corp.,NYSE,Real Estate
+MLI,"Mueller Industries, Inc.",NYSE,Industrials
+SEM,Select Medical Holdings Corporation,NYSE,Healthcare
+CPA,"Copa Holdings, S.A.",NYSE,Industrials
+KOS,Kosmos Energy Ltd.,NYSE,Energy
+NCR,NCR Corporation,NYSE,Technology
+UNF,UniFirst Corporation,NYSE,Industrials
+CNS,"Cohen & Steers, Inc.",NYSE,Financial Services
+TMHC,Taylor Morrison Home Corporation,NYSE,Consumer Cyclical
+AZEK,The AZEK Company Inc.,NYSE,Industrials
+DQ,Daqo New Energy Corp.,NYSE,Technology
+BRBR,"BellRing Brands, Inc.",NYSE,Consumer Defensive
+FNB-PE,F.N.B. Corporation,NYSE,Financial Services
+GTES,Gates Industrial Corporation plc,NYSE,Industrials
+BAK,Braskem S.A.,NYSE,Basic Materials
+FL,"Foot Locker, Inc.",NYSE,Consumer Cyclical
+AVNT,Avient Corporation,NYSE,Basic Materials
+GEF,"Greif, Inc.",NYSE,Consumer Cyclical
+RNG,"RingCentral, Inc.",NYSE,Technology
+GEF-B,"Greif, Inc.",NYSE,Consumer Cyclical
+BNL,"Broadstone Net Lease, Inc.",NYSE,Real Estate
+CRC,California Resources Corporation,NYSE,Energy
+NEA,Nuveen AMT-Free Quality Municipal Income Fund,NYSE,Financial Services
+SMG,The Scotts Miracle-Gro Company,NYSE,Basic Materials
+EPRT,"Essential Properties Realty Trust, Inc.",NYSE,Real Estate
+AWR,American States Water Company,NYSE,Utilities
+LAZ,Lazard Ltd,NYSE,Financial Services
+KMPR,Kemper Corporation,NYSE,Financial Services
+BSM,"Black Stone Minerals, L.P.",NYSE,Energy
+VNT,Vontier Corporation,NYSE,Technology
+NNI,"Nelnet, Inc.",NYSE,Financial Services
+TNL,Travel + Leisure Co.,NYSE,Consumer Cyclical
+FHI,"Federated Hermes, Inc.",NYSE,Financial Services
+SPR,"Spirit AeroSystems Holdings, Inc.",NYSE,Industrials
+WHD,"Cactus, Inc.",NYSE,Energy
+KSS,Kohl's Corporation,NYSE,Consumer Cyclical
+KWR,Quaker Chemical Corporation,NYSE,Basic Materials
+LTH,"Life Time Group Holdings, Inc.",NYSE,Consumer Cyclical
+AWI,"Armstrong World Industries, Inc.",NYSE,Industrials
+NEU,NewMarket Corporation,NYSE,Basic Materials
+JXN,Jackson Financial Inc.,NYSE,Financial Services
+QS,QuantumScape Corporation,NYSE,Consumer Cyclical
+BMI,"Badger Meter, Inc.",NYSE,Technology
+ASB,Associated Banc-Corp,NYSE,Financial Services
+TDC,Teradata Corporation,NYSE,Technology
+AIN,Albany International Corp.,NYSE,Consumer Cyclical
+BDC,Belden Inc.,NYSE,Technology
+AMBP,Ardagh Metal Packaging S.A.,NYSE,Consumer Cyclical
+CWT,California Water Service Group,NYSE,Utilities
+RDN,Radian Group Inc.,NYSE,Financial Services
+PBH,Prestige Consumer Healthcare Inc.,NYSE,Healthcare
+CVI,"CVR Energy, Inc.",NYSE,Energy
+ENS,EnerSys,NYSE,Industrials
+TV,"Grupo Televisa, S.A.B.",NYSE,Communication Services
+CBU,"Community Bank System, Inc.",NYSE,Financial Services
+ESAB,ESAB Corporation,NYSE,Industrials
+SIG,Signet Jewelers Limited,NYSE,Consumer Cyclical
+TEO,Telecom Argentina S.A.,NYSE,Communication Services
+SKY,Skyline Champion Corporation,NYSE,Consumer Cyclical
+PFSI,"PennyMac Financial Services, Inc.",NYSE,Financial Services
+ENOV,Enovis Corporation,NYSE,Industrials
+NTCO,Natura &Co Holding S.A.,NYSE,Consumer Defensive
+DNA,"Ginkgo Bioworks Holdings, Inc.",NYSE,Healthcare
+HIW,"Highwoods Properties, Inc.",NYSE,Real Estate
+VSCO,Victoria's Secret & Co.,NYSE,Consumer Cyclical
+AMRC,"Ameresco, Inc.",NYSE,Industrials
+GOLF,Acushnet Holdings Corp.,NYSE,Consumer Cyclical
+SPXC,"SPX Technologies, Inc.",NYSE,Industrials
+EURN,Euronav NV,NYSE,Energy
+DEI,"Douglas Emmett, Inc.",NYSE,Real Estate
+CWK,Cushman & Wakefield plc,NYSE,Real Estate
+ASB-PE,Associated Banc-Corp,NYSE,Financial Services
+TEX,Terex Corporation,NYSE,Industrials
+JBT,John Bean Technologies Corporation,NYSE,Industrials
+ESMT,"EngageSmart, Inc.",NYSE,Technology
+VSH,"Vishay Intertechnology, Inc.",NYSE,Technology
+BOH,Bank of Hawaii Corporation,NYSE,Financial Services
+FRO,Frontline plc,NYSE,Energy
+MC,Moelis & Company,NYSE,Financial Services
+EVH,"Evolent Health, Inc.",NYSE,Healthcare
+SXT,Sensient Technologies Corporation,NYSE,Basic Materials
+EVA,Enviva Inc.,NYSE,Basic Materials
+LXP,LXP Industrial Trust,NYSE,Real Estate
+CRI,"Carter's, Inc.",NYSE,Consumer Cyclical
+TR,"Tootsie Roll Industries, Inc.",NYSE,Consumer Defensive
+FSS,Federal Signal Corporation,NYSE,Industrials
+WD,"Walker & Dunlop, Inc.",NYSE,Financial Services
+ENIC,Enel Chile S.A.,NYSE,Utilities
+AVA,Avista Corporation,NYSE,Utilities
+PJT,PJT Partners Inc.,NYSE,Financial Services
+HI,"Hillenbrand, Inc.",NYSE,Industrials
+TWO-PB,Two Harbors Investment Corp.,NYSE,Real Estate
+OUT,Outfront Media Inc.,NYSE,Real Estate
+MOG-A,Moog Inc.,NYSE,Industrials
+EPR,EPR Properties,NYSE,Real Estate
+KBH,KB Home,NYSE,Consumer Cyclical
+MAIN,Main Street Capital Corporation,NYSE,Financial Services
+CIM-PB,Chimera Investment Corporation,NYSE,Real Estate
+NGVT,Ingevity Corporation,NYSE,Basic Materials
+NOMD,Nomad Foods Limited,NYSE,Consumer Defensive
+TWO-PA,Two Harbors Investment Corp.,NYSE,Real Estate
+ETRN,Equitrans Midstream Corporation,NYSE,Energy
+WRB-PE,W. R. Berkley Corporation 5.70% SB DB 2058,NYSE,
+MOG-B,Moog Inc.,NYSE,Industrials
+CNX,CNX Resources Corporation,NYSE,Energy
+PEB-PF,Pebblebrook Hotel Trust,NYSE,
+CIM-PD,Chimera Investment Corporation,NYSE,Real Estate
+GHC,Graham Holdings Company,NYSE,Consumer Defensive
+CRK,"Comstock Resources, Inc.",NYSE,Energy
+PEB-PE,Pebblebrook Hotel Trust,NYSE,
+AVAL,Grupo Aval Acciones y Valores S.A.,NYSE,Financial Services
+BHC,Bausch Health Companies Inc.,NYSE,Healthcare
+ABM,ABM Industries Incorporated,NYSE,Industrials
+CNMD,CONMED Corporation,NYSE,Healthcare
+HASI,"Hannon Armstrong Sustainable Infrastructure Capital, Inc.",NYSE,Real Estate
+OI,"O-I Glass, Inc.",NYSE,Consumer Cyclical
+IBP,"Installed Building Products, Inc.",NYSE,Consumer Cyclical
+STNG,Scorpio Tankers Inc.,NYSE,Energy
+BCO,The Brink's Company,NYSE,Industrials
+MCW,"Mister Car Wash, Inc.",NYSE,Consumer Cyclical
+PAGS,PagSeguro Digital Ltd.,NYSE,Technology
+PDO,Pimco Dynamic Income Opportunities Fund,NYSE,Financial Services
+DY,"Dycom Industries, Inc.",NYSE,Industrials
+PK,Park Hotels & Resorts Inc.,NYSE,Real Estate
+ASAN,"Asana, Inc.",NYSE,Technology
+SQSP,"Squarespace, Inc.",NYSE,Technology
+TGS,Transportadora de Gas del Sur S.A.,NYSE,Energy
+CIM-PA,Chimera Investment Corporation,NYSE,Real Estate
+IFS,Intercorp Financial Services Inc.,NYSE,Financial Services
+GPI,"Group 1 Automotive, Inc.",NYSE,Consumer Cyclical
+ELF,"e.l.f. Beauty, Inc.",NYSE,Consumer Defensive
+NS-PA,NuStar Energy L.P.,NYSE,Energy
+CIM-PC,Chimera Investment Corporation,NYSE,Real Estate
+JKS,"JinkoSolar Holding Co., Ltd.",NYSE,Technology
+AMC,"AMC Entertainment Holdings, Inc.",NYSE,Communication Services
+KFY,Korn Ferry,NYSE,Industrials
+LAC,Lithium Americas Corp.,NYSE,Basic Materials
+MAC,The Macerich Company,NYSE,Real Estate
+NAD,Nuveen Quality Municipal Income Fund,NYSE,Financial Services
+JWN,"Nordstrom, Inc.",NYSE,Consumer Cyclical
+AEO,"American Eagle Outfitters, Inc.",NYSE,Consumer Cyclical
+HBI,Hanesbrands Inc.,NYSE,Consumer Cyclical
+KD,"Kyndryl Holdings, Inc.",NYSE,Technology
+EQC,Equity Commonwealth,NYSE,Real Estate
+RLJ-PA,RLJ Lodging Trust,NYSE,Real Estate
+DEA,"Easterly Government Properties, Inc.",NYSE,Real Estate
+NOG,"Northern Oil and Gas, Inc.",NYSE,Energy
+CEQP,Crestwood Equity Partners LP,NYSE,Energy
+SITC,SITE Centers Corp.,NYSE,Real Estate
+HAYW,"Hayward Holdings, Inc.",NYSE,Industrials
+BMA,Banco Macro S.A.,NYSE,Financial Services
+BCC,Boise Cascade Company,NYSE,Basic Materials
+ZGN,Ermenegildo Zegna N.V.,NYSE,Consumer Cyclical
+CCU,Compañía Cervecerías Unidas S.A.,NYSE,Consumer Defensive
+AMR,"Alpha Metallurgical Resources, Inc.",NYSE,Basic Materials
+AUB,Atlantic Union Bankshares Corporation,NYSE,Financial Services
+BKU,"BankUnited, Inc.",NYSE,Financial Services
+ARCH,"Arch Resources, Inc.",NYSE,Energy
+NS-PB,NuStar Energy L.P.,NYSE,Energy
+GNW,"Genworth Financial, Inc.",NYSE,Financial Services
+LBRT,Liberty Energy Inc.,NYSE,Energy
+UGP,Ultrapar Participações S.A.,NYSE,Energy
+NVG,Nuveen AMT-Free Municipal Credit Income Fund,NYSE,Financial Services
+IBA,"Industrias Bachoco, S.A.B. de C.V.",NYSE,Consumer Defensive
+DOCN,"DigitalOcean Holdings, Inc.",NYSE,Technology
+WOR,"Worthington Industries, Inc.",NYSE,Industrials
+ACA,"Arcosa, Inc.",NYSE,Industrials
+CPE,Callon Petroleum Company,NYSE,Energy
+CNO,"CNO Financial Group, Inc.",NYSE,Financial Services
+LCII,LCI Industries,NYSE,Consumer Cyclical
+THS,"TreeHouse Foods, Inc.",NYSE,Consumer Defensive
+SPB,"Spectrum Brands Holdings, Inc.",NYSE,Consumer Defensive
+MYOV,Myovant Sciences Ltd.,NYSE,Healthcare
+EE,"Excelerate Energy, Inc.",NYSE,Utilities
+MFA-PB,"MFA Financial, Inc.",NYSE,Real Estate
+CHGG,"Chegg, Inc.",NYSE,Consumer Defensive
+MDC,"M.D.C. Holdings, Inc.",NYSE,Consumer Cyclical
+REZI,"Resideo Technologies, Inc.",NYSE,Industrials
+VET,Vermilion Energy Inc.,NYSE,Energy
+ENR,"Energizer Holdings, Inc.",NYSE,Industrials
+IHS,IHS Holding Limited,NYSE,Communication Services
+TROX,Tronox Holdings plc,NYSE,Basic Materials
+JOE,The St. Joe Company,NYSE,Real Estate
+VVNT,"Vivint Smart Home, Inc.",NYSE,Industrials
+TAC,TransAlta Corporation,NYSE,Utilities
+BRC,Brady Corporation,NYSE,Industrials
+KTB,"Kontoor Brands, Inc.",NYSE,Consumer Cyclical
+OR,Osisko Gold Royalties Ltd,NYSE,Basic Materials
+PD,"PagerDuty, Inc.",NYSE,Technology
+ROG,Rogers Corporation,NYSE,Technology
+WLY,"John Wiley & Sons, Inc.",NYSE,Communication Services
+AX,"Axos Financial, Inc.",NYSE,Financial Services
+IIPR,"Innovative Industrial Properties, Inc.",NYSE,Real Estate
+LSPD,Lightspeed Commerce Inc.,NYSE,Technology
+PIPR,Piper Sandler Companies,NYSE,Financial Services
+JOBY,"Joby Aviation, Inc.",NYSE,Industrials
+FBP,First BanCorp.,NYSE,Financial Services
+HEP,"Holly Energy Partners, L.P.",NYSE,Energy
+ITGR,Integer Holdings Corporation,NYSE,Healthcare
+ABR,"Arbor Realty Trust, Inc.",NYSE,Real Estate
+HMY,Harmony Gold Mining Company Limited,NYSE,Basic Materials
+NHI,"National Health Investors, Inc.",NYSE,Real Estate
+DAN,Dana Incorporated,NYSE,Consumer Cyclical
+BB,BlackBerry Limited,NYSE,Technology
+EXG,Eaton Vance Tax-Managed Global Diversified Equity Income Fund,NYSE,Financial Services
+ESE,ESCO Technologies Inc.,NYSE,Technology
+WLYB,"John Wiley & Sons, Inc.",NYSE,Communication Services
+SCL,Stepan Company,NYSE,Basic Materials
+APAM,Artisan Partners Asset Management Inc.,NYSE,Financial Services
+FTCH,Farfetch Limited,NYSE,Consumer Cyclical
+MATX,"Matson, Inc.",NYSE,Industrials
+UNFI,"United Natural Foods, Inc.",NYSE,Consumer Defensive
+CBZ,"CBIZ, Inc.",NYSE,Industrials
+BOWL,Bowlero Corp.,NYSE,Communication Services
+KRP,"Kimbell Royalty Partners, LP",NYSE,Energy
+SLG,SL Green Realty Corp.,NYSE,Real Estate
+ARNC,Arconic Corporation,NYSE,Industrials
+FCPT,"Four Corners Property Trust, Inc.",NYSE,Real Estate
+NSA-PA,National Storage Affiliates Trust,NYSE,Real Estate
+UTF,"Cohen & Steers Infrastructure Fund, Inc",NYSE,Financial Services
+NPO,"EnPro Industries, Inc.",NYSE,Industrials
+PRMW,Primo Water Corporation,NYSE,Consumer Defensive
+NXRT,"NexPoint Residential Trust, Inc.",NYSE,Real Estate
+EVTC,"EVERTEC, Inc.",NYSE,Technology
+TRTN-PA,Triton International Limited,NYSE,Industrials
+SRG-PA,Seritage Growth Properties,NYSE,Real Estate
+WEBR,Weber Inc.,NYSE,Consumer Cyclical
+NS-PC,NuStar Energy L.P. 9.00% CUM PFD C,NYSE,Energy
+BRDG,Bridge Investment Group Holdings Inc.,NYSE,Financial Services
+ERJ,Embraer S.A.,NYSE,Industrials
+WMK,"Weis Markets, Inc.",NYSE,Consumer Defensive
+GKOS,Glaukos Corporation,NYSE,Healthcare
+KAI,Kadant Inc.,NYSE,Industrials
+SJW,SJW Group,NYSE,Utilities
+SHAK,Shake Shack Inc.,NYSE,Consumer Cyclical
+TCN,Tricon Residential Inc.,NYSE,Real Estate
+AGTI,"Agiliti, Inc.",NYSE,Healthcare
+KW,"Kennedy-Wilson Holdings, Inc.",NYSE,Real Estate
+CXM,"Sprinklr, Inc.",NYSE,Technology
+SITC-PA,SITE Centers Corp.,NYSE,Real Estate
+FUN,"Cedar Fair, L.P.",NYSE,Consumer Cyclical
+NXE,NexGen Energy Ltd.,NYSE,Energy
+NOVA,Sunnova Energy International Inc.,NYSE,Technology
+TRN,"Trinity Industries, Inc.",NYSE,Industrials
+ITCB,Itaú Corpbanca,NYSE,Financial Services
+CMTG,"Claros Mortgage Trust, Inc.",NYSE,Real Estate
+GOOS,Canada Goose Holdings Inc.,NYSE,Consumer Cyclical
+NEX,NexTier Oilfield Solutions Inc.,NYSE,Energy
+ZIM,ZIM Integrated Shipping Services Ltd.,NYSE,Industrials
+MFGP,Micro Focus International plc,NYSE,Technology
+GMS,GMS Inc.,NYSE,Industrials
+SIX,Six Flags Entertainment Corporation,NYSE,Consumer Cyclical
+KMT,Kennametal Inc.,NYSE,Industrials
+AG,First Majestic Silver Corp.,NYSE,Basic Materials
+ATUS,"Altice USA, Inc.",NYSE,Communication Services
+BKE,"The Buckle, Inc.",NYSE,Consumer Cyclical
+SAVE,"Spirit Airlines, Inc.",NYSE,Industrials
+CEIX,CONSOL Energy Inc.,NYSE,Energy
+SSTK,"Shutterstock, Inc.",NYSE,Communication Services
+B,Barnes Group Inc.,NYSE,Industrials
+BOOT,"Boot Barn Holdings, Inc.",NYSE,Consumer Cyclical
+GFF,Griffon Corporation,NYSE,Industrials
+CRGY,Crescent Energy Company,NYSE,Energy
+AKO-B,Embotelladora Andina S.A.,NYSE,Consumer Defensive
+CPK,Chesapeake Utilities Corporation,NYSE,Utilities
+JBGS,JBG SMITH Properties,NYSE,Real Estate
+TFPM,Triple Flag Precious Metals Corp.,NYSE,Basic Materials
+TDW,Tidewater Inc.,NYSE,Energy
+SHO,"Sunstone Hotel Investors, Inc.",NYSE,Real Estate
+CRS,Carpenter Technology Corporation,NYSE,Industrials
+MTX,Minerals Technologies Inc.,NYSE,Basic Materials
+LXP-PC,LXP Industrial Trust,NYSE,Real Estate
+EPC,Edgewell Personal Care Company,NYSE,Consumer Defensive
+FSR,Fisker Inc.,NYSE,Consumer Cyclical
+BVN,Compañía de Minas Buenaventura S.A.A.,NYSE,Basic Materials
+TPH,"Tri Pointe Homes, Inc.",NYSE,Consumer Cyclical
+CIXX,CI Financial Corp.,NYSE,Financial Services
+AAT,"American Assets Trust, Inc.",NYSE,Real Estate
+NUS,"Nu Skin Enterprises, Inc.",NYSE,Consumer Defensive
+HKD,AMTD Digital Inc.,NYSE,Technology
+YELP,Yelp Inc.,NYSE,Communication Services
+NZF,Nuveen Municipal Credit Income Fund,NYSE,Financial Services
+SAFE,Safehold Inc.,NYSE,Real Estate
+ESRT,"Empire State Realty Trust, Inc.",NYSE,Real Estate
+HLIO,"Helios Technologies, Inc.",NYSE,Industrials
+SLVM,Sylvamo Corporation,NYSE,Basic Materials
+CSTM,Constellium SE,NYSE,Basic Materials
+ZIP,"ZipRecruiter, Inc.",NYSE,Industrials
+DKL,"Delek Logistics Partners, LP",NYSE,Energy
+XPRO,Expro Group Holdings N.V.,NYSE,Energy
+SDRL,Seadrill Limited,NYSE,Energy
+NSS,"NuStar Logistics, L.P. SB NT FX/FL 43",NYSE,
+EXAS,Exact Sciences Corporation,NasdaqCM,Healthcare
+WSC,WillScot Mobile Mini Holdings Corp.,NasdaqCM,Industrials
+PLUG,Plug Power Inc.,NasdaqCM,Industrials
+CELH,"Celsius Holdings, Inc.",NasdaqCM,Consumer Defensive
+CERE,"Cerevel Therapeutics Holdings, Inc.",NasdaqCM,Healthcare
+GGAL,Grupo Financiero Galicia S.A.,NasdaqCM,Financial Services
+FRHC,Freedom Holding Corp.,NasdaqCM,Financial Services
+SMPL,The Simply Good Foods Company,NasdaqCM,Consumer Defensive
+SPT,"Sprout Social, Inc.",NasdaqCM,Technology
+SGML,Sigma Lithium Corporation,NasdaqCM,Basic Materials
+COOP,Mr. Cooper Group Inc.,NasdaqCM,Financial Services
+GOCO,"GoHealth, Inc.",NasdaqCM,Financial Services
+TWNK,"Hostess Brands, Inc.",NasdaqCM,Consumer Defensive
+AHCO,AdaptHealth Corp.,NasdaqCM,Healthcare
+CORT,Corcept Therapeutics Incorporated,NasdaqCM,Healthcare
+RKLB,"Rocket Lab USA, Inc.",NasdaqCM,Industrials
+VRRM,Verra Mobility Corporation,NasdaqCM,Industrials
+PROK,ProKidney Corp.,NasdaqCM,Healthcare
+CLDX,"Celldex Therapeutics, Inc.",NasdaqCM,Healthcare
+CPRX,"Catalyst Pharmaceuticals, Inc.",NasdaqCM,Healthcare
+NVEE,"NV5 Global, Inc.",NasdaqCM,Industrials
+ENPH,"Enphase Energy, Inc.",NasdaqGM,Technology
+TTD,"The Trade Desk, Inc.",NasdaqGM,Technology
+PSNYW,Polestar Automotive Holding UK PLC,NasdaqGM,Consumer Cyclical
+MDB,"MongoDB, Inc.",NasdaqGM,Technology
+PSNY,Polestar Automotive Holding UK PLC,NasdaqGM,Consumer Cyclical
+ARCC,Ares Capital Corporation,NasdaqGM,Financial Services
+SYM,Symbotic Inc.,NasdaqGM,Financial Services
+FUTU,Futu Holdings Limited,NasdaqGM,Financial Services
+KRTX,"Karuna Therapeutics, Inc.",NasdaqGM,Healthcare
+ROIV,Roivant Sciences Ltd.,NasdaqGM,Healthcare
+FIVN,"Five9, Inc.",NasdaqGM,Technology
+GDS,GDS Holdings Limited,NasdaqGM,Technology
+ZLAB,Zai Lab Limited,NasdaqGM,Healthcare
+APPF,"AppFolio, Inc.",NasdaqGM,Technology
+CRSP,CRISPR Therapeutics AG,NasdaqGM,Healthcare
+LNTH,"Lantheus Holdings, Inc.",NasdaqGM,Healthcare
+FOLD,"Amicus Therapeutics, Inc.",NasdaqGM,Healthcare
+STAA,STAAR Surgical Company,NasdaqGM,Healthcare
+ARRY,"Array Technologies, Inc.",NasdaqGM,Technology
+OLLI,"Ollie's Bargain Outlet Holdings, Inc.",NasdaqGM,Consumer Defensive
+CVT,Cvent Holding Corp.,NasdaqGM,Technology
+SHLS,"Shoals Technologies Group, Inc.",NasdaqGM,Technology
+AXSM,"Axsome Therapeutics, Inc.",NasdaqGM,Healthcare
+FRPT,"Freshpet, Inc.",NasdaqGM,Consumer Defensive
+EVOP,"EVO Payments, Inc.",NasdaqGM,Technology
+HPK,"HighPeak Energy, Inc.",NasdaqGM,Energy
+HRMY,"Harmony Biosciences Holdings, Inc.",NasdaqGM,Healthcare
+NTLA,"Intellia Therapeutics, Inc.",NasdaqGM,Healthcare
+ALVO,Alvotech,NasdaqGM,Healthcare
+APPN,Appian Corporation,NasdaqGM,Technology
+TNDM,"Tandem Diabetes Care, Inc.",NasdaqGM,Healthcare
+RUM,Rumble Inc.,NasdaqGM,Technology
+RVNC,"Revance Therapeutics, Inc.",NasdaqGM,Healthcare
+SAGE,"Sage Therapeutics, Inc.",NasdaqGM,Healthcare
+RLAY,"Relay Therapeutics, Inc.",NasdaqGM,Healthcare
+SITM,SiTime Corporation,NasdaqGM,Technology
+OLK,Olink Holding AB (publ),NasdaqGM,Healthcare
+XENE,Xenon Pharmaceuticals Inc.,NasdaqGM,Healthcare
+TRUP,"Trupanion, Inc.",NasdaqGM,Financial Services
+CSQ,Calamos Strategic Total Return Fund,NasdaqGM,Financial Services
+SUPN,"Supernus Pharmaceuticals, Inc.",NasdaqGM,Healthcare
+EXPI,"eXp World Holdings, Inc.",NasdaqGM,Real Estate
+RPD,"Rapid7, Inc.",NasdaqGM,Technology
+KRYS,"Krystal Biotech, Inc.",NasdaqGM,Healthcare
+PAYO,Payoneer Global Inc.,NasdaqGM,Technology
+TMDX,"TransMedics Group, Inc.",NasdaqGM,Healthcare
