@@ -1,9 +1,12 @@
 # Import packages
 import time
 import pandas as pd
+from selenium.webdriver import Chrome
 from selenium.webdriver.common.by import By
 from selenium.webdriver.support.ui import WebDriverWait
 from selenium.webdriver.support import expected_conditions as EC
+# List
+from typing import List
 
 
 # Scraping functions
@@ -13,7 +16,7 @@ apart from get_page_contents. It takes driver only.
 """
 
 
-def load_YF_screener(url, driver, delay):
+def load_YF_screener(url: str, driver: Chrome, delay: int):
     """
     INPUT: Yahoo Finance URL -> str
     Load yf main page and accept the cookie policy.
@@ -24,7 +27,7 @@ def load_YF_screener(url, driver, delay):
     driver.find_element(By.NAME, 'agree').click()
 
 
-def add_filter(filter_names, driver, delay):
+def add_filter(filter_names: List[str], driver: Chrome, delay: int):
     """
     INPUT: Filter Names -> list(str)
 
@@ -40,7 +43,7 @@ def add_filter(filter_names, driver, delay):
         driver.find_element(By.XPATH, "//button[@title='Close']").click()
 
 
-def get_list_cats(filter_names, driver, delay):
+def get_list_cats(filter_names: List[str], driver: Chrome, delay: int):
     """
     INPUT: Filter names -> list(str)
     OUTPUT: Filter options -> dict 
@@ -72,7 +75,7 @@ def get_list_cats(filter_names, driver, delay):
     return filter_options
 
 
-def get_page_contents(key, option, driver):
+def get_page_contents(key: str, option: str, driver: Chrome):
     """
     INPUT: Target filter -> str
     OUTPUT: Scraped info -> df
@@ -92,7 +95,7 @@ def get_page_contents(key, option, driver):
     return df
 
 
-def select_filter_option(filter, driver, delay):
+def select_filter_option(filter: str, driver: Chrome, delay: int):
     """
     INPUT: Filter Option Name -> str
 
@@ -112,7 +115,7 @@ def select_filter_option(filter, driver, delay):
     time.sleep(delay)
 
 
-def remove_filter_option(option, key, driver, delay):
+def remove_filter_option(option: str, key: str, driver: Chrome, delay: int):
     """
     INPUT: Filter Option Name -> str, Name of the filter -> str
 
@@ -130,7 +133,7 @@ def remove_filter_option(option, key, driver, delay):
         By.XPATH, "//button[@title='Close']").click()
 
 
-def remove_filter(key, driver, delay):
+def remove_filter(key: str, driver: Chrome, delay: int):
     """
     INPUT: Name of the filter -> str
 
@@ -143,7 +146,7 @@ def remove_filter(key, driver, delay):
     time.sleep(delay)
 
 
-def click_find_stock(driver, delay):
+def click_find_stock(driver: Chrome, delay: int):
     """
     Locate and click Find Stock button.
     Waits before and after the click,
@@ -170,7 +173,7 @@ def click_find_stock(driver, delay):
             By.XPATH, "//span[text()='Screening Criteria has changed.']")) > 0
 
 
-def loop_filters(options, driver, delay):
+def loop_filters(options: dict, driver: Chrome, delay: int):
     """
     INPUT: Filter Options -> dict
     OUTPUT: Scraped Info -> df
@@ -234,7 +237,9 @@ def loop_filters(options, driver, delay):
         else:
             output_df = output_df.merge(
                 key_df, on=['symbol', 'name'], how='left')
-
+            
+    # Close Chrome
+    driver.close()
     return output_df
 
 

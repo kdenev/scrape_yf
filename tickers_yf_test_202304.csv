@@ -1,0 +1,1751 @@
+symbol,name,Sector
+BHP,BHP Group Limited,Basic Materials
+BHPLF,BHP Group Limited,Basic Materials
+LIN,Linde plc,Basic Materials
+RTNTF,Rio Tinto Group,Basic Materials
+SHECY,"Shin-Etsu Chemical Co., Ltd.",Basic Materials
+RIO,Rio Tinto Group,Basic Materials
+AIQUY,L'Air Liquide S.A.,Basic Materials
+AIQUF,L'Air Liquide S.A.,Basic Materials
+RTPPF,Rio Tinto Group,Basic Materials
+CTA-PB,"EIDP, Inc.",Basic Materials
+GLCNF,Glencore plc,Basic Materials
+GLNCY,Glencore plc,Basic Materials
+APD,"Air Products and Chemicals, Inc.",Basic Materials
+VALE,Vale S.A.,Basic Materials
+SHW,The Sherwin-Williams Company,Basic Materials
+SCCO,Southern Copper Corporation,Basic Materials
+SHECF,"Shin-Etsu Chemical Co., Ltd.",Basic Materials
+CTA-PA,"EIDP, Inc.",Basic Materials
+FCX,Freeport-McMoRan Inc.,Basic Materials
+BASFY,BASF SE,Basic Materials
+ECL,Ecolab Inc.,Basic Materials
+ZIJMY,Zijin Mining Group Company Limited,Basic Materials
+ZIJMF,Zijin Mining Group Company Limited,Basic Materials
+BFFAF,BASF SE,Basic Materials
+CTVA,"Corteva, Inc.",Basic Materials
+FSUGY,Fortescue Metals Group Limited,Basic Materials
+FSUMF,Fortescue Metals Group Limited,Basic Materials
+SXYAY,Sika AG,Basic Materials
+SKFOF,Sika AG,Basic Materials
+NGLOY,Anglo American plc,Basic Materials
+AAUKF,Anglo American plc,Basic Materials
+GMBXF,"Grupo México, S.A.B. de C.V.",Basic Materials
+HCMLY,Holcim Ltd,Basic Materials
+HCMLF,Holcim Ltd,Basic Materials
+DOW,Dow Inc.,Basic Materials
+NEM,Newmont Corporation,Basic Materials
+NUE,Nucor Corporation,Basic Materials
+CRHCF,CRH plc,Basic Materials
+CRH,CRH plc,Basic Materials
+NTR,Nutrien Ltd.,Basic Materials
+GOLD,Barrick Gold Corporation,Basic Materials
+PPG,"PPG Industries, Inc.",Basic Materials
+GVDNY,Givaudan SA,Basic Materials
+DD,"DuPont de Nemours, Inc.",Basic Materials
+LYB,LyondellBasell Industries N.V.,Basic Materials
+GVDBF,Givaudan SA,Basic Materials
+FNV,Franco-Nevada Corporation,Basic Materials
+AEM,Agnico Eagle Mines Limited,Basic Materials
+IFF,International Flavors & Fragrances Inc.,Basic Materials
+TECK,Teck Resources Limited,Basic Materials
+TCKRF,Teck Resources Limited,Basic Materials
+VMC,Vulcan Materials Company,Basic Materials
+MLM,"Martin Marietta Materials, Inc.",Basic Materials
+MT,ArcelorMittal S.A.,Basic Materials
+WPM,Wheaton Precious Metals Corp.,Basic Materials
+KDSKF,Koninklijke DSM N.V.,Basic Materials
+KLBAY,Klabin S.A.,Basic Materials
+AMSYF,ArcelorMittal S.A.,Basic Materials
+ALB,Albemarle Corporation,Basic Materials
+PKX,POSCO Holdings Inc.,Basic Materials
+NISTF,Nippon Steel Corporation,Basic Materials
+NPSCY,Nippon Steel Corporation,Basic Materials
+AHCHY,Anhui Conch Cement Company Limited,Basic Materials
+AHCHF,Anhui Conch Cement Company Limited,Basic Materials
+SQM,Sociedad Química y Minera de Chile S.A.,Basic Materials
+ANFGF,Antofagasta plc,Basic Materials
+GNENF,"Ganfeng Lithium Group Co., Ltd.",Basic Materials
+STLD,"Steel Dynamics, Inc.",Basic Materials
+NCMGF,Newcrest Mining Limited,Basic Materials
+NCMGY,Newcrest Mining Limited,Basic Materials
+CMCLF,CMOC Group Limited,Basic Materials
+GNENY,"Ganfeng Lithium Group Co., Ltd.",Basic Materials
+UPMKF,UPM-Kymmene Oyj,Basic Materials
+UPMMY,UPM-Kymmene Oyj,Basic Materials
+FQVLF,First Quantum Minerals Ltd.,Basic Materials
+SYIEY,Symrise AG,Basic Materials
+SYIEF,Symrise AG,Basic Materials
+ANGPY,Anglo American Platinum Limited,Basic Materials
+AGPPF,Anglo American Platinum Limited,Basic Materials
+FMC,FMC Corporation,Basic Materials
+NHYKF,Norsk Hydro ASA,Basic Materials
+NHYDY,Norsk Hydro ASA,Basic Materials
+ACHHY,Aluminum Corporation of China Limited,Basic Materials
+RS,Reliance Steel & Aluminum Co.,Basic Materials
+WLK,Westlake Corporation,Basic Materials
+NVZMY,Novozymes A/S,Basic Materials
+AKZOY,Akzo Nobel N.V.,Basic Materials
+MOS,The Mosaic Company,Basic Materials
+CF,"CF Industries Holdings, Inc.",Basic Materials
+GFI,Gold Fields Limited,Basic Materials
+NVZMF,Novozymes A/S,Basic Materials
+HDELY,HeidelbergCement AG,Basic Materials
+GFIOF,Gold Fields Limited,Basic Materials
+SHTLF,South32 Limited,Basic Materials
+PTPIF,PT. Chandra Asri Petrochemical Tbk,Basic Materials
+AVTR,"Avantor, Inc.",Basic Materials
+BNTGY,Brenntag SE,Basic Materials
+SOUHY,South32 Limited,Basic Materials
+BNTGF,Brenntag SE,Basic Materials
+COIHF,Croda International Plc,Basic Materials
+COIHY,Croda International Plc,Basic Materials
+SLVYY,Solvay SA,Basic Materials
+CE,Celanese Corporation,Basic Materials
+AU,AngloGold Ashanti Limited,Basic Materials
+IVPAF,Ivanhoe Mines Ltd.,Basic Materials
+RPM,RPM International Inc.,Basic Materials
+CRTSF,Chr. Hansen Holding A/S,Basic Materials
+SUZ,Suzano S.A.,Basic Materials
+NESRF,Northern Star Resources Limited,Basic Materials
+CHYHY,Chr. Hansen Holding A/S,Basic Materials
+STMNF,"Sumitomo Metal Mining Co., Ltd.",Basic Materials
+YARIY,Yara International ASA,Basic Materials
+YRAIF,Yara International ASA,Basic Materials
+EVKIY,Evonik Industries AG,Basic Materials
+SEOAY,Stora Enso Oyj,Basic Materials
+SMMYY,"Sumitomo Metal Mining Co., Ltd.",Basic Materials
+EVKIF,Evonik Industries AG,Basic Materials
+EMN,Eastman Chemical Company,Basic Materials
+WKCMF,Wacker Chemie AG,Basic Materials
+AMZN,"Amazon.com, Inc.",Consumer Cyclical
+TSLA,"Tesla, Inc.",Consumer Cyclical
+LVMUY,"LVMH Moët Hennessy - Louis Vuitton, Société Européenne",Consumer Cyclical
+LVMHF,"LVMH Moët Hennessy - Louis Vuitton, Société Européenne",Consumer Cyclical
+HD,"The Home Depot, Inc.",Consumer Cyclical
+OLCLY,"Oriental Land Co., Ltd.",Consumer Cyclical
+HESAY,Hermès International Société en commandite par actions,Consumer Cyclical
+HESAF,Hermès International Société en commandite par actions,Consumer Cyclical
+BABA,Alibaba Group Holding Limited,Consumer Cyclical
+MCD,McDonald's Corporation,Consumer Cyclical
+BABAF,Alibaba Group Holding Limited,Consumer Cyclical
+NKE,"NIKE, Inc.",Consumer Cyclical
+TM,Toyota Motor Corporation,Consumer Cyclical
+TOYOF,Toyota Motor Corporation,Consumer Cyclical
+CHDRF,Christian Dior SE,Consumer Cyclical
+CHDRY,Christian Dior SE,Consumer Cyclical
+SBUX,Starbucks Corporation,Consumer Cyclical
+LOW,"Lowe's Companies, Inc.",Consumer Cyclical
+MPNGY,Meituan,Consumer Cyclical
+IDEXF,"Industria de Diseño Textil, S.A.",Consumer Cyclical
+IDEXY,"Industria de Diseño Textil, S.A.",Consumer Cyclical
+MPNGF,Meituan,Consumer Cyclical
+BYDDF,BYD Company Limited,Consumer Cyclical
+BYDDY,BYD Company Limited,Consumer Cyclical
+BKNG,Booking Holdings Inc.,Consumer Cyclical
+CFRUY,Compagnie Financière Richemont SA,Consumer Cyclical
+CFRHF,Compagnie Financière Richemont SA,Consumer Cyclical
+TJX,"The TJX Companies, Inc.",Consumer Cyclical
+PDD,PDD Holdings Inc.,Consumer Cyclical
+SWGAY,The Swatch Group AG,Consumer Cyclical
+MBGAF,Mercedes-Benz Group AG,Consumer Cyclical
+VWAGY,Volkswagen AG,Consumer Cyclical
+MBGYY,Mercedes-Benz Group AG,Consumer Cyclical
+PPRUF,Kering SA,Consumer Cyclical
+PPRUY,Kering SA,Consumer Cyclical
+VLKAF,Volkswagen AG,Consumer Cyclical
+VWAPY,Volkswagen AG,Consumer Cyclical
+VLKPF,Volkswagen AG,Consumer Cyclical
+ABNB,"Airbnb, Inc.",Consumer Cyclical
+BMWYY,Bayerische Motoren Werke Aktiengesellschaft,Consumer Cyclical
+BAMXF,Bayerische Motoren Werke Aktiengesellschaft,Consumer Cyclical
+FRCOY,"Fast Retailing Co., Ltd.",Consumer Cyclical
+MELI,"MercadoLibre, Inc.",Consumer Cyclical
+OLCLF,"Oriental Land Co., Ltd.",Consumer Cyclical
+JDCMF,"JD.com, Inc.",Consumer Cyclical
+CMG,"Chipotle Mexican Grill, Inc.",Consumer Cyclical
+JD,"JD.com, Inc.",Consumer Cyclical
+ORLY,"O'Reilly Automotive, Inc.",Consumer Cyclical
+MAR,"Marriott International, Inc.",Consumer Cyclical
+STLA,Stellantis N.V.,Consumer Cyclical
+RACE,Ferrari N.V.,Consumer Cyclical
+ANCTF,Alimentation Couche-Tard Inc.,Consumer Cyclical
+AZO,"AutoZone, Inc.",Consumer Cyclical
+LVS,Las Vegas Sands Corp.,Consumer Cyclical
+LULU,Lululemon Athletica Inc.,Consumer Cyclical
+F,Ford Motor Company,Consumer Cyclical
+CMPGY,Compass Group PLC,Consumer Cyclical
+GM,General Motors Company,Consumer Cyclical
+CMPGF,Compass Group PLC,Consumer Cyclical
+DNZOF,DENSO Corporation,Consumer Cyclical
+DNZOY,DENSO Corporation,Consumer Cyclical
+HMC,"Honda Motor Co., Ltd.",Consumer Cyclical
+SE,Sea Limited,Consumer Cyclical
+WFAFY,Wesfarmers Limited,Consumer Cyclical
+YUM,"Yum! Brands, Inc.",Consumer Cyclical
+HLT,Hilton Worldwide Holdings Inc.,Consumer Cyclical
+CPRT,"Copart, Inc.",Consumer Cyclical
+DHI,"D.R. Horton, Inc.",Consumer Cyclical
+ROST,"Ross Stores, Inc.",Consumer Cyclical
+PDYPY,Flutter Entertainment plc,Consumer Cyclical
+HYMTF,Hyundai Motor Company,Consumer Cyclical
+PDYPF,Flutter Entertainment plc,Consumer Cyclical
+ANPDF,ANTA Sports Products Limited,Consumer Cyclical
+ANPDY,ANTA Sports Products Limited,Consumer Cyclical
+GXYEF,Galaxy Entertainment Group Limited,Consumer Cyclical
+HRSHF,"Haier Smart Home Co., Ltd.",Consumer Cyclical
+LEN,Lennar Corporation,Consumer Cyclical
+LEN-B,Lennar Corporation,Consumer Cyclical
+AMADF,"Amadeus IT Group, S.A.",Consumer Cyclical
+AMADY,"Amadeus IT Group, S.A.",Consumer Cyclical
+QSR,Restaurant Brands International Inc.,Consumer Cyclical
+ADDYY,adidas AG,Consumer Cyclical
+GXYYY,Galaxy Entertainment Group Limited,Consumer Cyclical
+ADDDF,adidas AG,Consumer Cyclical
+HSHCY,"Haier Smart Home Co., Ltd.",Consumer Cyclical
+MBLY,Mobileye Global Inc.,Consumer Cyclical
+CPNG,"Coupang, Inc.",Consumer Cyclical
+SCHYY,Sands China Ltd.,Consumer Cyclical
+SCHYF,Sands China Ltd.,Consumer Cyclical
+EVVTY,Evolution AB (publ),Consumer Cyclical
+EVGGF,Evolution AB (publ),Consumer Cyclical
+APTV,Aptiv PLC,Consumer Cyclical
+ULTA,"Ulta Beauty, Inc.",Consumer Cyclical
+BRDCY,Bridgestone Corporation,Consumer Cyclical
+GWLLF,Great Wall Motor Company Limited,Consumer Cyclical
+BRDCF,Bridgestone Corporation,Consumer Cyclical
+GWLLY,Great Wall Motor Company Limited,Consumer Cyclical
+TSCO,Tractor Supply Company,Consumer Cyclical
+YUMC,"Yum China Holdings, Inc.",Consumer Cyclical
+EBAY,eBay Inc.,Consumer Cyclical
+LI,Li Auto Inc.,Consumer Cyclical
+HNNMY,H & M Hennes & Mauritz AB (publ),Consumer Cyclical
+GPC,Genuine Parts Company,Consumer Cyclical
+TCOM,Trip.com Group Limited,Consumer Cyclical
+TRPCF,Trip.com Group Limited,Consumer Cyclical
+RSTRF,Restaurant Brands International Limited Partnership,Consumer Cyclical
+YAHOY,Z Holdings Corporation,Consumer Cyclical
+ROL,"Rollins, Inc.",Consumer Cyclical
+CJEWY,Chow Tai Fook Jewellery Group Limited,Consumer Cyclical
+MONRY,Moncler S.p.A.,Consumer Cyclical
+MONRF,Moncler S.p.A.,Consumer Cyclical
+CJEWF,Chow Tai Fook Jewellery Group Limited,Consumer Cyclical
+PRDSY,Prada S.p.A.,Consumer Cyclical
+LNNGY,Li Ning Company Limited,Consumer Cyclical
+NVR,"NVR, Inc.",Consumer Cyclical
+LNNGF,Li Ning Company Limited,Consumer Cyclical
+PRDSF,Prada S.p.A.,Consumer Cyclical
+PTAIY,PT Astra International Tbk,Consumer Cyclical
+EXXRF,Exor N.V.,Consumer Cyclical
+MAHMF,Mahindra & Mahindra Limited,Consumer Cyclical
+DRI,"Darden Restaurants, Inc.",Consumer Cyclical
+PSNYW,Polestar Automotive Holding UK PLC,Consumer Cyclical
+AONNY,"Aeon Co., Ltd.",Consumer Cyclical
+POAHF,Porsche Automobil Holding SE,Consumer Cyclical
+POAHY,Porsche Automobil Holding SE,Consumer Cyclical
+ARLUF,Aristocrat Leisure Limited,Consumer Cyclical
+SZKMY,Suzuki Motor Corporation,Consumer Cyclical
+MGM,MGM Resorts International,Consumer Cyclical
+RCL,Royal Caribbean Cruises Ltd.,Consumer Cyclical
+BALL,Ball Corporation,Consumer Cyclical
+AMCR,Amcor plc,Consumer Cyclical
+BBY,"Best Buy Co., Inc.",Consumer Cyclical
+LKQ,LKQ Corporation,Consumer Cyclical
+NCBDY,BANDAI NAMCO Holdings Inc.,Consumer Cyclical
+PHM,"PulteGroup, Inc.",Consumer Cyclical
+MGA,Magna International Inc.,Consumer Cyclical
+HTHT,H World Group Limited,Consumer Cyclical
+NCBDF,BANDAI NAMCO Holdings Inc.,Consumer Cyclical
+SHZHY,Shenzhou International Group Holdings Limited,Consumer Cyclical
+LCID,"Lucid Group, Inc.",Consumer Cyclical
+NCLTF,"Nitori Holdings Co., Ltd.",Consumer Cyclical
+NCLTY,"Nitori Holdings Co., Ltd.",Consumer Cyclical
+NSANY,"Nissan Motor Co., Ltd.",Consumer Cyclical
+CTTAY,Continental Aktiengesellschaft,Consumer Cyclical
+CTTAF,Continental Aktiengesellschaft,Consumer Cyclical
+AVY,Avery Dennison Corporation,Consumer Cyclical
+MGDDY,Compagnie Générale des Établissements Michelin Société en commandite par actions,Consumer Cyclical
+NSANF,"Nissan Motor Co., Ltd.",Consumer Cyclical
+SMNNY,Shimano Inc.,Consumer Cyclical
+EXPE,"Expedia Group, Inc.",Consumer Cyclical
+SHMDF,Shimano Inc.,Consumer Cyclical
+NIO,NIO Inc.,Consumer Cyclical
+SKHSF,"Sekisui House, Ltd.",Consumer Cyclical
+CHWY,"Chewy, Inc.",Consumer Cyclical
+GNZUF,"Guangzhou Automobile Group Co., Ltd.",Consumer Cyclical
+SKHSY,"Sekisui House, Ltd.",Consumer Cyclical
+WYNN,"Wynn Resorts, Limited",Consumer Cyclical
+HDALF,Haidilao International Holding Ltd.,Consumer Cyclical
+DECK,Deckers Outdoor Corporation,Consumer Cyclical
+GELYY,Geely Automobile Holdings Limited,Consumer Cyclical
+BURL,"Burlington Stores, Inc.",Consumer Cyclical
+BBRYF,Burberry Group plc,Consumer Cyclical
+GELYF,Geely Automobile Holdings Limited,Consumer Cyclical
+FUJHY,Subaru Corporation,Consumer Cyclical
+ETSY,"Etsy, Inc.",Consumer Cyclical
+DKS,"DICK'S Sporting Goods, Inc.",Consumer Cyclical
+BURBY,Burberry Group plc,Consumer Cyclical
+FUJHF,Subaru Corporation,Consumer Cyclical
+VLVOF,Volvo Car AB (publ.),Consumer Cyclical
+H,Hyatt Hotels Corporation,Consumer Cyclical
+PKG,Packaging Corporation of America,Consumer Cyclical
+IHG,InterContinental Hotels Group PLC,Consumer Cyclical
+CCL,Carnival Corporation & plc,Consumer Cyclical
+RIVN,"Rivian Automotive, Inc.",Consumer Cyclical
+IP,International Paper Company,Consumer Cyclical
+ICHGF,InterContinental Hotels Group PLC,Consumer Cyclical
+KNRRY,Knorr-Bremse AG,Consumer Cyclical
+JDDSF,JD Sports Fashion Plc,Consumer Cyclical
+CUK,Carnival Corporation & plc,Consumer Cyclical
+VLVCY,Volvo Car AB (publ.),Consumer Cyclical
+BWA,BorgWarner Inc.,Consumer Cyclical
+DPZ,"Domino's Pizza, Inc.",Consumer Cyclical
+JDSPY,JD Sports Fashion Plc,Consumer Cyclical
+KNBHF,Knorr-Bremse AG,Consumer Cyclical
+KMX,"CarMax, Inc.",Consumer Cyclical
+FIVE,"Five Below, Inc.",Consumer Cyclical
+CHDN,Churchill Downs Incorporated,Consumer Cyclical
+NXGPY,NEXT plc,Consumer Cyclical
+RNLSY,Renault SA,Consumer Cyclical
+SCI,Service Corporation International,Consumer Cyclical
+GMVHF,Entain Plc,Consumer Cyclical
+GMVHY,Entain Plc,Consumer Cyclical
+ZLNDY,Zalando SE,Consumer Cyclical
+FND,"Floor & Decor Holdings, Inc.",Consumer Cyclical
+DELHY,Delivery Hero SE,Consumer Cyclical
+SIGCY,SIG Group AG,Consumer Cyclical
+CCK,"Crown Holdings, Inc.",Consumer Cyclical
+ONON,On Holding AG,Consumer Cyclical
+ZLDSF,Zalando SE,Consumer Cyclical
+ZSHGY,Zhongsheng Group Holdings Limited,Consumer Cyclical
+SCBGF,SIG Group AG,Consumer Cyclical
+ZHSHF,Zhongsheng Group Holdings Limited,Consumer Cyclical
+DKNG,DraftKings Inc.,Consumer Cyclical
+SIEVF,D'Ieteren Group SA,Consumer Cyclical
+SMTOY,"Sumitomo Electric Industries, Ltd.",Consumer Cyclical
+MCHB,Mechanics Bank,Financial Services
+BRK-B,Berkshire Hathaway Inc.,Financial Services
+BRK-A,Berkshire Hathaway Inc.,Financial Services
+V,Visa Inc.,Financial Services
+JPM,JPMorgan Chase & Co.,Financial Services
+MA,Mastercard Incorporated,Financial Services
+JPM-PC,JPMorgan Chase & Co.,Financial Services
+JPM-PD,JPMorgan Chase & Co.,Financial Services
+BML-PG,Bank of America Corporation,Financial Services
+BML-PH,Bank of America Corporation,Financial Services
+BAC-PL,Bank of America Corporation,Financial Services
+BML-PL,Bank of America Corporation,Financial Services
+BML-PJ,Bank of America Corporation,Financial Services
+BAC-PK,Bank of America Corporation,Financial Services
+BAC-PB,Bank of America Corporation,Financial Services
+BAC-PE,Bank of America Corporation,Financial Services
+BAC,Bank of America Corporation,Financial Services
+IDCBY,Industrial and Commercial Bank of China Limited,Financial Services
+IDCBF,Industrial and Commercial Bank of China Limited,Financial Services
+WFC-PQ,Wells Fargo & Company,Financial Services
+WFC-PY,Wells Fargo & Company,Financial Services
+WFC-PR,Wells Fargo & Company,Financial Services
+WFC-PL,Wells Fargo & Company,Financial Services
+CICHY,China Construction Bank Corporation,Financial Services
+CICHF,China Construction Bank Corporation,Financial Services
+ACGBY,Agricultural Bank of China Limited,Financial Services
+ACGBF,Agricultural Bank of China Limited,Financial Services
+C-PJ,Citigroup Inc.,Financial Services
+MS,Morgan Stanley,Financial Services
+WFC,Wells Fargo & Company,Financial Services
+BACHF,Bank of China Limited,Financial Services
+BACHY,Bank of China Limited,Financial Services
+HSBC,HSBC Holdings plc,Financial Services
+HBCYF,HSBC Holdings plc,Financial Services
+RY,Royal Bank of Canada,Financial Services
+PNGAY,"Ping An Insurance (Group) Company of China, Ltd.",Financial Services
+PIAIF,"Ping An Insurance (Group) Company of China, Ltd.",Financial Services
+CILJF,China Life Insurance Company Limited,Financial Services
+HDB,HDFC Bank Limited,Financial Services
+GS,"The Goldman Sachs Group, Inc.",Financial Services
+AAGIY,AIA Group Limited,Financial Services
+AAIGF,AIA Group Limited,Financial Services
+WFC-PC,Wells Fargo & Company,Financial Services
+CIHHF,"China Merchants Bank Co., Ltd.",Financial Services
+CIHKY,"China Merchants Bank Co., Ltd.",Financial Services
+AXP,American Express Company,Financial Services
+CMWAY,Commonwealth Bank of Australia,Financial Services
+SPGI,S&P Global Inc.,Financial Services
+C,Citigroup Inc.,Financial Services
+TD,The Toronto-Dominion Bank,Financial Services
+BX,Blackstone Inc.,Financial Services
+ALIZY,Allianz SE,Financial Services
+BLK,"BlackRock, Inc.",Financial Services
+ALIZF,Allianz SE,Financial Services
+SCHW,The Charles Schwab Corporation,Financial Services
+RY-PT,Royal Bank of Canada,Financial Services
+MMC,"Marsh & McLennan Companies, Inc.",Financial Services
+GS-PJ,"The Goldman Sachs Group, Inc.",Financial Services
+PYPL,"PayPal Holdings, Inc.",Financial Services
+MS-PK,Morgan Stanley,Financial Services
+CB,Chubb Limited,Financial Services
+GS-PK,"The Goldman Sachs Group, Inc.",Financial Services
+BNPQF,BNP Paribas SA,Financial Services
+MS-PI,Morgan Stanley,Financial Services
+BNPQY,BNP Paribas SA,Financial Services
+MS-PF,Morgan Stanley,Financial Services
+PGR,The Progressive Corporation,Financial Services
+IBN,ICICI Bank Limited,Financial Services
+MS-PE,Morgan Stanley,Financial Services
+PBCRY,PT Bank Central Asia Tbk,Financial Services
+PBCRF,PT Bank Central Asia Tbk,Financial Services
+MBFJF,"Mitsubishi UFJ Financial Group, Inc.",Financial Services
+USB-PH,U.S. Bancorp,Financial Services
+GS-PA,"The Goldman Sachs Group, Inc.",Financial Services
+PSTVY,"Postal Savings Bank of China Co., Ltd.",Financial Services
+MUFG,"Mitsubishi UFJ Financial Group, Inc.",Financial Services
+USB-PP,U.S. Bancorp,Financial Services
+AXAHY,AXA SA,Financial Services
+AXAHF,AXA SA,Financial Services
+GS-PD,"The Goldman Sachs Group, Inc.",Financial Services
+ZURVY,Zurich Insurance Group AG,Financial Services
+MS-PA,Morgan Stanley,Financial Services
+ZFSVF,Zurich Insurance Group AG,Financial Services
+CME,CME Group Inc.,Financial Services
+AON,Aon plc,Financial Services
+IVSBF,Investor AB (publ),Financial Services
+DBSDF,DBS Group Holdings Ltd,Financial Services
+IVSXF,Investor AB (publ),Financial Services
+DBSDY,DBS Group Holdings Ltd,Financial Services
+UBS,UBS Group AG,Financial Services
+BCDRF,"Banco Santander, S.A.",Financial Services
+BNS,The Bank of Nova Scotia,Financial Services
+ICE,"Intercontinental Exchange, Inc.",Financial Services
+KKR,KKR & Co. Inc.,Financial Services
+LDNXF,London Stock Exchange Group plc,Financial Services
+LNSTY,London Stock Exchange Group plc,Financial Services
+BMO,Bank of Montreal,Financial Services
+MCO,Moody's Corporation,Financial Services
+SAN,"Banco Santander, S.A.",Financial Services
+SMFNF,"Sumitomo Mitsui Financial Group, Inc.",Financial Services
+SMFG,"Sumitomo Mitsui Financial Group, Inc.",Financial Services
+NABZY,National Australia Bank Limited,Financial Services
+BCMXY,"Bank of Communications Co., Ltd.",Financial Services
+HKXCF,Hong Kong Exchanges and Clearing Limited,Financial Services
+HKXCY,Hong Kong Exchanges and Clearing Limited,Financial Services
+NAUBF,National Australia Bank Limited,Financial Services
+USB,U.S. Bancorp,Financial Services
+BKRKY,PT Bank Rakyat Indonesia (Persero) Tbk,Financial Services
+PNC,"The PNC Financial Services Group, Inc.",Financial Services
+MURGY,Münchener Rückversicherungs-Gesellschaft Aktiengesellschaft in München,Financial Services
+WEBNF,Westpac Banking Corporation,Financial Services
+MURGF,Münchener Rückversicherungs-Gesellschaft Aktiengesellschaft in München,Financial Services
+BN,Brookfield Corporation,Financial Services
+SCHW-PD,The Charles Schwab Corporation,Financial Services
+BKRKF,PT Bank Rakyat Indonesia (Persero) Tbk,Financial Services
+ITUB,Itaú Unibanco Holding S.A.,Financial Services
+IITSF,Intesa Sanpaolo S.p.A.,Financial Services
+ISNPY,Intesa Sanpaolo S.p.A.,Financial Services
+ANZGY,ANZ Group Holdings Limited,Financial Services
+LLDTF,Lloyds Banking Group plc,Financial Services
+ANZGF,ANZ Group Holdings Limited,Financial Services
+MET,"MetLife, Inc.",Financial Services
+MQBKY,Macquarie Group Limited,Financial Services
+AGRIP,"AgriBank, FCB",Financial Services
+ING,ING Groep N.V.,Financial Services
+MET-PA,"MetLife, Inc.",Financial Services
+UNCFF,UniCredit S.p.A.,Financial Services
+AIG-PA,"American International Group, Inc.",Financial Services
+BBVXF,"Banco Bilbao Vizcaya Argentaria, S.A.",Financial Services
+UNCRY,UniCredit S.p.A.,Financial Services
+AJG,Arthur J. Gallagher & Co.,Financial Services
+MET-PE,"MetLife, Inc.",Financial Services
+INGVF,ING Groep N.V.,Financial Services
+BBVA,"Banco Bilbao Vizcaya Argentaria, S.A.",Financial Services
+LYG,Lloyds Banking Group plc,Financial Services
+TFC,Truist Financial Corporation,Financial Services
+PUK,Prudential plc,Financial Services
+AFL,Aflac Incorporated,Financial Services
+TRV,"The Travelers Companies, Inc.",Financial Services
+CHCJY,China CITIC Bank Corporation Limited,Financial Services
+NRDBY,Nordea Bank Abp,Financial Services
+RBSPF,NatWest Group plc,Financial Services
+OVCHY,Oversea-Chinese Banking Corporation Limited,Financial Services
+TKOMF,"Tokio Marine Holdings, Inc.",Financial Services
+TKOMY,"Tokio Marine Holdings, Inc.",Financial Services
+BSBR,Banco Santander (Brasil) S.A.,Financial Services
+NBNKF,Nordea Bank Abp,Financial Services
+AIG,"American International Group, Inc.",Financial Services
+PUKPF,Prudential plc,Financial Services
+MSCI,MSCI Inc.,Financial Services
+COF,Capital One Financial Corporation,Financial Services
+MFG,"Mizuho Financial Group, Inc.",Financial Services
+MFC,Manulife Financial Corporation,Financial Services
+UOVEY,United Overseas Bank Limited,Financial Services
+APO,"Apollo Global Management, Inc.",Financial Services
+UOVEF,United Overseas Bank Limited,Financial Services
+CRARY,Crédit Agricole S.A.,Financial Services
+DBOEF,Deutsche Börse AG,Financial Services
+CRARF,Crédit Agricole S.A.,Financial Services
+DBOEY,Deutsche Börse AG,Financial Services
+ALL-PH,The Allstate Corporation,Financial Services
+BK,The Bank of New York Mellon Corporation,Financial Services
+BHKLY,BOC Hong Kong (Holdings) Limited,Financial Services
+PPERF,PT Bank Mandiri (Persero) Tbk,Financial Services
+BCLYF,Barclays PLC,Financial Services
+PPERY,PT Bank Mandiri (Persero) Tbk,Financial Services
+BCS,Barclays PLC,Financial Services
+IBKR,"Interactive Brokers Group, Inc.",Financial Services
+ALL-PB,The Allstate Corporation,Financial Services
+AMP,"Ameriprise Financial, Inc.",Financial Services
+PRU,"Prudential Financial, Inc.",Financial Services
+ARZGY,Assicurazioni Generali S.p.A.,Financial Services
+NWG,NatWest Group plc,Financial Services
+BBD,Banco Bradesco S.A.,Financial Services
+ALL,The Allstate Corporation,Financial Services
+KBCSF,KBC Group NV,Financial Services
+KBCSY,KBC Group NV,Financial Services
+BBDO,Banco Bradesco S.A.,Financial Services
+CIXPF,"CaixaBank, S.A.",Financial Services
+SSREY,Swiss Re AG,Financial Services
+SLF,Sun Life Financial Inc.,Financial Services
+SSREF,Swiss Re AG,Financial Services
+HSNGY,Hang Seng Bank Limited,Financial Services
+HSNGF,Hang Seng Bank Limited,Financial Services
+ACGL,Arch Capital Group Ltd.,Financial Services
+CAIXY,"CaixaBank, S.A.",Financial Services
+DNBBY,DNB Bank ASA,Financial Services
+NDAQ,"Nasdaq, Inc.",Financial Services
+DNBBF,DNB Bank ASA,Financial Services
+PPCCY,PICC Property and Casualty Company Limited,Financial Services
+SCBFF,Standard Chartered PLC,Financial Services
+GWLIF,Great-West Lifeco Inc.,Financial Services
+GBOOF,"Grupo Financiero Banorte, S.A.B. de C.V.",Financial Services
+DFS,Discover Financial Services,Financial Services
+GBOOY,"Grupo Financiero Banorte, S.A.B. de C.V.",Financial Services
+ARES,Ares Management Corporation,Financial Services
+SAXPY,Sampo Oyj,Financial Services
+HVRRY,Hannover Rück SE,Financial Services
+TROW,"T. Rowe Price Group, Inc.",Financial Services
+SVKEF,Skandinaviska Enskilda Banken AB (publ),Financial Services
+BDORY,Banco do Brasil S.A.,Financial Services
+SCBFY,Standard Chartered PLC,Financial Services
+NTIOF,National Bank of Canada,Financial Services
+PGPHF,Partners Group Holding AG,Financial Services
+WTW,Willis Towers Watson Public Limited Company,Financial Services
+STT,State Street Corporation,Financial Services
+NU,Nu Holdings Ltd.,Financial Services
+MLYBY,Malayan Banking Berhad,Financial Services
+DB,Deutsche Bank Aktiengesellschaft,Financial Services
+HIG,"The Hartford Financial Services Group, Inc.",Financial Services
+TGOPY,3i Group plc,Financial Services
+MTB,M&T Bank Corporation,Financial Services
+TGOPF,3i Group plc,Financial Services
+SCGLY,Société Générale Société anonyme,Financial Services
+IX,ORIX Corporation,Financial Services
+SWDBF,Swedbank AB (publ),Financial Services
+SWDBY,Swedbank AB (publ),Financial Services
+STT-PG,State Street Corporation,Financial Services
+SZLMY,Swiss Life Holding AG,Financial Services
+KEY-PK,KeyCorp,Financial Services
+RJF,"Raymond James Financial, Inc.",Financial Services
+SCGLF,Société Générale Société anonyme,Financial Services
+DCNSF,"Dai-ichi Life Holdings, Inc.",Financial Services
+CM,Canadian Imperial Bank of Commerce,Financial Services
+DLICY,"Dai-ichi Life Holdings, Inc.",Financial Services
+DNSKF,Danske Bank A/S,Financial Services
+STT-PD,State Street Corporation,Financial Services
+UWMC,UWM Holdings Corporation,Financial Services
+DNKEY,Danske Bank A/S,Financial Services
+HIG-PG,"The Hartford Financial Services Group, Inc.",Financial Services
+MKL,Markel Corporation,Financial Services
+BRO,"Brown & Brown, Inc.",Financial Services
+PFG,"Principal Financial Group, Inc.",Financial Services
+MSADF,"MS&AD Insurance Group Holdings, Inc.",Financial Services
+PWCDF,Power Corporation of Canada,Financial Services
+FITB,Fifth Third Bancorp,Financial Services
+MSADY,"MS&AD Insurance Group Holdings, Inc.",Financial Services
+RKT,"Rocket Companies, Inc.",Financial Services
+LGGNF,Legal & General Group Plc,Financial Services
+LGGNY,Legal & General Group Plc,Financial Services
+SVNLF,Svenska Handelsbanken AB (publ),Financial Services
+SVNLY,Svenska Handelsbanken AB (publ),Financial Services
+FITBI,Fifth Third Bancorp,Financial Services
+RF,Regions Financial Corporation,Financial Services
+FRFHF,Fairfax Financial Holdings Limited,Financial Services
+CINF,Cincinnati Financial Corporation,Financial Services
+RE,"Everest Re Group, Ltd.",Financial Services
+TW,Tradeweb Markets Inc.,Financial Services
+LPLA,LPL Financial Holdings Inc.,Financial Services
+NTRS,Northern Trust Corporation,Financial Services
+HBAN,Huntington Bancshares Incorporated,Financial Services
+OWL,Blue Owl Capital Inc.,Financial Services
+FDS,FactSet Research Systems Inc.,Financial Services
+BDOUF,"BDO Unibank, Inc.",Financial Services
+EDNMY,Edenred SE,Financial Services
+WRB,W. R. Berkley Corporation,Financial Services
+SGBLY,Standard Bank Group Limited,Financial Services
+SBGOF,Standard Bank Group Limited,Financial Services
+QBIEY,QBE Insurance Group Limited,Financial Services
+QBEIF,QBE Insurance Group Limited,Financial Services
+EBKDY,Erste Group Bank AG,Financial Services
+EBKOF,Erste Group Bank AG,Financial Services
+CFG,"Citizens Financial Group, Inc.",Financial Services
+AVVIY,Aviva plc,Financial Services
+CBOE,"Cboe Global Markets, Inc.",Financial Services
+SYM,Symbotic Inc.,Financial Services
+FCNCB,"First Citizens BancShares, Inc.",Financial Services
+KB,KB Financial Group Inc.,Financial Services
+FCNCA,"First Citizens BancShares, Inc.",Financial Services
+JBARF,Julius Bär Gruppe AG,Financial Services
+KEY-PJ,KeyCorp,Financial Services
+JBAXY,Julius Bär Gruppe AG,Financial Services
+SMPNY,"Sompo Holdings, Inc.",Financial Services
+CRZBY,Commerzbank AG,Financial Services
+CRZBF,Commerzbank AG,Financial Services
+AAVMY,ABN AMRO Bank N.V.,Financial Services
+NHOLF,"Sompo Holdings, Inc.",Financial Services
+NWWCF,New China Life Insurance Company Ltd.,Financial Services
+HAITY,"Haitong Securities Co., Ltd.",Financial Services
+CFG-PD,"Citizens Financial Group, Inc.",Financial Services
+BBSEY,BB Seguridade Participações S.A.,Financial Services
+PBNNF,PT Bank Negara Indonesia (Persero) Tbk,Financial Services
+ACGLO,Arch Capital Group Ltd.,Financial Services
+BEN,"Franklin Resources, Inc.",Financial Services
+KEY-PI,KeyCorp,Financial Services
+SHG,"Shinhan Financial Group Co., Ltd.",Financial Services
+BAM,Brookfield Asset Management Ltd.,Financial Services
+RF-PC,Regions Financial Corporation,Financial Services
+L,Loews Corporation,Financial Services
+BDOUY,"BDO Unibank, Inc.",Financial Services
+SUTNY,"Sumitomo Mitsui Trust Holdings, Inc.",Financial Services
+CMTDF,"Sumitomo Mitsui Trust Holdings, Inc.",Financial Services
+GBLBY,Groupe Bruxelles Lambert SA,Financial Services
+SYF,Synchrony Financial,Financial Services
+RF-PB,Regions Financial Corporation,Financial Services
+GBLBF,Groupe Bruxelles Lambert SA,Financial Services
+COIN,"Coinbase Global, Inc.",Financial Services
+FRFFF,Fairfax Financial Holdings Limited,Financial Services
+HALFF,HAL Trust,Financial Services
+MKTX,MarketAxess Holdings Inc.,Financial Services
+RSNHF,"Resona Holdings, Inc.",Financial Services
+NRSCF,"Nomura Holdings, Inc.",Financial Services
+BKRIY,Bank of Ireland Group plc,Financial Services
+BKRIF,Bank of Ireland Group plc,Financial Services
+ERIE,Erie Indemnity Company,Financial Services
+AIBRF,AIB Group plc,Financial Services
+BKHYY,Bank Hapoalim B.M.,Financial Services
+NMR,"Nomura Holdings, Inc.",Financial Services
+IDTVF,AB Industrivärden (publ),Financial Services
+ALLY,Ally Financial Inc.,Financial Services
+CG,The Carlyle Group Inc.,Financial Services
+CRBG,"Corebridge Financial, Inc.",Financial Services
+SNMCY,Suncorp Group Limited,Financial Services
+BCH,Banco de Chile,Financial Services
+BAP,Credicorp Ltd.,Financial Services
+SNMYF,Suncorp Group Limited,Financial Services
+RYAN,"Ryan Specialty Holdings, Inc.",Financial Services
+NNGRY,NN Group N.V.,Financial Services
+KEY,KeyCorp,Financial Services
+CNA,CNA Financial Corporation,Financial Services
+NNGPF,NN Group N.V.,Financial Services
+GL,Globe Life Inc.,Financial Services
+AFG,"American Financial Group, Inc.",Financial Services
+ARCC,Ares Capital Corporation,Financial Services
+CKHGY,Capitec Bank Holdings Limited,Financial Services
+PLD,"Prologis, Inc.",Real Estate
+AMT,American Tower Corporation,Real Estate
+EQIX,"Equinix, Inc.",Real Estate
+CCI,Crown Castle Inc.,Real Estate
+PSA,Public Storage,Real Estate
+SPG-PJ,"Simon Property Group, Inc.",Real Estate
+PLDGP,"Prologis, Inc.",Real Estate
+SPG,"Simon Property Group, Inc.",Real Estate
+O,Realty Income Corporation,Real Estate
+PSA-PH,Public Storage,Real Estate
+SUHJY,Sun Hung Kai Properties Limited,Real Estate
+WELL,Welltower Inc.,Real Estate
+PSA-PK,Public Storage,Real Estate
+VICI,VICI Properties Inc.,Real Estate
+CRBJF,China Resources Land Limited,Real Estate
+CSGP,"CoStar Group, Inc.",Real Estate
+CLLNY,"Cellnex Telecom, S.A.",Real Estate
+DLR,"Digital Realty Trust, Inc.",Real Estate
+CLNXF,"Cellnex Telecom, S.A.",Real Estate
+SBAC,SBA Communications Corporation,Real Estate
+CAOVY,China Overseas Land & Investment Limited,Real Estate
+DLR-PK,"Digital Realty Trust, Inc.",Real Estate
+AVB,"AvalonBay Communities, Inc.",Real Estate
+EQR,Equity Residential,Real Estate
+DLR-PJ,"Digital Realty Trust, Inc.",Real Estate
+GMGSF,Goodman Group,Real Estate
+CBRE,"CBRE Group, Inc.",Real Estate
+UDR,"UDR, Inc.",Real Estate
+WY,Weyerhaeuser Company,Real Estate
+EXR,Extra Space Storage Inc.,Real Estate
+ARE,"Alexandria Real Estate Equities, Inc.",Real Estate
+CHKGF,CK Asset Holdings Limited,Real Estate
+CNGKY,CK Asset Holdings Limited,Real Estate
+INVH,Invitation Homes Inc.,Real Estate
+BEKE,KE Holdings Inc.,Real Estate
+VTR,"Ventas, Inc.",Real Estate
+MTSFF,"Mitsui Fudosan Co., Ltd.",Real Estate
+MAA,"Mid-America Apartment Communities, Inc.",Real Estate
+MTSFY,"Mitsui Fudosan Co., Ltd.",Real Estate
+LNGPF,Longfor Group Holdings Limited,Real Estate
+SUI,"Sun Communities, Inc.",Real Estate
+HLDCY,Henderson Land Development Company Limited,Real Estate
+LGFRY,Longfor Group Holdings Limited,Real Estate
+WRFRF,Wharf Real Estate Investment Company Limited,Real Estate
+VONOY,Vonovia SE,Real Estate
+VNNVF,Vonovia SE,Real Estate
+LKREF,Link Real Estate Investment Trust,Real Estate
+DWAHY,"Daiwa House Industry Co., Ltd.",Real Estate
+DWAHF,"Daiwa House Industry Co., Ltd.",Real Estate
+IRM,Iron Mountain Incorporated,Real Estate
+MITEY,"Mitsubishi Estate Co., Ltd.",Real Estate
+WPC,W. P. Carey Inc.,Real Estate
+MITEF,"Mitsubishi Estate Co., Ltd.",Real Estate
+CLILF,CapitaLand Investment Limited,Real Estate
+ESS,"Essex Property Trust, Inc.",Real Estate
+AMH,American Homes 4 Rent,Real Estate
+IFSUF,Infrastrutture Wireless Italiane S.p.A.,Real Estate
+GLPI,"Gaming and Leisure Properties, Inc.",Real Estate
+ELS,"Equity LifeStyle Properties, Inc.",Real Estate
+NLY-PG,"Annaly Capital Management, Inc.",Real Estate
+NLY-PF,"Annaly Capital Management, Inc.",Real Estate
+SEGXF,SEGRO Plc,Real Estate
+PEAK,"Healthpeak Properties, Inc.",Real Estate
+MAA-PI,"Mid-America Apartment Communities, Inc.",Real Estate
+KIM,Kimco Realty Corporation,Real Estate
+CPT,Camden Property Trust,Real Estate
+LSI,"Life Storage, Inc.",Real Estate
+REXR,"Rexford Industrial Realty, Inc.",Real Estate
+HST,"Host Hotels & Resorts, Inc.",Real Estate
+SNLAY,Sino Land Company Limited,Real Estate
+SURDF,"Sumitomo Realty & Development Co., Ltd.",Real Estate
+LAMR,Lamar Advertising Company,Real Estate
+REG,Regency Centers Corporation,Real Estate
+CUBE,CubeSmart,Real Estate
+CPAMF,CapitaLand Integrated Commercial Trust,Real Estate
+BPYPP,Brookfield Property Partners L.P.,Real Estate
+WMT,Walmart Inc.,Consumer Defensive
+PG,The Procter & Gamble Company,Consumer Defensive
+NSRGY,Nestlé S.A.,Consumer Defensive
+NSRGF,Nestlé S.A.,Consumer Defensive
+KO,The Coca-Cola Company,Consumer Defensive
+PEP,"PepsiCo, Inc.",Consumer Defensive
+LRLCY,L'Oréal S.A.,Consumer Defensive
+LRLCF,L'Oréal S.A.,Consumer Defensive
+COST,Costco Wholesale Corporation,Consumer Defensive
+FMX,"Fomento Económico Mexicano, S.A.B. de C.V.",Consumer Defensive
+PM,Philip Morris International Inc.,Consumer Defensive
+UNLYF,Unilever PLC,Consumer Defensive
+UL,Unilever PLC,Consumer Defensive
+BUDFF,Anheuser-Busch InBev SA/NV,Consumer Defensive
+BUD,Anheuser-Busch InBev SA/NV,Consumer Defensive
+MDLZ,"Mondelez International, Inc.",Consumer Defensive
+DEO,Diageo plc,Consumer Defensive
+DGEAF,Diageo plc,Consumer Defensive
+EL,The Estée Lauder Companies Inc.,Consumer Defensive
+MO,"Altria Group, Inc.",Consumer Defensive
+BTI,British American Tobacco p.l.c.,Consumer Defensive
+BTAFF,British American Tobacco p.l.c.,Consumer Defensive
+TGT,Target Corporation,Consumer Defensive
+WMMVY,"Wal-Mart de México, S.A.B. de C.V.",Consumer Defensive
+WMMVF,"Wal-Mart de México, S.A.B. de C.V.",Consumer Defensive
+HEINY,Heineken N.V.,Consumer Defensive
+HINKF,Heineken N.V.,Consumer Defensive
+CL,Colgate-Palmolive Company,Consumer Defensive
+RBGLY,Reckitt Benckiser Group plc,Consumer Defensive
+PRNDY,Pernod Ricard SA,Consumer Defensive
+PDRDF,Pernod Ricard SA,Consumer Defensive
+RBGPF,Reckitt Benckiser Group plc,Consumer Defensive
+MNST,Monster Beverage Corporation,Consumer Defensive
+HSY,The Hershey Company,Consumer Defensive
+GIS,"General Mills, Inc.",Consumer Defensive
+KMB,Kimberly-Clark Corporation,Consumer Defensive
+DG,Dollar General Corporation,Consumer Defensive
+KHC,The Kraft Heinz Company,Consumer Defensive
+KDP,Keurig Dr Pepper Inc.,Consumer Defensive
+ABEV,Ambev S.A.,Consumer Defensive
+ADM,Archer-Daniels-Midland Company,Consumer Defensive
+DANOY,Danone S.A.,Consumer Defensive
+GPDNF,Danone S.A.,Consumer Defensive
+STZ,"Constellation Brands, Inc.",Consumer Defensive
+SVNDY,"Seven & i Holdings Co., Ltd.",Consumer Defensive
+SYY,Sysco Corporation,Consumer Defensive
+BDWBY,Budweiser Brewing Company APAC Limited,Consumer Defensive
+BDWBF,Budweiser Brewing Company APAC Limited,Consumer Defensive
+JAPAF,Japan Tobacco Inc.,Consumer Defensive
+JAPAY,Japan Tobacco Inc.,Consumer Defensive
+KR,The Kroger Co.,Consumer Defensive
+HENOY,Henkel AG & Co. KGaA,Consumer Defensive
+DLTR,"Dollar Tree, Inc.",Consumer Defensive
+AHODF,Koninklijke Ahold Delhaize N.V.,Consumer Defensive
+ADRNY,Koninklijke Ahold Delhaize N.V.,Consumer Defensive
+HENOF,Henkel AG & Co. KGaA,Consumer Defensive
+HENKY,Henkel AG & Co. KGaA,Consumer Defensive
+WOLWF,Woolworths Group Limited,Consumer Defensive
+BDRFY,Beiersdorf Aktiengesellschaft,Consumer Defensive
+BF-A,Brown-Forman Corporation,Consumer Defensive
+BF-B,Brown-Forman Corporation,Consumer Defensive
+BDRFF,Beiersdorf Aktiengesellschaft,Consumer Defensive
+LBLCF,Loblaw Companies Limited,Consumer Defensive
+CCEP,Coca-Cola Europacific Partners PLC,Consumer Defensive
+LDSVF,Chocoladefabriken Lindt & Sprüngli AG,Consumer Defensive
+HKHHF,Heineken Holding N.V.,Consumer Defensive
+HKHHY,Heineken Holding N.V.,Consumer Defensive
+CRHKF,China Resources Beer (Holdings) Company Limited,Consumer Defensive
+TSCDY,Tesco PLC,Consumer Defensive
+GRBMF,"Grupo Bimbo, S.A.B. de C.V.",Consumer Defensive
+TSCDF,Tesco PLC,Consumer Defensive
+CRHKY,China Resources Beer (Holdings) Company Limited,Consumer Defensive
+UNCHF,Unicharm Corporation,Consumer Defensive
+UNICY,Unicharm Corporation,Consumer Defensive
+K,Kellogg Company,Consumer Defensive
+CHD,"Church & Dwight Co., Inc.",Consumer Defensive
+MKC,"McCormick & Company, Incorporated",Consumer Defensive
+CABGY,Carlsberg A/S,Consumer Defensive
+MKC-V,"McCormick & Company, Incorporated",Consumer Defensive
+CABJF,Carlsberg A/S,Consumer Defensive
+IMBBY,Imperial Brands PLC,Consumer Defensive
+IMBBF,Imperial Brands PLC,Consumer Defensive
+TSN,"Tyson Foods, Inc.",Consumer Defensive
+BMBOY,"Grupo Bimbo, S.A.B. de C.V.",Consumer Defensive
+HRL,Hormel Foods Corporation,Consumer Defensive
+CLEGF,Coles Group Limited,Consumer Defensive
+ETTYF,Essity AB (publ),Consumer Defensive
+CLX,The Clorox Company,Consumer Defensive
+SSDOY,"Shiseido Company, Limited",Consumer Defensive
+ASBRF,"Asahi Group Holdings, Ltd.",Consumer Defensive
+TSGTF,Tsingtao Brewery Company Limited,Consumer Defensive
+ASBFY,Associated British Foods plc,Consumer Defensive
+KRYAF,Kerry Group plc,Consumer Defensive
+AJINY,"Ajinomoto Co., Inc.",Consumer Defensive
+TSGTY,Tsingtao Brewery Company Limited,Consumer Defensive
+WNGRF,George Weston Limited,Consumer Defensive
+KAOOY,Kao Corporation,Consumer Defensive
+WLMIY,Wilmar International Limited,Consumer Defensive
+KAOCF,Kao Corporation,Consumer Defensive
+KRYAY,Kerry Group plc,Consumer Defensive
+WLMIF,Wilmar International Limited,Consumer Defensive
+CAG,"Conagra Brands, Inc.",Consumer Defensive
+KOF,"Coca-Cola FEMSA, S.A.B. de C.V.",Consumer Defensive
+DLMAF,Dollarama Inc.,Consumer Defensive
+COCSF,"Coca-Cola FEMSA, S.A.B. de C.V.",Consumer Defensive
+EMBVF,"Arca Continental, S.A.B. de C.V.",Consumer Defensive
+SJM,The J. M. Smucker Company,Consumer Defensive
+LW,"Lamb Weston Holdings, Inc.",Consumer Defensive
+CPB,Campbell Soup Company,Consumer Defensive
+CIADY,China Mengniu Dairy Company Limited,Consumer Defensive
+CIADF,China Mengniu Dairy Company Limited,Consumer Defensive
+JRONY,"Jerónimo Martins, SGPS, S.A.",Consumer Defensive
+CRRFY,Carrefour SA,Consumer Defensive
+CRERF,Carrefour SA,Consumer Defensive
+DVDCF,Davide Campari-Milano N.V.,Consumer Defensive
+DVCMY,Davide Campari-Milano N.V.,Consumer Defensive
+BG,Bunge Limited,Consumer Defensive
+BZLFY,Bunzl plc,Consumer Defensive
+KNBWF,"Kirin Holdings Company, Limited",Consumer Defensive
+MTRAF,Metro Inc.,Consumer Defensive
+BRRLY,Barry Callebaut AG,Consumer Defensive
+KNBWY,"Kirin Holdings Company, Limited",Consumer Defensive
+TAP,Molson Coors Beverage Company,Consumer Defensive
+TAP-A,Molson Coors Beverage Company,Consumer Defensive
+TBVPF,Thai Beverage Public Company Limited,Consumer Defensive
+ACI,"Albertsons Companies, Inc.",Consumer Defensive
+YKLTY,"Yakult Honsha Co.,Ltd.",Consumer Defensive
+STBFY,Suntory Beverage & Food Limited,Consumer Defensive
+BYCBF,Barry Callebaut AG,Consumer Defensive
+CCHGY,Coca-Cola HBC AG,Consumer Defensive
+DQJCY,Pan Pacific International Holdings Corporation,Consumer Defensive
+KIKOY,Kikkoman Corporation,Consumer Defensive
+SAPIF,Saputo Inc.,Consumer Defensive
+KIKOF,Kikkoman Corporation,Consumer Defensive
+BJ,"BJ's Wholesale Club Holdings, Inc.",Consumer Defensive
+COTY,Coty Inc.,Consumer Defensive
+DNOPY,Dino Polska S.A.,Consumer Defensive
+JNJ,Johnson & Johnson,Healthcare
+UNH,UnitedHealth Group Incorporated,Healthcare
+LLY,Eli Lilly and Company,Healthcare
+NVO,Novo Nordisk A/S,Healthcare
+NONOF,Novo Nordisk A/S,Healthcare
+MRK,"Merck & Co., Inc.",Healthcare
+ABBV,AbbVie Inc.,Healthcare
+RHHVF,Roche Holding AG,Healthcare
+RHHBY,Roche Holding AG,Healthcare
+RHHBF,Roche Holding AG,Healthcare
+AZNCF,AstraZeneca PLC,Healthcare
+AZN,AstraZeneca PLC,Healthcare
+PFE,Pfizer Inc.,Healthcare
+NVS,Novartis AG,Healthcare
+NVSEF,Novartis AG,Healthcare
+TMO,Thermo Fisher Scientific Inc.,Healthcare
+ABT,Abbott Laboratories,Healthcare
+DHR,Danaher Corporation,Healthcare
+BMY,Bristol-Myers Squibb Company,Healthcare
+SNYNF,Sanofi,Healthcare
+SNY,Sanofi,Healthcare
+AMGN,Amgen Inc.,Healthcare
+MDT,Medtronic plc,Healthcare
+SYK,Stryker Corporation,Healthcare
+ELV,"Elevance Health, Inc.",Healthcare
+ISRG,"Intuitive Surgical, Inc.",Healthcare
+GILD,"Gilead Sciences, Inc.",Healthcare
+CMXHF,CSL Limited,Healthcare
+CSLLY,CSL Limited,Healthcare
+CVS,CVS Health Corporation,Healthcare
+ESLOY,EssilorLuxottica Société anonyme,Healthcare
+ESLOF,EssilorLuxottica Société anonyme,Healthcare
+REGN,"Regeneron Pharmaceuticals, Inc.",Healthcare
+VRTX,Vertex Pharmaceuticals Incorporated,Healthcare
+ZTS,Zoetis Inc.,Healthcare
+HCA,"HCA Healthcare, Inc.",Healthcare
+MKKGY,Merck KGaA,Healthcare
+MKGAF,Merck KGaA,Healthcare
+GSK,GSK plc,Healthcare
+GLAXF,GSK plc,Healthcare
+CI,The Cigna Group,Healthcare
+BDX,"Becton, Dickinson and Company",Healthcare
+BSX,Boston Scientific Corporation,Healthcare
+SEMHF,Siemens Healthineers AG,Healthcare
+SMMNY,Siemens Healthineers AG,Healthcare
+HUM,Humana Inc.,Healthcare
+DSNKY,"Daiichi Sankyo Company, Limited",Healthcare
+DSKYF,"Daiichi Sankyo Company, Limited",Healthcare
+BAYZF,Bayer Aktiengesellschaft,Healthcare
+BAYRY,Bayer Aktiengesellschaft,Healthcare
+EW,Edwards Lifesciences Corporation,Healthcare
+TAK,Takeda Pharmaceutical Company Limited,Healthcare
+TKPHF,Takeda Pharmaceutical Company Limited,Healthcare
+MRNA,"Moderna, Inc.",Healthcare
+MCK,McKesson Corporation,Healthcare
+DXCM,"DexCom, Inc.",Healthcare
+HLNCF,Haleon plc,Healthcare
+LZAGY,Lonza Group AG,Healthcare
+LZAGF,Lonza Group AG,Healthcare
+BIIB,Biogen Inc.,Healthcare
+CHGCF,"Chugai Pharmaceutical Co., Ltd.",Healthcare
+CHGCY,"Chugai Pharmaceutical Co., Ltd.",Healthcare
+HLN,Haleon plc,Healthcare
+IDXX,"IDEXX Laboratories, Inc.",Healthcare
+A,"Agilent Technologies, Inc.",Healthcare
+CNC,Centene Corporation,Healthcare
+HOCPY,HOYA Corporation,Healthcare
+SGEN,Seagen Inc.,Healthcare
+GEHC,GE HealthCare Technologies Inc.,Healthcare
+ALC,Alcon Inc.,Healthcare
+RMD,ResMed Inc.,Healthcare
+IQV,IQVIA Holdings Inc.,Healthcare
+ABC,AmerisourceBergen Corporation,Healthcare
+MTD,Mettler-Toledo International Inc.,Healthcare
+ILMN,"Illumina, Inc.",Healthcare
+CLPBF,Coloplast A/S,Healthcare
+CLPBY,Coloplast A/S,Healthcare
+WBA,"Walgreens Boots Alliance, Inc.",Healthcare
+ZBH,"Zimmer Biomet Holdings, Inc.",Healthcare
+VEEV,Veeva Systems Inc.,Healthcare
+WUXAY,"WuXi AppTec Co., Ltd.",Healthcare
+BNTX,BioNTech SE,Healthcare
+ALPMY,Astellas Pharma Inc.,Healthcare
+BGNE,"BeiGene, Ltd.",Healthcare
+WST,"West Pharmaceutical Services, Inc.",Healthcare
+GMAB,Genmab A/S,Healthcare
+GNMSF,Genmab A/S,Healthcare
+WXIBF,WuXi Biologics (Cayman) Inc.,Healthcare
+SOAGY,Sartorius Aktiengesellschaft,Healthcare
+HZNP,Horizon Therapeutics Public Limited Company,Healthcare
+WXXWY,WuXi Biologics (Cayman) Inc.,Healthcare
+SRTOY,Sartorius Stedim Biotech S.A.,Healthcare
+ALGN,"Align Technology, Inc.",Healthcare
+ALNY,"Alnylam Pharmaceuticals, Inc.",Healthcare
+SDMHF,Sartorius Stedim Biotech S.A.,Healthcare
+BAX,Baxter International Inc.,Healthcare
+SAUHY,Straumann Holding AG,Healthcare
+SAUHF,Straumann Holding AG,Healthcare
+SARTF,Sartorius Aktiengesellschaft,Healthcare
+JDHIY,JD Health International Inc.,Healthcare
+ARGX,argenx SE,Healthcare
+TRUMF,Terumo Corporation,Healthcare
+PODD,Insulet Corporation,Healthcare
+TRUMY,Terumo Corporation,Healthcare
+OCPNF,Olympus Corporation,Healthcare
+OLYMY,Olympus Corporation,Healthcare
+HOLX,"Hologic, Inc.",Healthcare
+CAH,"Cardinal Health, Inc.",Healthcare
+LH,Laboratory Corporation of America Holdings,Healthcare
+SONVF,Sonova Holding AG,Healthcare
+SONVY,Sonova Holding AG,Healthcare
+PHG,Koninklijke Philips N.V.,Healthcare
+COO,"The Cooper Companies, Inc.",Healthcare
+RYLPF,Koninklijke Philips N.V.,Healthcare
+STE,STERIS plc,Healthcare
+UCBJY,UCB SA,Healthcare
+OTSKY,"Otsuka Holdings Co., Ltd.",Healthcare
+BMRN,BioMarin Pharmaceutical Inc.,Healthcare
+UCBJF,UCB SA,Healthcare
+WAT,Waters Corporation,Healthcare
+MOH,"Molina Healthcare, Inc.",Healthcare
+ESALF,"Eisai Co., Ltd.",Healthcare
+ESAIY,"Eisai Co., Ltd.",Healthcare
+INCY,Incyte Corporation,Healthcare
+PKI,"PerkinElmer, Inc.",Healthcare
+FSNUY,Fresenius SE & Co. KGaA,Healthcare
+MTHRF,"M3, Inc.",Healthcare
+FSNUF,Fresenius SE & Co. KGaA,Healthcare
+MTHRY,"M3, Inc.",Healthcare
+ICLR,ICON Public Limited Company,Healthcare
+RPRX,Royalty Pharma plc,Healthcare
+DGX,Quest Diagnostics Incorporated,Healthcare
+SNN,Smith & Nephew plc,Healthcare
+FMS,Fresenius Medical Care AG & Co. KGaA,Healthcare
+SNNUF,Smith & Nephew plc,Healthcare
+FMCQF,Fresenius Medical Care AG & Co. KGaA,Healthcare
+ERFSF,Eurofins Scientific SE,Healthcare
+BIO,"Bio-Rad Laboratories, Inc.",Healthcare
+SSMXY,Sysmex Corporation,Healthcare
+SGIOY,"Shionogi & Co., Ltd.",Healthcare
+TFX,Teleflex Incorporated,Healthcare
+TECH,Bio-Techne Corporation,Healthcare
+BMXMF,bioMérieux S.A.,Healthcare
+CZMWF,Carl Zeiss Meditec AG,Healthcare
+CSPCY,CSPC Pharmaceutical Group Limited,Healthcare
+CZMWY,Carl Zeiss Meditec AG,Healthcare
+BRKR,Bruker Corporation,Healthcare
+EXAS,Exact Sciences Corporation,Healthcare
+SHTDF,Sinopharm Group Co. Ltd.,Healthcare
+SRPT,"Sarepta Therapeutics, Inc.",Healthcare
+LEGN,Legend Biotech Corporation,Healthcare
+SFOSF,"Shanghai Fosun Pharmaceutical (Group) Co., Ltd.",Healthcare
+SKHCF,Sonic Healthcare Limited,Healthcare
+VTRS,Viatris Inc.,Healthcare
+SKHHY,Sonic Healthcare Limited,Healthcare
+SHTDY,Sinopharm Group Co. Ltd.,Healthcare
+CHEOF,Cochlear Limited,Healthcare
+SBHMY,Sino Biopharmaceutical Limited,Healthcare
+PEN,"Penumbra, Inc.",Healthcare
+CHEOY,Cochlear Limited,Healthcare
+UTHR,United Therapeutics Corporation,Healthcare
+SWAV,"Shockwave Medical, Inc.",Healthcare
+HSIC,"Henry Schein, Inc.",Healthcare
+UHS,"Universal Health Services, Inc.",Healthcare
+SBMFF,Sino Biopharmaceutical Limited,Healthcare
+QGEN,Qiagen N.V.,Healthcare
+OPHLF,"Ono Pharmaceutical Co., Ltd.",Healthcare
+AGL,"agilon health, inc.",Healthcare
+FSPKF,Fisher & Paykel Healthcare Corporation Limited,Healthcare
+RDY,Dr. Reddy's Laboratories Limited,Healthcare
+NEE,"NextEra Energy, Inc.",Utilities
+IBDSF,"Iberdrola, S.A.",Utilities
+IBDRY,"Iberdrola, S.A.",Utilities
+SO,The Southern Company,Utilities
+DUK,Duke Energy Corporation,Utilities
+NEE-PR,"NextEra Energy, Inc.",Utilities
+ESOCF,Enel SpA,Utilities
+ENLAY,Enel SpA,Utilities
+DUK-PA,Duke Energy Corporation,Utilities
+NGG,National Grid plc,Utilities
+NGGTF,National Grid plc,Utilities
+ECIFY,Electricité de France S.A.,Utilities
+PPWLM,PacifiCorp,Utilities
+SRE,Sempra Energy,Utilities
+D,"Dominion Energy, Inc.",Utilities
+AEP,"American Electric Power Company, Inc.",Utilities
+EXC,Exelon Corporation,Utilities
+ENGIY,Engie SA,Utilities
+ENGQF,Engie SA,Utilities
+PCG,PG&E Corporation,Utilities
+XEL,Xcel Energy Inc.,Utilities
+DNNGY,Ørsted A/S,Utilities
+DOGEF,Ørsted A/S,Utilities
+ENAKF,E.ON SE,Utilities
+EONGY,E.ON SE,Utilities
+UNPRF,Uniper SE,Utilities
+ED,"Consolidated Edison, Inc.",Utilities
+RWEOY,RWE Aktiengesellschaft,Utilities
+PEG,Public Service Enterprise Group Incorporated,Utilities
+RWNFF,RWE Aktiengesellschaft,Utilities
+WEC,"WEC Energy Group, Inc.",Utilities
+GASNY,"Naturgy Energy Group, S.A.",Utilities
+AWK,"American Water Works Company, Inc.",Utilities
+EIX,Edison International,Utilities
+ES,Eversource Energy,Utilities
+SSEZF,SSE plc,Utilities
+CEG,Constellation Energy Corporation,Utilities
+SSEZY,SSE plc,Utilities
+EDPFY,"EDP - Energias de Portugal, S.A.",Utilities
+ELEZY,"Endesa, S.A.",Utilities
+AEE,Ameren Corporation,Utilities
+DTE,DTE Energy Company,Utilities
+EDRVF,"EDP Renováveis, S.A.",Utilities
+ETR,Entergy Corporation,Utilities
+FE,FirstEnergy Corp.,Utilities
+FTS,Fortis Inc.,Utilities
+ELP,Companhia Paranaense de Energia - COPEL,Utilities
+PPL,PPL Corporation,Utilities
+BEP,Brookfield Renewable Partners L.P.,Utilities
+CNP,"CenterPoint Energy, Inc.",Utilities
+CLPHY,CLP Holdings Limited,Utilities
+SNMRY,Snam S.p.A.,Utilities
+CMS,CMS Energy Corporation,Utilities
+HUNGF,"Huaneng Power International, Inc.",Utilities
+NMK-PC,Niagara Mohawk Power Corporation PFD 3.90%,Utilities
+HRNNF,Hydro One Limited,Utilities
+TEZNY,Terna S.p.A.,Utilities
+HOKCF,The Hong Kong and China Gas Company Limited,Utilities
+HOKCY,The Hong Kong and China Gas Company Limited,Utilities
+ATO,Atmos Energy Corporation,Utilities
+EBR-B,Centrais Elétricas Brasileiras S.A. - Eletrobrás,Utilities
+CLPXY,China Longyuan Power Group Corporation Limited,Utilities
+BIP,Brookfield Infrastructure Partners L.P.,Utilities
+AES,The AES Corporation,Utilities
+XNGSF,ENN Energy Holdings Limited,Utilities
+XNGSY,ENN Energy Holdings Limited,Utilities
+AGR,"Avangrid, Inc.",Utilities
+EBR,Centrais Elétricas Brasileiras S.A. - Eletrobrás,Utilities
+CKISF,CK Infrastructure Holdings Limited,Utilities
+EVRG,"Evergy, Inc.",Utilities
+LNT,Alliant Energy Corporation,Utilities
+FOJCF,Fortum Oyj,Utilities
+FOJCY,Fortum Oyj,Utilities
+HGKGY,Power Assets Holdings Limited,Utilities
+HGKGF,Power Assets Holdings Limited,Utilities
+NI,NiSource Inc.,Utilities
+EMRAF,Emera Incorporated,Utilities
+WTRG,"Essential Utilities, Inc.",Utilities
+NI-PB,NiSource Inc.,Utilities
+RDEIF,"Red Eléctrica Corporación, S.A.",Utilities
+GOOG,Alphabet Inc.,Communication Services
+GOOGL,Alphabet Inc.,Communication Services
+META,"Meta Platforms, Inc.",Communication Services
+TCTZF,Tencent Holdings Limited,Communication Services
+TCEHY,Tencent Holdings Limited,Communication Services
+PROSY,Prosus N.V.,Communication Services
+PROSF,Prosus N.V.,Communication Services
+DIS,The Walt Disney Company,Communication Services
+CMCSA,Comcast Corporation,Communication Services
+TMUS,"T-Mobile US, Inc.",Communication Services
+VZ,Verizon Communications Inc.,Communication Services
+NFLX,"Netflix, Inc.",Communication Services
+T,AT&T Inc.,Communication Services
+DTEGF,Deutsche Telekom AG,Communication Services
+DTEGY,Deutsche Telekom AG,Communication Services
+NPPXF,Nippon Telegraph and Telephone Corporation,Communication Services
+NTTYY,Nippon Telegraph and Telephone Corporation,Communication Services
+AMX,"América Móvil, S.A.B. de C.V.",Communication Services
+AMXOF,"América Móvil, S.A.B. de C.V.",Communication Services
+KDDIY,KDDI Corporation,Communication Services
+KDDIF,KDDI Corporation,Communication Services
+ATVI,"Activision Blizzard, Inc.",Communication Services
+NTES,"NetEase, Inc.",Communication Services
+NETTF,"NetEase, Inc.",Communication Services
+CHTR,"Charter Communications, Inc.",Communication Services
+SFTBY,SoftBank Group Corp.,Communication Services
+SFBQF,SoftBank Corp.,Communication Services
+SFTBF,SoftBank Group Corp.,Communication Services
+SOBKY,SoftBank Corp.,Communication Services
+NTDOF,"Nintendo Co., Ltd.",Communication Services
+NTDOY,"Nintendo Co., Ltd.",Communication Services
+BCE,BCE Inc.,Communication Services
+BIDU,"Baidu, Inc.",Communication Services
+BAIDF,"Baidu, Inc.",Communication Services
+UNVGY,Universal Music Group N.V.,Communication Services
+UMGNF,Universal Music Group N.V.,Communication Services
+NPSNY,Naspers Limited,Communication Services
+NAPRF,Naspers Limited,Communication Services
+SWZCF,Swisscom AG,Communication Services
+SCMWY,Swisscom AG,Communication Services
+EA,Electronic Arts Inc.,Communication Services
+ORAN,Orange S.A.,Communication Services
+TLGPY,Telstra Group Limited,Communication Services
+FNCTF,Orange S.A.,Communication Services
+TTRAF,Telstra Group Limited,Communication Services
+WBD,"Warner Bros. Discovery, Inc.",Communication Services
+VODPF,Vodafone Group Public Limited Company,Communication Services
+VOD,Vodafone Group Public Limited Company,Communication Services
+CHT,"Chunghwa Telecom Co., Ltd.",Communication Services
+SNGNF,Singapore Telecommunications Limited,Communication Services
+SGAPY,Singapore Telecommunications Limited,Communication Services
+TU,TELUS Corporation,Communication Services
+KUASF,Kuaishou Technology,Communication Services
+TLKMF,Perusahaan Perseroan (Persero) PT Telekomunikasi Indonesia Tbk,Communication Services
+TEFOF,"Telefónica, S.A.",Communication Services
+TLK,Perusahaan Perseroan (Persero) PT Telekomunikasi Indonesia Tbk,Communication Services
+RCI,Rogers Communications Inc.,Communication Services
+TEF,"Telefónica, S.A.",Communication Services
+SPOT,Spotify Technology S.A.,Communication Services
+DASH,"DoorDash, Inc.",Communication Services
+RBLX,Roblox Corporation,Communication Services
+TTWO,"Take-Two Interactive Software, Inc.",Communication Services
+PUBGY,Publicis Groupe S.A.,Communication Services
+BTGOF,BT Group plc,Communication Services
+BOIVF,Bolloré SE,Communication Services
+CHWRF,China Tower Corporation Limited,Communication Services
+NEXOY,"NEXON Co., Ltd.",Communication Services
+AVIFY,Advanced Info Service Public Company Limited,Communication Services
+OMC,Omnicom Group Inc.,Communication Services
+TELNF,Telenor ASA,Communication Services
+TELNY,Telenor ASA,Communication Services
+FOX,Fox Corporation,Communication Services
+FOXA,Fox Corporation,Communication Services
+FWONK,Formula One Group,Communication Services
+FWONA,Formula One Group,Communication Services
+PINS,"Pinterest, Inc.",Communication Services
+WMG,Warner Music Group Corp.,Communication Services
+LYV,"Live Nation Entertainment, Inc.",Communication Services
+PARA,Paramount Global,Communication Services
+PARAA,Paramount Global,Communication Services
+SIRI,Sirius XM Holdings Inc.,Communication Services
+KKPNY,Koninklijke KPN N.V.,Communication Services
+KKPNF,Koninklijke KPN N.V.,Communication Services
+IPG,"The Interpublic Group of Companies, Inc.",Communication Services
+SNAP,Snap Inc.,Communication Services
+VIV,Telefônica Brasil S.A.,Communication Services
+TME,Tencent Music Entertainment Group,Communication Services
+MTNOY,MTN Group Limited,Communication Services
+WPP,WPP plc,Communication Services
+IFJPY,Informa plc,Communication Services
+WPPGF,WPP plc,Communication Services
+LBRDK,Liberty Broadband Corporation,Communication Services
+LBRDA,Liberty Broadband Corporation,Communication Services
+LBRDB,Liberty Broadband Corporation,Communication Services
+VDMCY,Vodacom Group Limited,Communication Services
+VIVEF,Vivendi SE,Communication Services
+VIVHY,Vivendi SE,Communication Services
+TLSNY,Telia Company AB (publ),Communication Services
+TLSNF,Telia Company AB (publ),Communication Services
+TELDF,Telefónica Deutschland Holding AG,Communication Services
+ELMUF,Elisa Oyj,Communication Services
+MTCH,"Match Group, Inc.",Communication Services
+ZG,"Zillow Group, Inc.",Communication Services
+NWSA,News Corporation,Communication Services
+Z,"Zillow Group, Inc.",Communication Services
+NWS,News Corporation,Communication Services
+XOM,Exxon Mobil Corporation,Energy
+CVX,Chevron Corporation,Energy
+SHEL,Shell plc,Energy
+RYDAF,Shell plc,Energy
+PCCYF,PetroChina Company Limited,Energy
+TTE,TotalEnergies SE,Energy
+TTFNF,TotalEnergies SE,Energy
+COP,ConocoPhillips,Energy
+BP,BP p.l.c.,Energy
+BPAQF,BP p.l.c.,Energy
+SNPMF,China Petroleum & Chemical Corporation,Energy
+EQNR,Equinor ASA,Energy
+STOHF,Equinor ASA,Energy
+CUAEF,China Shenhua Energy Company Limited,Energy
+CSUAY,China Shenhua Energy Company Limited,Energy
+ENB,Enbridge Inc.,Energy
+EBBNF,Enbridge Inc.,Energy
+SLB,Schlumberger Limited,Energy
+EOG,"EOG Resources, Inc.",Energy
+PBR,Petróleo Brasileiro S.A. - Petrobras,Energy
+CNQ,Canadian Natural Resources Limited,Energy
+PBR-A,Petróleo Brasileiro S.A. - Petrobras,Energy
+EPD,Enterprise Products Partners L.P.,Energy
+OXY,Occidental Petroleum Corporation,Energy
+MPC,Marathon Petroleum Corporation,Energy
+PXD,Pioneer Natural Resources Company,Energy
+E,Eni S.p.A.,Energy
+PSX,Phillips 66,Energy
+HES,Hess Corporation,Energy
+WOPEF,Woodside Energy Group Ltd,Energy
+WDS,Woodside Energy Group Ltd,Energy
+TRP,TC Energy Corporation,Energy
+VLO,Valero Energy Corporation,Energy
+SU,Suncor Energy Inc.,Energy
+ET,Energy Transfer LP,Energy
+KMI,"Kinder Morgan, Inc.",Energy
+LNG,"Cheniere Energy, Inc.",Energy
+NTOIY,Neste Oyj,Energy
+WMB,"The Williams Companies, Inc.",Energy
+NTOIF,Neste Oyj,Energy
+MPLX,MPLX LP,Energy
+DVN,Devon Energy Corporation,Energy
+CVE,Cenovus Energy Inc.,Energy
+BKR,Baker Hughes Company,Energy
+IMO,Imperial Oil Limited,Energy
+HAL,Halliburton Company,Energy
+OKE,"ONEOK, Inc.",Energy
+FANG,"Diamondback Energy, Inc.",Energy
+CQP,"Cheniere Energy Partners, L.P.",Energy
+YZCAY,Yankuang Energy Group Company Limited,Energy
+EC,Ecopetrol S.A.,Energy
+REPYF,"Repsol, S.A.",Energy
+CTRA,Coterra Energy Inc.,Energy
+REPYY,"Repsol, S.A.",Energy
+PTXLF,PTT Exploration and Production Public Company Limited,Energy
+PBA,Pembina Pipeline Corporation,Energy
+IEP,Icahn Enterprises L.P.,Energy
+TRGP,Targa Resources Corp.,Energy
+TS,Tenaris S.A.,Energy
+SSLZY,Santos Limited,Energy
+STOSF,Santos Limited,Energy
+OMVKY,OMV Aktiengesellschaft,Energy
+OMVJF,OMV Aktiengesellschaft,Energy
+TRMLF,Tourmaline Oil Corp.,Energy
+AKRBY,Aker BP ASA,Energy
+AKRBF,Aker BP ASA,Energy
+MRO,Marathon Oil Corporation,Energy
+CCOZF,China Coal Energy Company Limited,Energy
+IPXHF,Inpex Corporation,Energy
+IPXHY,Inpex Corporation,Energy
+EQT,EQT Corporation,Energy
+CCJ,Cameco Corporation,Energy
+APA,APA Corporation,Energy
+TPL,Texas Pacific Land Corporation,Energy
+MMP,"Magellan Midstream Partners, L.P.",Energy
+CHK,Chesapeake Energy Corporation,Energy
+WES,"Western Midstream Partners, LP",Energy
+LTMAY,LATAM Airlines Group S.A.,Industrials
+SGSOY,SGS SA,Industrials
+UPS,"United Parcel Service, Inc.",Industrials
+RLLCF,Rolls-Royce Holdings plc,Industrials
+RTX,Raytheon Technologies Corporation,Industrials
+HON,Honeywell International Inc.,Industrials
+SMAWF,Siemens Aktiengesellschaft,Industrials
+SIEGY,Siemens Aktiengesellschaft,Industrials
+BA,The Boeing Company,Industrials
+UNP,Union Pacific Corporation,Industrials
+LMT,Lockheed Martin Corporation,Industrials
+EADSY,Airbus SE,Industrials
+CAT,Caterpillar Inc.,Industrials
+DE,Deere & Company,Industrials
+EADSF,Airbus SE,Industrials
+GE,General Electric Company,Industrials
+SBGSF,Schneider Electric S.E.,Industrials
+SBGSY,Schneider Electric S.E.,Industrials
+ADP,"Automatic Data Processing, Inc.",Industrials
+CNI,Canadian National Railway Company,Industrials
+ITW,Illinois Tool Works Inc.,Industrials
+CP,Canadian Pacific Kansas City Limited,Industrials
+VCISF,Vinci SA,Industrials
+NOC,Northrop Grumman Corporation,Industrials
+ATLKY,Atlas Copco AB,Industrials
+VCISY,Vinci SA,Industrials
+SAFRY,Safran SA,Industrials
+WM,"Waste Management, Inc.",Industrials
+ABB,ABB Ltd,Industrials
+SAFRF,Safran SA,Industrials
+ABLZF,ABB Ltd,Industrials
+ETN,Eaton Corporation plc,Industrials
+ATLPF,Atlas Copco AB,Industrials
+ATLCY,Atlas Copco AB,Industrials
+RLXXF,RELX PLC,Industrials
+RELX,RELX PLC,Industrials
+CSX,CSX Corporation,Industrials
+TRI,Thomson Reuters Corporation,Industrials
+GD,General Dynamics Corporation,Industrials
+MMM,3M Company,Industrials
+DPSGY,Deutsche Post AG,Industrials
+FDX,FedEx Corporation,Industrials
+DPSTF,Deutsche Post AG,Industrials
+HLAGF,Hapag-Lloyd Aktiengesellschaft,Industrials
+HPGLY,Hapag-Lloyd Aktiengesellschaft,Industrials
+MSBHF,Mitsubishi Corporation,Industrials
+DKILY,"Daikin Industries,Ltd.",Industrials
+MTSUY,Mitsubishi Corporation,Industrials
+HTHIF,"Hitachi, Ltd.",Industrials
+DKILF,"Daikin Industries,Ltd.",Industrials
+HTHIY,"Hitachi, Ltd.",Industrials
+RTLLF,RATIONAL Aktiengesellschaft,Industrials
+ITOCF,ITOCHU Corporation,Industrials
+ITOCY,ITOCHU Corporation,Industrials
+MITSY,"Mitsui & Co., Ltd.",Industrials
+MITSF,"Mitsui & Co., Ltd.",Industrials
+EMR,Emerson Electric Co.,Industrials
+CTAS,Cintas Corporation,Industrials
+NSC,Norfolk Southern Corporation,Industrials
+RSG,"Republic Services, Inc.",Industrials
+RCRUY,"Recruit Holdings Co., Ltd.",Industrials
+RCRRF,"Recruit Holdings Co., Ltd.",Industrials
+VOLVF,AB Volvo (publ),Industrials
+VLVLY,AB Volvo (publ),Industrials
+TT,Trane Technologies plc,Industrials
+TDG,TransDigm Group Incorporated,Industrials
+PH,Parker-Hannifin Corporation,Industrials
+JCI,Johnson Controls International plc,Industrials
+DSDVY,DSV A/S,Industrials
+DSDVF,DSV A/S,Industrials
+PAYX,"Paychex, Inc.",Industrials
+BAESY,BAE Systems plc,Industrials
+VOLAF,AB Volvo (publ),Industrials
+PCAR,PACCAR Inc,Industrials
+BAESF,BAE Systems plc,Industrials
+LHX,"L3Harris Technologies, Inc.",Industrials
+CTPCY,CITIC Limited,Industrials
+WCN,"Waste Connections, Inc.",Industrials
+KHNGY,Kuehne + Nagel International AG,Industrials
+WEGZY,WEG S.A.,Industrials
+OTIS,Otis Worldwide Corporation,Industrials
+ODFL,"Old Dominion Freight Line, Inc.",Industrials
+KHNGF,Kuehne + Nagel International AG,Industrials
+GWW,"W.W. Grainger, Inc.",Industrials
+CARR,Carrier Global Corporation,Industrials
+WTKWY,Wolters Kluwer N.V.,Industrials
+CMI,Cummins Inc.,Industrials
+EXPGY,Experian plc,Industrials
+THLLY,Thales S.A.,Industrials
+AIPUY,Airports of Thailand Public Company Limited,Industrials
+FANUY,Fanuc Corporation,Industrials
+THLEF,Thales S.A.,Industrials
+ROK,"Rockwell Automation, Inc.",Industrials
+SMCAY,SMC Corporation,Industrials
+SMECF,SMC Corporation,Industrials
+EXPGF,Experian plc,Industrials
+AME,"AMETEK, Inc.",Industrials
+FANUF,Fanuc Corporation,Industrials
+TRAUF,Transurban Group,Industrials
+AMKBF,A.P. Møller - Mærsk A/S,Industrials
+AMKBY,A.P. Møller - Mærsk A/S,Industrials
+FAST,Fastenal Company,Industrials
+MTCPY,MTR Corporation Limited,Industrials
+APTPF,Airports of Thailand Public Company Limited,Industrials
+CODYY,Compagnie de Saint-Gobain S.A.,Industrials
+AMKAF,A.P. Møller - Mærsk A/S,Industrials
+SWRAY,Swire Pacific Limited,Industrials
+GPN,Global Payments Inc.,Industrials
+CODGF,Compagnie de Saint-Gobain S.A.,Industrials
+KNYJF,KONE Oyj,Industrials
+KNYJY,KONE Oyj,Industrials
+FERG,Ferguson plc,Industrials
+NJDCY,Nidec Corporation,Industrials
+NNDNF,Nidec Corporation,Industrials
+VRSK,"Verisk Analytics, Inc.",Industrials
+VWDRY,Vestas Wind Systems A/S,Industrials
+VWSYF,Vestas Wind Systems A/S,Industrials
+CRWOF,China Railway Group Limited,Industrials
+DTRUY,Daimler Truck Holding AG,Industrials
+DTGHF,Daimler Truck Holding AG,Industrials
+MIELY,Mitsubishi Electric Corporation,Industrials
+ASAZY,ASSA ABLOY AB (publ),Industrials
+CKHUF,CK Hutchison Holdings Limited,Industrials
+MIELF,Mitsubishi Electric Corporation,Industrials
+ASAZF,ASSA ABLOY AB (publ),Industrials
+SDVKY,Sandvik AB (publ),Industrials
+CKHUY,CK Hutchison Holdings Limited,Industrials
+LGRDY,Legrand SA,Industrials
+ANNSF,"Aena S.M.E., S.A.",Industrials
+EFX,Equifax Inc.,Industrials
+SDVKF,Sandvik AB (publ),Industrials
+ANYYY,"Aena S.M.E., S.A.",Industrials
+ASHTY,Ashtead Group plc,Industrials
+NIABY,NIBE Industrier AB (publ),Industrials
+ASHTF,Ashtead Group plc,Industrials
+URI,"United Rentals, Inc.",Industrials
+PWR,"Quanta Services, Inc.",Industrials
+CJPRY,Central Japan Railway Company,Industrials
+MARUY,Marubeni Corporation,Industrials
+EPOKY,Epiroc AB (publ),Industrials
+MARUF,Marubeni Corporation,Industrials
+CICOY,"COSCO SHIPPING Holdings Co., Ltd.",Industrials
+KMTUF,Komatsu Ltd.,Industrials
+KMTUY,Komatsu Ltd.,Industrials
+CICOF,"COSCO SHIPPING Holdings Co., Ltd.",Industrials
+SHLRF,Schindler Holding AG,Industrials
+SHLAF,Schindler Holding AG,Industrials
+IR,Ingersoll Rand Inc.,Industrials
+ZTO,ZTO Express (Cayman) Inc.,Industrials
+FRRVY,"Ferrovial, S.A.",Industrials
+NDRBF,NIBE Industrier AB (publ),Industrials
+VEOEY,Veolia Environnement SA,Industrials
+VEOEF,Veolia Environnement SA,Industrials
+EPIAF,Epiroc AB (publ),Industrials
+SSUMF,Sumitomo Corporation,Industrials
+SSUMY,Sumitomo Corporation,Industrials
+DAL,"Delta Air Lines, Inc.",Industrials
+RYAAY,Ryanair Holdings plc,Industrials
+EJPRY,East Japan Railway Company,Industrials
+FUJIY,FUJIFILM Holdings Corporation,Industrials
+DOV,Dover Corporation,Industrials
+HEI,HEICO Corporation,Industrials
+RTO,Rentokil Initial plc,Industrials
+HEI-A,HEICO Corporation,Industrials
+TTNDF,Techtronic Industries Company Limited,Industrials
+SMEGF,Siemens Energy AG,Industrials
+TTNDY,Techtronic Industries Company Limited,Industrials
+SMNEY,Siemens Energy AG,Industrials
+GBERY,Geberit AG,Industrials
+GBERF,Geberit AG,Industrials
+KYOCY,Kyocera Corporation,Industrials
+CNHI,CNH Industrial N.V.,Industrials
+XYL,Xylem Inc.,Industrials
+HWM,Howmet Aerospace Inc.,Industrials
+TYIDY,Toyota Industries Corporation,Industrials
+JBHT,"J.B. Hunt Transport Services, Inc.",Industrials
+KUBTY,Kubota Corporation,Industrials
+LUV,Southwest Airlines Co.,Industrials
+KUBTF,Kubota Corporation,Industrials
+EXPD,"Expeditors International of Washington, Inc.",Industrials
+WAB,Westinghouse Air Brake Technologies Corporation,Industrials
+CHKIF,China Southern Airlines Company Limited,Industrials
+WSPOF,WSP Global Inc.,Industrials
+RYCEY,Rolls-Royce Holdings plc,Industrials
+RYCEF,Rolls-Royce Holdings plc,Industrials
+DUAVF,Dassault Aviation Société anonyme,Industrials
+SDXOF,Sodexo S.A.,Industrials
+SDXAY,Sodexo S.A.,Industrials
+BZ,Kanzhun Limited,Industrials
+IEX,IDEX Corporation,Industrials
+AXON,"Axon Enterprise, Inc.",Industrials
+ALFVY,Alfa Laval Corporate AB,Industrials
+MLLUY,Metallurgical Corporation of China Ltd.,Industrials
+TYHOF,Toyota Tsusho Corporation,Industrials
+J,Jacobs Solutions Inc.,Industrials
+CEAYY,China Eastern Airlines Corporation Limited,Industrials
+HUBB,Hubbell Incorporated,Industrials
+UAL,"United Airlines Holdings, Inc.",Industrials
+WEICY,"Weichai Power Co., Ltd.",Industrials
+JMHLY,Jardine Matheson Holdings Limited,Industrials
+MTUAY,MTU Aero Engines AG,Industrials
+TOSYY,Toshiba Corporation,Industrials
+TOSBF,Toshiba Corporation,Industrials
+MTUAF,MTU Aero Engines AG,Industrials
+JARLF,Jardine Matheson Holdings Limited,Industrials
+SOMLF,"SECOM CO., LTD.",Industrials
+OROVF,Orient Overseas (International) Limited,Industrials
+SNA,Snap-on Incorporated,Industrials
+POOL,Pool Corporation,Industrials
+SOMLY,"SECOM CO., LTD.",Industrials
+TXT,Textron Inc.,Industrials
+TLPFY,Teleperformance SE,Industrials
+WEICF,"Weichai Power Co., Ltd.",Industrials
+BOUYY,Bouygues SA,Industrials
+WSO-B,"Watsco, Inc.",Industrials
+TLPFF,Teleperformance SE,Industrials
+AER,AerCap Holdings N.V.,Industrials
+WSO,"Watsco, Inc.",Industrials
+GFL,GFL Environmental Inc.,Industrials
+OROVY,Orient Overseas (International) Limited,Industrials
+GGG,Graco Inc.,Industrials
+SINGF,Singapore Airlines Limited,Industrials
+TRU,TransUnion,Industrials
+BVVBY,Bureau Veritas SA,Industrials
+SINGY,Singapore Airlines Limited,Industrials
+BXBLY,Brambles Limited,Industrials
+SWK,"Stanley Black & Decker, Inc.",Industrials
+BLDR,"Builders FirstSource, Inc.",Industrials
+MHVYF,"Mitsubishi Heavy Industries, Ltd.",Industrials
+GPOVY,"Grupo Carso, S.A.B. de C.V.",Industrials
+RNMBF,Rheinmetall AG,Industrials
+DLAKY,Deutsche Lufthansa AG,Industrials
+GCTAY,"Siemens Gamesa Renewable Energy, S.A.",Industrials
+KGSPY,Kingspan Group plc,Industrials
+BAH,Booz Allen Hamilton Holding Corporation,Industrials
+RNMBY,Rheinmetall AG,Industrials
+DLAKF,Deutsche Lufthansa AG,Industrials
+GPOVF,"Grupo Carso, S.A.B. de C.V.",Industrials
+NDSN,Nordson Corporation,Industrials
+LZRFY,Localiza Rent a Car S.A.,Industrials
+MAS,Masco Corporation,Industrials
+NYUKF,Nippon Yusen Kabushiki Kaisha,Industrials
+NPNYY,Nippon Yusen Kabushiki Kaisha,Industrials
+PRYMF,Prysmian S.p.A.,Industrials
+CHRW,"C.H. Robinson Worldwide, Inc.",Industrials
+ACM,AECOM,Industrials
+TRATF,Traton SE,Industrials
+PRYMY,Prysmian S.p.A.,Industrials
+EFGSY,Eiffage SA,Industrials
+HLMAF,Halma plc,Industrials
+HALMY,Halma plc,Industrials
+CSL,Carlisle Companies Incorporated,Industrials
+UHAL,U-Haul Holding Company,Industrials
+TTC,The Toro Company,Industrials
+UHAL-B,U-Haul Holding Company,Industrials
+SPXSY,Spirax-Sarco Engineering plc,Industrials
+SCVPF,The Siam Cement Public Company Limited,Industrials
+YASKY,YASKAWA Electric Corporation,Industrials
+WJRYY,West Japan Railway Company,Industrials
+VACNY,VAT Group AG,Industrials
+RBA,Ritchie Bros. Auctioneers Incorporated,Industrials
+AOS,A. O. Smith Corporation,Industrials
+ALNPY,ANA Holdings Inc.,Industrials
+GMXTF,"GMéxico Transportes, S.A.B. de C.V.",Industrials
+ALNPF,ANA Holdings Inc.,Industrials
+JDLGF,"JD Logistics, Inc.",Industrials
+SPXSF,Spirax-Sarco Engineering plc,Industrials
+ACXIF,"Acciona, S.A.",Industrials
+LII,Lennox International Inc.,Industrials
+AAPL,Apple Inc.,Technology
+MSFT,Microsoft Corporation,Technology
+NVDA,NVIDIA Corporation,Technology
+TSM,Taiwan Semiconductor Manufacturing Company Limited,Technology
+AVGO,Broadcom Inc.,Technology
+ASMLF,ASML Holding N.V.,Technology
+ORCL,Oracle Corporation,Technology
+ASML,ASML Holding N.V.,Technology
+CRM,"Salesforce, Inc.",Technology
+CSCO,"Cisco Systems, Inc.",Technology
+ACN,Accenture plc,Technology
+ADBE,Adobe Inc.,Technology
+SAPGF,SAP SE,Technology
+SAP,SAP SE,Technology
+TXN,Texas Instruments Incorporated,Technology
+AMD,"Advanced Micro Devices, Inc.",Technology
+QCOM,QUALCOMM Incorporated,Technology
+INTC,Intel Corporation,Technology
+INTU,Intuit Inc.,Technology
+IBM,International Business Machines Corporation,Technology
+SNEJF,Sony Group Corporation,Technology
+SONY,Sony Group Corporation,Technology
+KYCCF,Keyence Corporation,Technology
+AMAT,"Applied Materials, Inc.",Technology
+NOW,"ServiceNow, Inc.",Technology
+ADI,"Analog Devices, Inc.",Technology
+FISV,"Fiserv, Inc.",Technology
+MU,"Micron Technology, Inc.",Technology
+LRCX,Lam Research Corporation,Technology
+INFY,Infosys Limited,Technology
+UBER,"Uber Technologies, Inc.",Technology
+SHOP,Shopify Inc.,Technology
+DASTY,Dassault Systèmes SE,Technology
+CDNS,"Cadence Design Systems, Inc.",Technology
+SNPS,"Synopsys, Inc.",Technology
+DASTF,Dassault Systèmes SE,Technology
+PANW,"Palo Alto Networks, Inc.",Technology
+TOELY,Tokyo Electron Limited,Technology
+TOELF,Tokyo Electron Limited,Technology
+VMW,"VMware, Inc.",Technology
+KLAC,KLA Corporation,Technology
+ADYEY,Adyen N.V.,Technology
+ADYYF,Adyen N.V.,Technology
+FTNT,"Fortinet, Inc.",Technology
+ANET,"Arista Networks, Inc.",Technology
+MSI,"Motorola Solutions, Inc.",Technology
+ROP,"Roper Technologies, Inc.",Technology
+WDAY,"Workday, Inc.",Technology
+SNOW,Snowflake Inc.,Technology
+IFNNY,Infineon Technologies AG,Technology
+HNHPF,"Hon Hai Precision Industry Co., Ltd.",Technology
+IFNNF,Infineon Technologies AG,Technology
+APH,Amphenol Corporation,Technology
+NXPI,NXP Semiconductors N.V.,Technology
+STM,STMicroelectronics N.V.,Technology
+ADSK,"Autodesk, Inc.",Technology
+CNSWF,Constellation Software Inc.,Technology
+MCHP,Microchip Technology Incorporated,Technology
+TEL,TE Connectivity Ltd.,Technology
+STMEF,STMicroelectronics N.V.,Technology
+TEAM,Atlassian Corporation,Technology
+BSQKZ,"Block, Inc.",Technology
+SQ,"Block, Inc.",Technology
+MRAAY,"Murata Manufacturing Co., Ltd.",Technology
+MRAAF,"Murata Manufacturing Co., Ltd.",Technology
+XIACY,Xiaomi Corporation,Technology
+FIS,"Fidelity National Information Services, Inc.",Technology
+XIACF,Xiaomi Corporation,Technology
+MRVL,"Marvell Technology, Inc.",Technology
+GFS,GLOBALFOUNDRIES Inc.,Technology
+ON,ON Semiconductor Corporation,Technology
+DELL,Dell Technologies Inc.,Technology
+HXGBF,Hexagon AB (publ),Technology
+TTD,"The Trade Desk, Inc.",Technology
+CGEMY,Capgemini SE,Technology
+CAPMF,Capgemini SE,Technology
+HXGBY,Hexagon AB (publ),Technology
+CTSH,Cognizant Technology Solutions Corporation,Technology
+HPQ,HP Inc.,Technology
+CRWD,"CrowdStrike Holdings, Inc.",Technology
+GLW,Corning Incorporated,Technology
+ANSS,"ANSYS, Inc.",Technology
+KEYS,"Keysight Technologies, Inc.",Technology
+WIT,Wipro Limited,Technology
+RNECF,Renesas Electronics Corporation,Technology
+FJTSY,Fujitsu Limited,Technology
+FJTSF,Fujitsu Limited,Technology
+CAJPY,Canon Inc.,Technology
+IT,"Gartner, Inc.",Technology
+GIB,CGI Inc.,Technology
+NOK,Nokia Oyj,Technology
+NOKBF,Nokia Oyj,Technology
+RNECY,Renesas Electronics Corporation,Technology
+VRSN,"VeriSign, Inc.",Technology
+CDW,CDW Corporation,Technology
+ZTCOF,ZTE Corporation,Technology
+ENPH,"Enphase Energy, Inc.",Technology
+FTV,Fortive Corporation,Technology
+PCRFY,Panasonic Holdings Corporation,Technology
+PCRFF,Panasonic Holdings Corporation,Technology
+MPWR,"Monolithic Power Systems, Inc.",Technology
+DDOG,"Datadog, Inc.",Technology
+HUBS,"HubSpot, Inc.",Technology
+IIVI,Coherent Corp.,Technology
+UMC,United Microelectronics Corporation,Technology
+ASMIY,ASM International NV,Technology
+FSLR,"First Solar, Inc.",Technology
+TDY,Teledyne Technologies Incorporated,Technology
+ASMXF,ASM International NV,Technology
+NTDTY,NTT DATA Corporation,Technology
+GRMN,Garmin Ltd.,Technology
+HPE,Hewlett Packard Enterprise Company,Technology
+DIDIY,DiDi Global Inc.,Technology
+FICO,Fair Isaac Corporation,Technology
+ERIC,Telefonaktiebolaget LM Ericsson (publ),Technology
+ERIXF,Telefonaktiebolaget LM Ericsson (publ),Technology
+ZM,"Zoom Video Communications, Inc.",Technology
+PAYC,"Paycom Software, Inc.",Technology
+BR,"Broadridge Financial Solutions, Inc.",Technology
+SWKS,"Skyworks Solutions, Inc.",Technology
+MDB,"MongoDB, Inc.",Technology
+PLTR,Palantir Technologies Inc.,Technology
+EPAM,"EPAM Systems, Inc.",Technology
+SEDG,"SolarEdge Technologies, Inc.",Technology
+ADTTF,Advantest Corporation,Technology
+CHKP,Check Point Software Technologies Ltd.,Technology
+TYL,"Tyler Technologies, Inc.",Technology
+FLT,"FLEETCOR Technologies, Inc.",Technology
+NET,"Cloudflare, Inc.",Technology
+WTCHF,WiseTech Global Limited,Technology
+NURAF,"Nomura Research Institute, Ltd.",Technology
+ASX,"ASE Technology Holding Co., Ltd.",Technology
+NRILY,"Nomura Research Institute, Ltd.",Technology
+KAKZF,Kaspi.kz Joint Stock Company,Technology
+PTC,PTC Inc.,Technology
+ATEYY,Advantest Corporation,Technology
+ZBRA,Zebra Technologies Corporation,Technology
+SSNC,"SS&C Technologies Holdings, Inc.",Technology
+SPLK,Splunk Inc.,Technology
+TER,"Teradyne, Inc.",Technology
+UI,Ubiquiti Inc.,Technology
+NICE,NICE Ltd.,Technology
+NTAP,"NetApp, Inc.",Technology
+TTDKY,TDK Corporation,Technology
+ZS,"Zscaler, Inc.",Technology
+LNVGF,Lenovo Group Limited,Technology
+DISPF,Disco Corporation,Technology
+AKAM,"Akamai Technologies, Inc.",Technology
+LDOS,"Leidos Holdings, Inc.",Technology
+DSCSY,Disco Corporation,Technology
+LSRCY,Lasertec Corporation,Technology
+LNVGY,Lenovo Group Limited,Technology
+BSY,"Bentley Systems, Incorporated",Technology
+LSRCF,Lasertec Corporation,Technology
+WWLNF,Worldline SA,Technology
+WRDLY,Worldline SA,Technology
+DT,"Dynatrace, Inc.",Technology
+STX,Seagate Technology Holdings plc,Technology
+SNPTF,Sunny Optical Technology (Group) Company Limited,Technology
+JKHY,"Jack Henry & Associates, Inc.",Technology
+GDDY,GoDaddy Inc.,Technology
+TRMB,Trimble Inc.,Technology
+SOTGY,Sunny Optical Technology (Group) Company Limited,Technology
+ZI,ZoomInfo Technologies Inc.,Technology
+OMRNY,OMRON Corporation,Technology
+SNTMF,SenseTime Group Inc.,Technology
+AZPN,"Aspen Technology, Inc.",Technology
+OMRNF,OMRON Corporation,Technology
+GEN,Gen Digital Inc.,Technology
+ENTG,"Entegris, Inc.",Technology
+GRAB,Grab Holdings Limited,Technology
+OKTA,"Okta, Inc.",Technology
+DOX,Amdocs Limited,Technology
+WDC,Western Digital Corporation,Technology
+LSCC,Lattice Semiconductor Corporation,Technology
+XM,Qualtrics International Inc.,Technology
+PCTY,Paylocity Holding Corporation,Technology
+NIPNF,NEC Corporation,Technology
+SGPYY,The Sage Group plc,Technology
+SGGEF,The Sage Group plc,Technology
+JBL,Jabil Inc.,Technology
+MANH,"Manhattan Associates, Inc.",Technology
+OTEX,Open Text Corporation,Technology
+U,Unity Software Inc.,Technology
+XNYIF,Xinyi Solar Holdings Limited,Technology
+DOCU,"DocuSign, Inc.",Technology

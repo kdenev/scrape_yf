@@ -5,10 +5,10 @@ from selenium.webdriver import Chrome
 # My url has some filters preselect
 # So my starting state is US and all but small companies
 # Please adjust if needed
-URL = 'https://finance.yahoo.com/screener/unsaved/7a0cd242-0e7e-4051-aa98-af69b52795b2?offset=1&count=100'
+URL = 'https://finance.yahoo.com/screener/unsaved/5153afcc-304f-4656-8438-a91158d94c86'
 
 DELAY = 1
-FILTER_NAMES = ['Exchange', 'Sector']
+FILTER_NAMES = ['Sector']
 DRIVER = Chrome()
 
 # Min or Max the scraping window
@@ -24,4 +24,4 @@ options = get_list_cats(FILTER_NAMES, DRIVER, DELAY)
 # Loop through them and get the table info
 stock_tickers_sectors = loop_filters(options, DRIVER, DELAY)
 # Save output as csv
-stock_tickers_sectors.to_csv('tickers_yf_test.csv', index=False)
+stock_tickers_sectors.to_csv('tickers_yf_test_202304.csv', index=False)
