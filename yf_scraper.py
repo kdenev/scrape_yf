@@ -5,10 +5,12 @@ from selenium.webdriver import Chrome
 # My url has some filters preselect
 # So my starting state is US and all but small companies
 # Please adjust if needed
-URL = 'https://finance.yahoo.com/screener/unsaved/5153afcc-304f-4656-8438-a91158d94c86'
+URL = 'https://finance.yahoo.com/screener/equity/new'
 
 DELAY = 1
-FILTER_NAMES = ['Sector']
+CLASS_FILTER_NAMES = ['Sector']
+VALUE_FILTER_NAME = 'Avg Vol (3 month)'
+VALUE = 1000000
 DRIVER = Chrome()
 
 # Min or Max the scraping window
@@ -18,10 +20,11 @@ DRIVER = Chrome()
 # Load YF screener page
 load_YF_screener(URL, DRIVER, DELAY)
 # Add the filters
-add_filter(FILTER_NAMES, DRIVER, DELAY)
+add_class_filter(CLASS_FILTER_NAMES, DRIVER, DELAY)
+add_value_filter(VALUE_FILTER_NAME, DRIVER, DELAY, VALUE)
 # Get the option values for the filters
-options = get_list_cats(FILTER_NAMES, DRIVER, DELAY)
+options = get_list_cats(CLASS_FILTER_NAMES, DRIVER, DELAY)
 # Loop through them and get the table info
-stock_tickers_sectors = loop_filters(options, DRIVER, DELAY)
+stock_tickers_sectors = loop_filters(options, DRIVER, DELAY, VALUE_FILTER_NAME, VALUE)
 # Save output as csv
 stock_tickers_sectors.to_csv('tickers_yf_test_202304.csv', index=False)

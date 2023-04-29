@@ -27,21 +27,41 @@ def load_YF_screener(url: str, driver: Chrome, delay: int):
     driver.find_element(By.NAME, 'agree').click()
 
 
-def add_filter(filter_names: List[str], driver: Chrome, delay: int):
+def add_class_filter(filter_names: List[str], driver: Chrome, delay: int):
     """
     INPUT: Filter Names -> list(str)
 
     Load a filter to the screener menu.
     """
     driver.implicitly_wait(delay)
-    for filter in filter_names:
-        driver.find_element(
-            By.XPATH, "//span[text()='Add another filter']").click()
-        driver.find_element(By.XPATH, f"//span[text()='{filter}']").click()
-        driver.find_element(By.XPATH, "//span[text()='Close']").click()
-        driver.find_element(By.XPATH, "//span[text()='Add ']").click()
-        driver.find_element(By.XPATH, "//button[@title='Close']").click()
 
+    for filter in filter_names:
+        try:
+            driver.find_element(By.XPATH, f"//span[text()='{filter}']").click()
+            continue
+        except:
+            driver.find_element(
+                By.XPATH, "//span[text()='Add another filter']").click()
+            driver.find_element(By.XPATH, f"//span[text()='{filter}']").click()
+            driver.find_element(By.XPATH, "//span[text()='Close']").click()
+            driver.find_element(By.XPATH, "//span[text()='Add ']").click()
+            driver.find_element(By.XPATH, "//button[@title='Close']").click()
+
+def add_value_filter(filter_name: str, driver: Chrome, delay: int, value: int):
+    """
+    INPUT: Filter Names -> list(str)
+
+    Load a filter to the screener menu.
+    """
+    driver.implicitly_wait(delay)
+
+    driver.find_element(
+        By.XPATH, "//span[text()='Add another filter']").click()
+    driver.find_element(By.XPATH, f"//span[text()='{filter_name}']").click()
+    driver.find_element(By.XPATH, "//span[text()='Close']").click()
+    driver.find_element(By.XPATH, "//span[text()='Add ']").click()
+    driver.find_element(By.XPATH, "//button[@title='Close']").click()
+    driver.find_element(By.XPATH, f"//span[text()='{filter_name}']/ancestor::div[2]//input[@type='text']").send_keys(value)
 
 def get_list_cats(filter_names: List[str], driver: Chrome, delay: int):
     """
@@ -173,7 +193,7 @@ def click_find_stock(driver: Chrome, delay: int):
             By.XPATH, "//span[text()='Screening Criteria has changed.']")) > 0
 
 
-def loop_filters(options: dict, driver: Chrome, delay: int):
+def loop_filters(options: dict, driver: Chrome, delay: int, value_filter:str, value: int):
     """
     INPUT: Filter Options -> dict
     OUTPUT: Scraped Info -> df
@@ -187,7 +207,8 @@ def loop_filters(options: dict, driver: Chrome, delay: int):
 
     for i, key in enumerate(options.keys()):
 
-        add_filter([key], driver, delay)
+        add_class_filter([key], driver, delay)
+        add_value_filter(value_filter, driver, delay, value)
 
         key_df = pd.DataFrame()
 
