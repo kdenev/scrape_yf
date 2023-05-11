@@ -76,16 +76,39 @@ def get_list_cats(filter_names: List[str], driver: Chrome, delay: int):
 
     for filter in filter_names:
 
-        driver.find_element(
-            By.XPATH, f"//span[text()='{filter}']/ancestor::div[2]//div[@role='button']").click()
-        time.sleep(delay)
-        list_li = driver.find_element(
-            By.XPATH, "//input[@type ='checkbox']/ancestor::div[1]").find_elements(By.TAG_NAME, 'li')
+        if filter == 'Industry':
+            for s in list(filter_options.values())[0]:
+                driver.find_element(By.XPATH, f"//span[text()='Sector']/ancestor::div[2]//div[@role='button']").click()
+                time.sleep(delay)
+                driver.find_element(By.XPATH, f"//span[text()='{s}']").click()
+                time.sleep(delay)
+                driver.find_element(By.XPATH, "//button[@title='Close']").click()
 
-        filter_options[filter] = [
-            li.get_attribute('innerText') for li in list_li]
+                driver.find_element(
+                    By.XPATH, f"//span[text()='{filter}']/ancestor::div[2]//div[@role='button']").click()
+                time.sleep(delay)
+                list_li = driver.find_element(
+                    By.XPATH, "//input[@type ='checkbox']/ancestor::div[1]").find_elements(By.TAG_NAME, 'li')
 
-        driver.find_element(By.XPATH, "//button[@title='Close']").click()
+                filter_options[s] = [
+                    li.get_attribute('innerText') for li in list_li]
+                
+                driver.find_element(By.XPATH, "//button[@title='Close']").click()
+                time.sleep(delay)
+                driver.find_element(By.XPATH, f"//span[text()='{s}']").click()
+
+        
+        else:
+            driver.find_element(
+                By.XPATH, f"//span[text()='{filter}']/ancestor::div[2]//div[@role='button']").click()
+            time.sleep(delay)
+            list_li = driver.find_element(
+                By.XPATH, "//input[@type ='checkbox']/ancestor::div[1]").find_elements(By.TAG_NAME, 'li')
+
+            filter_options[filter] = [
+                li.get_attribute('innerText') for li in list_li]
+
+            driver.find_element(By.XPATH, "//button[@title='Close']").click()
 
     # Refresh page - drops the filters
     driver.refresh()
@@ -95,7 +118,7 @@ def get_list_cats(filter_names: List[str], driver: Chrome, delay: int):
     return filter_options
 
 
-def get_page_contents(key: str, option: str, driver: Chrome):
+def get_page_contents(key: str, option: str, industry:str, driver: Chrome):
     """
     INPUT: Target filter -> str
     OUTPUT: Scraped info -> df
@@ -109,7 +132,7 @@ def get_page_contents(key: str, option: str, driver: Chrome):
         By.XPATH, "//a[@data-test ='quoteLink']")]
 
     df = pd.DataFrame(
-        {'symbol': symbols, 'name': names, key: option}
+        {'symbol': symbols, 'name': names, key: option, 'industry':industry}
     )
 
     return df
@@ -134,6 +157,24 @@ def select_filter_option(filter: str, driver: Chrome, delay: int):
     # Wait
     time.sleep(delay)
 
+def select_industry_option(filter: str, driver: Chrome, delay: int):
+    """
+    INPUT: Filter Option Name -> str
+
+    Open the fiter menu and select the provided option.
+    """
+    # Open select tab
+    driver.find_element(By.XPATH, "//li//span[text()='Industry']").click()
+    # Select sector
+    driver.find_element(By.XPATH, f"//label//span[text()='{filter}']").click()
+    # Wait
+    WebDriverWait(driver, delay).until(
+        EC.presence_of_element_located((By.XPATH, "//button[@title='Close']")))
+    # Close the window
+    driver.find_element(
+        By.XPATH, "//button[@title='Close']").click()
+    # Wait
+    time.sleep(delay)
 
 def remove_filter_option(option: str, key: str, driver: Chrome, delay: int):
     """
@@ -214,50 +255,54 @@ def loop_filters(options: dict, driver: Chrome, delay: int, value_filter:str, va
 
         for option in options[key]:
 
-            # Select filter option
+            # Select Sector option
             select_filter_option(option, driver, delay)
 
-            # Filter stocks
-            click_find_stock(driver, delay)
+            for industry in options[option]:
+                # Select Industry option
+                select_industry_option(industry, driver, delay)
 
-            # If empty page or error
-            # take next element
-            try:
-                # Scrape
-                while driver.find_element(By.XPATH, "//button[@aria-label='Jump to last page']").get_attribute('aria-disabled') == 'false':
-                    option_df = get_page_contents(key, option, driver)
+                # Filter stocks
+                click_find_stock(driver, delay)
+
+                # If empty page or error
+                # take next element
+                try:
+                    # Scrape
+                    while driver.find_element(By.XPATH, "//button[@aria-label='Jump to last page']").get_attribute('aria-disabled') == 'false':
+                        option_df = get_page_contents(key, option, driver)
+                        key_df = pd.concat([key_df, option_df])
+                        driver.find_element(
+                            By.XPATH, "//button//span[text()='Next']").click()
+                        time.sleep(delay)
+
+                    # Get last page
+                    option_df = get_page_contents(key, option, industry, driver)
                     key_df = pd.concat([key_df, option_df])
-                    driver.find_element(
-                        By.XPATH, "//button//span[text()='Next']").click()
+
+                    # Refresh and Wait
+                    driver.refresh()
                     time.sleep(delay)
 
-                # Get last page
-                option_df = get_page_contents(key, option, driver)
-                key_df = pd.concat([key_df, option_df])
+                    # Remove filter option
+                    remove_filter_option(industry, key, driver, delay)
 
-                # Refresh and Wait
-                driver.refresh()
-                time.sleep(delay)
+                except:
+                    # Remove filter option and continue
+                    remove_filter_option(industry, key, driver, delay)
 
-                # Remove filter option
-                remove_filter_option(option, key, driver, delay)
+                    continue
 
-            except:
-                # Remove filter option and continue
-                remove_filter_option(option, key, driver, delay)
+            # Remove filter option and continue
+            remove_filter(key, driver, delay)
 
-                continue
-
-        # Remove filter option and continue
-        remove_filter(key, driver, delay)
-
-        # First filter df
-        if i == 0:
-            output_df = key_df
-        # Then join next key df
-        else:
-            output_df = output_df.merge(
-                key_df, on=['symbol', 'name'], how='left')
+            # First filter df
+            if i == 0:
+                output_df = key_df
+            # Then join next key df
+            else:
+                output_df = output_df.merge(
+                    key_df, on=['symbol', 'name'], how='left')
             
     # Close Chrome
     driver.close()
